@@ -29,13 +29,29 @@ Si tu comprends rien aux acronymes `/trad DINSIC` dans Slack.
 * Réunion d'équipe Etalab : mardi 11h30 grand open space
 * [Fridaylab](etalab/fridaylab) : vendredi 14h00-17h00
 
-### Pour l'équipe datagouv 
+### Pour l'équipe [datagouv](https://www.data.gouv.fr/fr/) 
 
 * Réunion datagouv : lundi 15h00 
 
-### Ailleurs à la DINSIC : 
+### Pour l'équipe openfisca 
+
+* Démo [openfisca](https://fr.openfisca.org/) : mercredi 10h00 tous les 15 jours en salle canapé 
+
+### Ailleurs à la DINSIC 
 
 * Stand up de l'incubateur : mercredi 12h00 
+
+## Quels sont nos canaux de communication ? 
+
+### Nos blogs 
+
+* [etalab](http://etalab.gouv.fr/)
+* [Blog de l'AGD](https://agd.data.gouv.fr/)
+
+### Sur Twitter :twitter:
+
+* [@etalab](https://twitter.com/etalab)
+* [@datagouvfr](https://twitter.com/datagouvfr)
 
 ## Comment accéder au bâtiment ?
 
