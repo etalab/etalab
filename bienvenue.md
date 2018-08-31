@@ -20,12 +20,14 @@ Le slack est partagé entre Etalab et l'incubateur de services numériques.
 * Les channels Etalab commencent par le préfixe `etalab_` 
 * Voir aussi `domaine_opendata`
 
+Si tu comprends rien aux acronymes `/trad DINSIC` dans Slack.
+
 ## Quels sont les rituels ?
 
 ### Pour l'équipe Etalab : 
 
 * Réunion d'équipe Etalab : mardi 11h30 grand open space
-* Fridaylab : vendredi 14h00-17h00
+* [Fridaylab](etalab/fridaylab) : vendredi 14h00-17h00
 
 ### Pour l'équipe datagouv 
 
