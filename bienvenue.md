@@ -11,7 +11,7 @@ Pour obtenir un compte modernisation, il faut se renseigner auprès du service i
 
 Pour obtenir un compte datagouv, il faut se renseigner auprès de l'équipe Etalab (Paul-Antoine Chevalier, Christian Quest ou Vincent Bataille)
 
-## Comment tchater avec mes collègues ?
+## :cat: Comment tchater avec mes collègues ? :cat:
 
 * Slack : https://startups-detat.slack.com/
 
@@ -24,7 +24,7 @@ Si tu comprends rien aux acronymes `/trad DINSIC` dans Slack.
 
 ## Quels sont les rituels ?
 
-### Pour l'équipe Etalab : 
+### Pour l'équipe Etalab  
 
 * Réunion d'équipe Etalab : mardi 11h30 grand open space
 * [Fridaylab](etalab/fridaylab) : vendredi 14h00-17h00
