@@ -1,6 +1,6 @@
-## Bienvenue à Etalab
+# Bienvenue à Etalab
 
-C'est quoi mon adresse mail ?
+## C'est quoi mon adresse mail ?
 
 Les agents contractuels ont deux comptes emails :
 
@@ -10,28 +10,43 @@ Les agents contractuels ont deux comptes emails :
 Pour obtenir un compte modernisation, il faut se renseigner auprès du service informatique.
 
 Pour obtenir un compte datagouv, il faut se renseigner auprès de l'équipe Etalab (Paul-Antoine Chevalier, Christian Quest ou Vincent Bataille)
-Comment chatter avec mes collègues ?
 
-S'inscrire sur Slack : https://startups-detat.slack.com/
+## Comment tchater avec mes collègues ?
 
-Le slack est partagé entre Etalab et l'incubateur de services numériques. Tu peux suivre les channels qui commencent par le préfixe `etalab_` ainsi que `domaine_agd` et `domaine_opendata`.
-La réunion d'équipe
+* Slack : https://startups-detat.slack.com/
 
-La réunion d'équipe Etalab a lieu chaque mardi à 11h30 dans le grand open space.
-Comment accéder au bâtiment ?
+Le slack est partagé entre Etalab et l'incubateur de services numériques. 
 
-Les badges sont à récupérer auprès du secrétariat.
-Comment partager des fichiers ?
+* Les channels Etalab commencent par le préfixe `etalab_` 
+* Voir aussi `domaine_opendata`
 
-On peut partager des fichiers sur Nextcloud : nextcloud.data.gouv.fr
-Quels sont nos outils de suivi de projet ?
+## Quels sont les rituels ?
 
-Pour le suivi de projets, on utilise Trello.
+### Pour l'équipe Etalab : 
 
-* https://trello.com/b/lAJGrqiM/data-science
-Comment partager du code source ?
+* Réunion d'équipe Etalab : mardi 11h30 grand open space
+* Fridaylab : vendredi 14h00-17h00
 
-Pour le code source, on utilise Github. Normalement, tu as reçu une invitation pour rejoindre les équipes Etalab et SGMAP-AGD.
+### Pour l'équipe datagouv 
 
-- https://github.com/orgs/etalab
-- https://github.com/sgmap-agd
+* Réunion datagouv : lundi 15h00 
+
+### Ailleurs à la DINSIC : 
+
+* Stand up de l'incubateur : mercredi 12h00 
+
+## Comment accéder au bâtiment ?
+
+- Les badges sont à récupérer auprès du secrétariat.
+
+## Comment partager du code source ?
+
+Pour le code source, on utilise Github : 
+
+* https://github.com/etalab
+* https://github.com/sgmap-agd
+
+## Quels sont nos autres outils ? 
+
+* Pour le partage de fichiers : https://nextcloud.data.gouv.fr
+* Pour le suivi de projets, on utilise Trello : https://trello.com/b/lAJGrqiM/data-science
