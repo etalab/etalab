@@ -1,6 +1,6 @@
 # Bienvenue à Etalab
 
-## C'est quoi mon adresse mail ?
+## :email: C'est quoi mon adresse mail ? :email:
 
 Les agents contractuels ont deux comptes emails :
 
