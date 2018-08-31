@@ -5,7 +5,7 @@
 Les agents contractuels ont deux comptes emails :
 
 * Le compte Modernisation : `prenom.nom@modernisation.gouv.fr`
-* Le compte DataGouv : prenom.nom@data.gouv.fr
+* Le compte DataGouv : `prenom.nom@data.gouv.fr`
 
 Pour obtenir un compte modernisation, il faut se renseigner auprès du service informatique.
 
@@ -51,4 +51,4 @@ Pour le code source, on utilise Github :
 ## Quels sont nos autres outils ? 
 
 * Pour le partage de fichiers : https://nextcloud.data.gouv.fr
-* Pour le suivi de projets, on utilise Trello : https://trello.com/b/lAJGrqiM/data-science
+* Pour le suivi de projets, on utilise Trello : https://trello.com/etalab/home
