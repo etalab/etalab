@@ -27,6 +27,7 @@ Si tu comprends rien aux acronymes `/trad DINSIC` dans Slack.
 ### Pour l'équipe Etalab  
 
 * Réunion d'équipe Etalab : mardi 11h30 grand open space
+* Star Club : lundi 10h30 bureau de Laure (réunion des responsables de pôle)
 * [Fridaylab](etalab/fridaylab) : vendredi 14h00-17h00
 
 ### Pour l'équipe [datagouv](https://www.data.gouv.fr/fr/) 
@@ -35,7 +36,12 @@ Si tu comprends rien aux acronymes `/trad DINSIC` dans Slack.
 
 ### Pour l'équipe openfisca 
 
-* Démo [openfisca](https://fr.openfisca.org/) : mercredi 10h00 tous les 15 jours en salle canapé 
+* Démo [openfisca](https://fr.openfisca.org/) : mercredi 10h00 tous les 15 jours en salle canapé
+
+### Pour l'équipe EIG
+
+* Stand-up hebdomadaire : mardi 14h30
+* Sessions d'accompagnement des EIG 2 fois par mois : [voir programme d'accompagnement](https://github.com/entrepreneur-interet-general/eig-link/blob/master/accompagnement.org)
 
 ### Ailleurs à la DINSIC 
 
@@ -47,6 +53,7 @@ Si tu comprends rien aux acronymes `/trad DINSIC` dans Slack.
 
 * [etalab](http://etalab.gouv.fr/)
 * [Blog de l'AGD](https://agd.data.gouv.fr/)
+* [Blog EIG](https://entrepreneur-interet-general.etalab.gouv.fr/blog.html)
 
 ### Sur Twitter :twitter:
 
