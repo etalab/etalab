@@ -53,12 +53,15 @@ Si tu comprends rien aux acronymes `/trad DINSIC` dans Slack.
 
 * [etalab](http://etalab.gouv.fr/)
 * [Blog de l'AGD](https://agd.data.gouv.fr/)
+* [Blog Géo](https://blog.geo.data.gouv.fr)
 * [Blog EIG](https://entrepreneur-interet-general.etalab.gouv.fr/blog.html)
 
 ### Sur Twitter :twitter:
 
 * [@etalab](https://twitter.com/etalab)
 * [@datagouvfr](https://twitter.com/datagouvfr)
+* [@geodatagouv](https://twitter.com/geodatagouv)
+* [@adressedatagouv](https://twitter.com/adressedatagouv)
 
 ## Comment accéder au bâtiment ?
 
@@ -70,6 +73,10 @@ Pour le code source, on utilise Github :
 
 * https://github.com/etalab
 * https://github.com/sgmap-agd
+* https://github.com/geodatagouv
+* https://github.com/entrepreneur-interet-general
+* https://github.com/opendatateam
+* https://github.com/addok
 
 ## Quels sont nos autres outils ? 
 
