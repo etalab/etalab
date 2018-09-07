@@ -4,7 +4,7 @@
 
 ### Récupérer un badge
 
-Pour obtenir le badge qui permet d’accéder au bâtiment du 20 avenue de Ségur, voici la marche à suivre :
+Pour obtenir le badge qui permet d’accéder au bâtiment du [20 avenue de Ségur](https://adresse.data.gouv.fr/map?lng=2.30831&lat=48.8503&z=18), voici la marche à suivre :
 
 1. Imprimer et remplir le [formulaire de demande de badge](https://raw.github.com/wiki/betagouv/beta.gouv.fr/files/formulaire.pdf).
 2. Faire valider le formulaire par Hela.
@@ -19,11 +19,13 @@ Les agents contractuels peuvent disposer de deux adresses e-mail :
 
 Pour obtenir une adresse se terminant par `@modernisation.gouv`, il faut se renseigner auprès du service informatique en appellant le 01 53 18 80 00.
 
-Pour obtenir une adresse se terminant par `@data.gouv.fr`, il faut se renseigner auprès de l’équipe etalab : Paul-Antoine Chevalier, Christian Quest, ou Vincent Bataille.
+Pour obtenir une adresse se terminant par `@data.gouv.fr`, il faut se renseigner auprès de l’équipe etalab : Paul-Antoine Chevalier, Christian Quest ou Vincent Bataille.
+
+Les prestataires peuvent demander une adresse mail en `@data.gouv.fr`.
 
 ### Créer un compte Slack
 
-Pour communiquer en interne au quotidien, nous utilisons Slack, une messagerie instantanée : https://startups-detat.slack.com/. Ce compte Slack est partagé entre etalab et l’incubateur de services numériques.
+Pour communiquer en interne au quotidien, nous utilisons Slack, une messagerie instantanée : https://startups-detat.slack.com/. Ce compte Slack est partagé entre Etalab et l'[incubateur de services numériques](https://beta.gouv.fr/).
 
 Pour être valide, l’inscription sur le compte Slack doit être faite avec une adresse de travail se terminant par `@modernisation.gouv` ou `@data.gouv.fr`.
 
@@ -43,7 +45,7 @@ Trois rendez-vous hebdomadaires :
 
 1. La réunion d’équipe etalab : mardi à 11 h 30 dans le grand open-space.
 2. Le [Fridaylab](etalab/fridaylab) : vendredi de 14 h 00 à 17 h 00.
-3. Le Star Club : lundi à 10 h 30 dans bureau de Laure (réunion réservée au responsables de pôle).
+3. Le Star Club : lundi à 10 h 30 dans bureau de Laure (réunion réservée aux responsables de pôle).
 
 ### Pour l’équipe [data.gouv](https://www.data.gouv.fr/fr/)
 
