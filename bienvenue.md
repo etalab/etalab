@@ -1,84 +1,108 @@
 # Bienvenue à Etalab
 
-## :email: C'est quoi mon adresse mail ? :email:
+## Bien démarrer
 
-Les agents contractuels ont deux comptes emails :
+### Récupérer un badge
 
-* Le compte Modernisation : `prenom.nom@modernisation.gouv.fr`
-* Le compte DataGouv : `prenom.nom@data.gouv.fr`
+Pour obtenir le badge qui permet d’accéder au bâtiment du 20 avenue de Ségur, voici la marche à suivre :
 
-Pour obtenir un compte modernisation, il faut se renseigner auprès du service informatique.
+1. Imprimer et remplir le [formulaire de demande de badge](https://raw.github.com/wiki/betagouv/beta.gouv.fr/files/formulaire.pdf).
+2. Faire valider le formulaire par Hela.
+3. Transmettre le formulaire à Sacha (bureau après celui d’Henri).
 
-Pour obtenir un compte datagouv, il faut se renseigner auprès de l'équipe Etalab (Paul-Antoine Chevalier, Christian Quest ou Vincent Bataille)
+### Obtenir une adresse e-mail
 
-## :cat: Comment tchater avec mes collègues ? :cat:
+Les agents contractuels peuvent disposer de deux adresses e-mail :
 
-* Slack : https://startups-detat.slack.com/
+1. Une adresse @modernisation.gouv : `prenom.nom@modernisation.gouv.fr`.
+2. Une adresse @data.gouv : `prenom.nom@data.gouv.fr`
 
-Le slack est partagé entre Etalab et l'incubateur de services numériques. 
+Pour obtenir une adresse se terminant par `@modernisation.gouv`, il faut se renseigner auprès du service informatique en appellant le 01 53 18 80 00.
 
-* Les channels Etalab commencent par le préfixe `etalab_` 
-* Voir aussi `domaine_opendata`
+Pour obtenir une adresse se terminant par `@data.gouv.fr`, il faut se renseigner auprès de l’équipe etalab : Paul-Antoine Chevalier, Christian Quest, ou Vincent Bataille.
 
-Si tu comprends rien aux acronymes `/trad DINSIC` dans Slack.
+### Créer un compte Slack
 
-## Quels sont les rituels ?
+Pour communiquer en interne au quotidien, nous utilisons Slack, une messagerie instantanée : https://startups-detat.slack.com/. Ce compte Slack est partagé entre etalab et l’incubateur de services numériques.
 
-### Pour l'équipe Etalab  
+Pour être valide, l’inscription sur le compte Slack doit être faite avec une adresse de travail se terminant par `@modernisation.gouv` ou `@data.gouv.fr`.
 
-* Réunion d'équipe Etalab : mardi 11h30 grand open space
-* Star Club : lundi 10h30 bureau de Laure (réunion des responsables de pôle)
-* [Fridaylab](etalab/fridaylab) : vendredi 14h00-17h00
+Bon à savoir :
 
-### Pour l'équipe [datagouv](https://www.data.gouv.fr/fr/) 
+* les canaux etalab commencent par le préfixe `etalab_` ;
+* le canal 🔒[#domaine_opendata](https://startups-detat.slack.com/messages/C04QZ3S8H) nous concerne aussi ;
+* la commande `/trad` permet de traduire certains acronymes. Exemple `/trad DINSIC`.
 
-* Réunion datagouv : lundi 15h00 
+[Lire la documentation de beta.gouv sur Slack](https://github.com/betagouv/beta.gouv.fr/wiki/Slack)
 
-### Pour l'équipe openfisca 
+## Les rituels du service au quotidien
 
-* Démo [openfisca](https://fr.openfisca.org/) : mercredi 10h00 tous les 15 jours en salle canapé
+### Pour l’équipe etalab  
 
-### Pour l'équipe EIG
+Trois rendez-vous hebdomadaires :
 
-* Stand-up hebdomadaire : mardi 14h30
-* Sessions d'accompagnement des EIG 2 fois par mois : [voir programme d'accompagnement](https://github.com/entrepreneur-interet-general/eig-link/blob/master/accompagnement.org)
+1. La réunion d’équipe etalab : mardi à 11 h 30 dans le grand open-space.
+2. Le [Fridaylab](etalab/fridaylab) : vendredi de 14 h 00 à 17 h 00.
+3. Le Star Club : lundi à 10 h 30 dans bureau de Laure (réunion réservée au responsables de pôle).
 
-### Ailleurs à la DINSIC 
+### Pour l’équipe [data.gouv](https://www.data.gouv.fr/fr/)
 
-* Stand up de l'incubateur : mercredi 12h00 
+Réunion data.gouv le lundi à 15 h 00.
 
-## Quels sont nos canaux de communication ? 
+### Pour l’équipe openfisca
 
-### Nos blogs 
+Démo [openfisca](https://fr.openfisca.org/) un mercredi sur deux, à 10 h 00 en salle canapé.
 
-* [etalab](http://etalab.gouv.fr/)
-* [Blog de l'AGD](https://agd.data.gouv.fr/)
-* [Blog Géo](https://blog.geo.data.gouv.fr)
-* [Blog EIG](https://entrepreneur-interet-general.etalab.gouv.fr/blog.html)
+### Pour l’équipe EIG
 
-### Sur Twitter :twitter:
+Deux rendez-vous :
 
-* [@etalab](https://twitter.com/etalab)
-* [@datagouvfr](https://twitter.com/datagouvfr)
+ 1. Le stand-up hebdomadaire, le mardi à 14 h 30.
+ 2. Les sessions d’accompagnement des EIG 2 fois par mois. [Voir le programme d’accompagnement](https://github.com/entrepreneur-interet-general/eig-link/blob/master/accompagnement.org).
+
+### Ailleurs à la DINSIC
+
+Le [stand-up de l’incubateur](https://github.com/betagouv/beta.gouv.fr/wiki/Standup), tous les mercredi à 12 h 00.
+
+## Les canaux de communication
+
+### Blogs
+
+Les blogs à suivre :
+
+* le [blog d’etalab](http://etalab.gouv.fr/) ;
+* le [blog de l’AGD](https://agd.data.gouv.fr/) ;
+* le [blog EIG](https://entrepreneur-interet-general.etalab.gouv.fr/blog.html) :
+* Le [blog Géo](https://blog.geo.data.gouv.fr).
+
+### Réseaux sociaux
+
+Deux comptes Twitter à suivre :
+
+1. [@etalab](https://twitter.com/etalab)
+2. [@datagouvfr](https://twitter.com/datagouvfr)
+
+Les comptes Twitter associés aux verticales d’etalab :
+
 * [@geodatagouv](https://twitter.com/geodatagouv)
 * [@adressedatagouv](https://twitter.com/adressedatagouv)
 
-## Comment accéder au bâtiment ?
+Une page Facebook à suivre :
 
-- Les badges sont à récupérer auprès du secrétariat.
+1. La [page d’etalab](https://www.facebook.com/etalab/).
 
-## Comment partager du code source ?
+### GitHub
 
-Pour le code source, on utilise Github : 
+Pour le code source, nous utilisons Github :
 
-* https://github.com/etalab
-* https://github.com/sgmap-agd
-* https://github.com/geodatagouv
-* https://github.com/entrepreneur-interet-general
-* https://github.com/opendatateam
-* https://github.com/addok
+* [Etalab](https://github.com/etalab)
+* [SGMAP-AGD](https://github.com/sgmap-agd)
+* [Geodatagouv](https://github.com/geodatagouv)
+* [EIG](https://github.com/entrepreneur-interet-general)
+* [Open Data Team](https://github.com/opendatateam)
+* [Addok](https://github.com/addok)
 
-## Quels sont nos autres outils ? 
+### Nos autres outils
 
-* Pour le partage de fichiers : https://nextcloud.data.gouv.fr
-* Pour le suivi de projets, on utilise Trello : https://trello.com/etalab/home
+* [Nextcloud](https://nextcloud.data.gouv.fr), pour le partage de fichiers.
+* [Trello](https://trello.com/etalab/home), pour le suivi de projet.
