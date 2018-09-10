@@ -17,11 +17,11 @@ Les agents contractuels peuvent disposer de deux adresses e-mail :
 1. Une adresse @modernisation.gouv : `prenom.nom@modernisation.gouv.fr` ;
 2. Une adresse @data.gouv : `prenom.nom@data.gouv.fr`
 
+Les prestataires peuvent demander une adresse e-mail en `@data.gouv.fr`.
+
 Pour obtenir une adresse se terminant par `@modernisation.gouv.fr`, il faut se renseigner auprès du service informatique en appelant le 01 53 18 80 00.
 
 Pour obtenir une adresse se terminant par `@data.gouv.fr`, il faut se renseigner auprès de l’équipe etalab : Paul-Antoine Chevalier, Christian Quest ou Vincent Bataille. On peut consulter les mails en datagouv sur le [webmail](https://webmail.data.gouv.fr).
-
-Les prestataires peuvent demander une adresse e-mail en `@data.gouv.fr`.
 
 ### Créer un compte Slack
 
@@ -107,3 +107,7 @@ Pour le code source, nous utilisons Github, où nous avons plusieurs équipes :
 
 * [Nextcloud](https://nextcloud.data.gouv.fr), pour le partage de fichiers.
 * [Trello](https://trello.com/etalab/home), pour le suivi de projet.
+
+## En savoir plus sur la DINSIC
+
+* Consulter le [wiki de la DINSIC](https://dinsic.xwiki.com/)
