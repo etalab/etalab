@@ -5,10 +5,11 @@
 ### Récupérer un badge
 
 Pour obtenir le badge qui permet d’accéder au bâtiment du [20 avenue de Ségur](https://adresse.data.gouv.fr/map?lng=2.30831&lat=48.8503&z=18), voici la marche à suivre :
+https://github.com/etalab/etalab/pull/4/conflicts
 
-1. Imprimer et remplir le [formulaire de demande de badge](https://raw.github.com/wiki/betagouv/beta.gouv.fr/files/formulaire.pdf) ;
-2. Faire valider le formulaire par Hela ;
-3. Transmettre le formulaire à Sacha (bureau après celui d’Henri).
+1. Imprimer et remplir le [formulaire de demande de badge](https://raw.github.com/wiki/betagouv/beta.gouv.fr/files/formulaire.pdf).
+2. Faire valider le formulaire par le responsable hiérarchique
+3. Transmettre le formulaire au secrétariat
 
 ### Obtenir une adresse e-mail
 
@@ -19,7 +20,7 @@ Les agents contractuels peuvent disposer de deux adresses e-mail :
 
 Pour obtenir une adresse se terminant par `@modernisation.gouv.fr`, il faut se renseigner auprès du service informatique en appelant le 01 53 18 80 00.
 
-Pour obtenir une adresse se terminant par `@data.gouv.fr`, il faut se renseigner auprès de l’équipe etalab : Paul-Antoine Chevalier, Christian Quest ou Vincent Bataille.
+Pour obtenir une adresse se terminant par `@data.gouv.fr`, il faut se renseigner auprès de l’équipe etalab : Paul-Antoine Chevalier, Christian Quest ou Vincent Bataille. On peut consulter les mails en datagouv sur le [webmail](https://webmail.data.gouv.fr).
 
 Les prestataires peuvent demander une adresse e-mail en `@data.gouv.fr`.
 
