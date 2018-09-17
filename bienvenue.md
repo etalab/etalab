@@ -44,11 +44,14 @@ Bon à savoir&nbsp;:
 Les blogs à suivre&nbsp;:
 
 * le [blog d’etalab](http://etalab.gouv.fr/)&nbsp;;
+* le [blog de data.gouv.fr](https://www.data.gouv.fr/fr/posts/)&nbsp;;
 * le [blog de l’AGD](https://agd.data.gouv.fr/)&nbsp;;
 * le [blog EIG](https://entrepreneur-interet-general.etalab.gouv.fr/blog.html)&nbsp;:
 * le [blog Géo](https://blog.geo.data.gouv.fr).
 
 ### Réseaux sociaux
+
+#### Twitter
 
 Deux comptes Twitter à suivre&nbsp;:
 
@@ -59,7 +62,10 @@ Les comptes Twitter associés aux verticales d’etalab&nbsp;:
 
 * [@geodatagouv](https://twitter.com/geodatagouv)&nbsp;;
 * [@adressedatagouv](https://twitter.com/adressedatagouv)&nbsp;;
-* [@APIGouv](https://twitter.com/APIGouv).
+* [@APIGouv](https://twitter.com/APIGouv)&nbsp;;
+* [@eigforever](https://twitter.com/eigforever).
+
+#### Facebook
 
 La [page Facebook d’Etalab](https://www.facebook.com/etalab/).
 
