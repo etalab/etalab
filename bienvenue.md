@@ -19,9 +19,9 @@ Les agents contractuels peuvent disposer de deux adresses e-mail&nbsp;:
 
 Les prestataires peuvent demander une adresse e-mail en `@data.gouv.fr`.
 
-Pour obtenir une adresse se terminant par `@modernisation.gouv.fr`, il faut se renseigner auprès du service informatique en appelant le 01 53 18 80 00.
+Pour obtenir une adresse se terminant par `@modernisation.gouv.fr`, il faut se renseigner auprès du service informatique en appelant le 01&nbsp;53&nbsp;18&nbsp;80&nbsp;00.
 
-Pour obtenir une adresse se terminant par `@data.gouv.fr`, il faut se renseigner auprès de l’équipe etalab&nbsp;: Paul-Antoine Chevalier, Christian Quest ou Vincent Bataille. On peut consulter les mails en datagouv sur le [webmail](https://webmail.data.gouv.fr).
+Pour obtenir une adresse se terminant par `@data.gouv.fr`, il faut se renseigner auprès de l’équipe Etalab&nbsp;: Paul-Antoine, Christian, ou Vincent. Les e-mails reçus sur une adresse en `@data.gouv.fr` sont consultables dans un navigateur [sur le webmail](https://webmail.data.gouv.fr).
 
 ## Créer un compte Slack
 
@@ -58,7 +58,7 @@ Deux comptes Twitter à suivre&nbsp;:
 1. [@etalab](https://twitter.com/etalab)&nbsp;;
 2. [@datagouvfr](https://twitter.com/datagouvfr).
 
-Les comptes Twitter associés aux verticales d’etalab&nbsp;:
+Les comptes Twitter associés aux verticales d’Etalab&nbsp;:
 
 * [@geodatagouv](https://twitter.com/geodatagouv)&nbsp;;
 * [@adressedatagouv](https://twitter.com/adressedatagouv)&nbsp;;
@@ -71,7 +71,7 @@ La [page Facebook d’Etalab](https://www.facebook.com/etalab/).
 
 ### GitHub
 
-Pour le code source, nous utilisons Github, où nous avons plusieurs équipes&nbsp;:
+Pour le code source, nous utilisons GitHub, où nous avons plusieurs équipes&nbsp;:
 
 * [Etalab](https://github.com/etalab)&nbsp;;
 * [SGMAP-AGD](https://github.com/sgmap-agd)&nbsp;;
