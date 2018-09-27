@@ -6,7 +6,7 @@ Cette page contient la liste des choses à faire avant, pendant, et après un d�
 
 ### À faire avant de partir
 
-Indiquez dans [ce tableau ouvert](https://lite.framacalc.org/cooperationinternationalenum) le déplacement auquel vous prenez part, ou la coopération internationale sur laquelle vous travaillez&nbsp;— même si cette coopération n’en est encore qu’au stade de la discussion.
+Avant de partir, [remplissez ce formulaire](https://framaforms.org/preparation-des-deplacements-a-letranger-1538035632) en y indiquant le déplacement auquel vous prenez part, ou la coopération internationale sur laquelle vous travaillez&nbsp;— même si cette coopération n’en est encore qu’au stade de la discussion.
 
 ### À faire à votre retour
 
