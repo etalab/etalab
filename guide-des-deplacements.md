@@ -1,6 +1,6 @@
 # Guide des déplacements
 
-Cette page contient la liste des choses à faire avant, pendant, et après un déplacement.
+Cette page contient la liste des choses à faire avant, pendant et après un déplacement.
 
 ## Déplacement à l’étranger
 

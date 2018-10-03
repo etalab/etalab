@@ -1,6 +1,6 @@
 # Les rituels du service au quotidien
 
-## Pour l’équipe etalab  
+## Pour l’équipe Etalab
 
 Trois rendez-vous hebdomadaires&nbsp;:
 
@@ -20,9 +20,9 @@ Démo [openfisca](https://fr.openfisca.org/) un mercredi sur deux, à 10&nbsp;h&
 
 Deux rendez-vous&nbsp;:
 
- 1. Le stand-up hebdomadaire, le mardi à 14 h 30&nbsp;;
+ 1. Le stand-up hebdomadaire, le mardi de 14h30 à 15h&nbsp;;
  2. Les sessions d’accompagnement des EIG 2 fois par mois. [Voir le programme d’accompagnement](https://github.com/entrepreneur-interet-general/eig-link/blob/master/accompagnement.org).
 
 ## Ailleurs à la DINSIC
 
-Le [stand-up de l’incubateur](https://github.com/betagouv/beta.gouv.fr/wiki/Standup), tous les mercredi à 12&nbsp;h&nbsp;00.
+Le [stand-up de l’incubateur](https://github.com/betagouv/beta.gouv.fr/wiki/Standup), tous les mercredi à 12h00.
