@@ -69,7 +69,7 @@ Les comptes Twitter associés aux verticales d’Etalab&nbsp;:
 
 La [page Facebook d’Etalab](https://www.facebook.com/etalab/).
 
-### GitHub
+### Publication de codes sources
 
 Pour le code source, nous utilisons GitHub, où nous avons plusieurs équipes&nbsp;:
 
