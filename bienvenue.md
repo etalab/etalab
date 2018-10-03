@@ -88,6 +88,16 @@ Etalab publie la [Licence Ouverte
 Le site data.gouv.fr héberge une page contenant la [liste des licences
 utilisables](https://www.data.gouv.fr/fr/licences) par les administrations pour leurs données et codes sources.
 
+### Agendas publics
+
+- Le blog d'Etalab contient une catégorie [Événements](https://www.etalab.gouv.fr/tag/evenement) 
+
+- Le programme EIG publie [son calendrier d'accompagnement](https://cloud.eig-forever.org/index.php/apps/calendar/p/5S4DP594PDIVTARU/EIG2018) et un [calendrier d'événements](https://cloud.eig-forever.org/index.php/apps/calendar/p/C1YPGSGZ1JZPVDDU/EIG2018-Open) qui peuvent intéresser les EIG.
+
+- Etalab publie [l'agenda des journées de l'Open Data Par Principe](https://openagenda.com/open-data-par-principe).
+
+- Etalab publie son [agenda OpenGov](https://openagenda.com/opengov?oaq%5Bpassed%5D=1&oaq%5Border%5D=latest).
+
 ### Nos autres outils
 
 * [Nextcloud](https://nextcloud.data.gouv.fr), pour le partage de fichiers&nbsp;;
