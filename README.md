@@ -7,3 +7,5 @@
 * [Nos bureaux](nos-bureaux.md)
 * [Nos rituels](nos-rituels.md)
 * [Typographie](typographie.md)
+* [Présentations](presentations.md)
+
