@@ -102,7 +102,13 @@ utilisables](https://www.data.gouv.fr/fr/licences) par les administrations pour 
 
 * [Nextcloud](https://nextcloud.data.gouv.fr), pour le partage de fichiers&nbsp;;
 * [Trello](https://trello.com/etalab/home), pour le suivi de projet&nbsp;;
-* le [wiki de la DINSIC](https://dinsic.xwiki.com/), pour l’intranet.
+
+### Découvrir la DINSIC
+
+* [site web de la DINSIC](https://www.numerique.gouv.fr/)
+* [beta.gouv](https://beta.gouv.fr/), site de l'incubateur de services numériques
+* [wiki de la DINSIC](https://dinsic.xwiki.com/), pour l’intranet.
+
 
 ### Les guides publiés au sein des verticales
 
