@@ -1,0 +1,127 @@
+---
+title: "Une brève introduction à la visualisation de données"
+author: Paul-Antoine Chevalier
+output:
+  rmdshower::shower_presentation:
+  self_contained: false
+katex: true
+ratio: 16x10
+---
+
+# Une brève introduction à la visualisation de données
+
+## Introduction
+
+> The simple graph has brought more information to the data analyst’s mind than any other device.
+
+— John Tukey
+
+## Au programme
+
+* Un peu d'histoire
+* Quelques principes
+* 4 + 1 outils
+
+# Un peu d'histoire
+
+## { .fullpage }
+
+<center>
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d8/Playfair_TimeSeries.png" class="cover">
+</center>
+
+## { .fullpage }
+
+<center>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/Playfair_interest_national_debt.png" class="cover">
+</center>
+
+## { .fullpage }
+
+<center>
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Playfair_piecharts.jpg" class="cover">
+</center>
+
+## { .fullpage }
+
+<center>
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/55/Statistique_compar%C3%A9e_de_l%27%C3%A9tat_de_l%27instruction_et_du_nombre_des_crimes.jpg" class="cover">
+</center>
+
+## { .fullpage }
+
+<center>
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Mouvement_quinquennial_de_la_population_par_d%C3%A9partement_depuis_1801_jusqu%27en_1881.png" class="cover">
+</center>
+
+## { .fullpage }
+
+<center>
+<a href="https://www.nytimes.com/interactive/2014/08/13/upshot/where-people-in-each-state-were-born.html"><img src="image/bumpchart-migrations.png" class="cover"></a>
+</center>
+
+## { .fullpage }
+
+<center>
+<img src="https://i1.wp.com/askmedia.fr/blog/wp-content/uploads/2014/10/what_is_Wikipedia_about.jpg" class="cover">
+</center>
+
+# Choisir son graphique
+
+## { .fullpage }
+
+<center>
+<a href="http://ft-interactive.github.io/visual-vocabulary/"><img src="image/visualvocabulary.png" class="cover"></a>
+</center>
+
+# 4 + 1 outils
+
+## { .fullpage }
+
+<center>
+<img src="image/datawrapper.png" class="cover">
+</center>
+
+## { .fullpage }
+
+<center>
+<img src="image/rawgraphs.png" class="cover">
+</center>
+
+## { .fullpage }
+
+<center>
+<img src="image/sirenenoel.png" class="cover">
+</center>
+
+## { .fullpage }
+
+<center>
+<img src="https://pbs.twimg.com/media/DhKwT_sW4AEkIwj.jpg:large" class="cover">
+</center>
+
+## Kepler.gl
+
+* [Visualiser ses trajets Trainline](https://twitter.com/AntoineAugusti/status/1048600809091596293) par Antoine Augusti
+
+## { .fullpage }
+
+<center>
+<img src="image/datafin.png" class="cover">
+</center>
+
+## Pour aller plus loin 
+
+* Edward Tufte, *The Visual Display of Quantitative Information*
+* [The FT Visual Vocabulary](http://ft-interactive.github.io/visual-vocabulary/)
+* [Information is Beautiful Awards](https://www.informationisbeautifulawards.com/)
+* [The Upshot 1st birthday](https://www.nytimes.com/interactive/2015/04/22/upshot/happy-birthday-upshot.html)
+* [Pudding.cool](https://pudding.cool/)
+* [Chartbuilder](https://quartz.github.io/Chartbuilder/)
+
+<!--
+https://i1.wp.com/askmedia.fr/blog/wp-content/uploads/2014/10/3413SEM-Data-Retraites.jpg
+https://i1.wp.com/askmedia.fr/blog/wp-content/uploads/2014/10/3911SEM-Data-Les-produits.jpg
+https://i1.wp.com/askmedia.fr/blog/wp-content/uploads/2014/02/datamatch_depensespubliques.jpg
+https://askmedia.fr/blog/vu-sur-le-web-combien-dimpots-payent-effectivement-les-compagnies-americaines/
+-->
