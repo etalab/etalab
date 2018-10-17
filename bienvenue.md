@@ -37,7 +37,16 @@ Bon à savoir&nbsp;:
 
 [Lire la documentation de beta.gouv sur Slack](https://github.com/betagouv/beta.gouv.fr/wiki/Slack)
 
-## Les canaux de communication
+### Nos outils en bref
+
+* [GitHub](https://github.com/etalab/etalab), pour la collaboration sur le code&nbsp;;
+* [Slack](https://startups-detat.slack.com), pour la communication interne&nbsp;
+* [Nextcloud](https://nextcloud.data.gouv.fr), pour le partage de fichiers&nbsp;;
+* [Trello](https://trello.com/etalab/home), pour le suivi de certains projets&nbsp;;
+* [Crowdin](https://crowdin.com), pour la gestion des traductions (localisation) &nbsp;;
+* [Hack MD](https://hackmd.io) et [Framapad](https://framapad.org), pour la rédaction de notes&nbsp;;
+
+## Nos canaux de communication
 
 ### Blogs
 
@@ -69,6 +78,8 @@ Les comptes Twitter associés aux verticales d’Etalab&nbsp;:
 
 La [page Facebook d’Etalab](https://www.facebook.com/etalab/).
 
+## Liens utiles
+
 ### Publication de codes sources
 
 Pour le code source, nous utilisons GitHub, où nous avons plusieurs équipes&nbsp;:
@@ -82,37 +93,29 @@ Pour le code source, nous utilisons GitHub, où nous avons plusieurs équipes&nb
 
 #### Licences pour les données et les codes sources
 
-Etalab publie la [Licence Ouverte
+Etalab publie la [licence ouverte
 2.0](https://www.etalab.gouv.fr/licence-ouverte-open-licence).
 
 Le site data.gouv.fr héberge une page contenant la [liste des licences
 utilisables](https://www.data.gouv.fr/fr/licences) par les administrations pour leurs données et codes sources.
 
-### Agendas publics
+### Calendriers publics
 
-- Le blog d'Etalab contient une catégorie [Événements](https://www.etalab.gouv.fr/tag/evenement) 
+Etalab publie et tient à jour plusieurs calendriers&nbsp;:
 
-- Le programme EIG publie [son calendrier d'accompagnement](https://cloud.eig-forever.org/index.php/apps/calendar/p/5S4DP594PDIVTARU/EIG2018) et un [calendrier d'événements](https://cloud.eig-forever.org/index.php/apps/calendar/p/C1YPGSGZ1JZPVDDU/EIG2018-Open) qui peuvent intéresser les EIG.
-
-- Etalab publie [l'agenda des journées de l'Open Data Par Principe](https://openagenda.com/open-data-par-principe).
-
-- Etalab publie son [agenda OpenGov](https://openagenda.com/opengov?oaq%5Bpassed%5D=1&oaq%5Border%5D=latest).
-
-### Nos autres outils
-
-* [Nextcloud](https://nextcloud.data.gouv.fr), pour le partage de fichiers&nbsp;;
-* [Trello](https://trello.com/etalab/home), pour le suivi de projet&nbsp;;
+* le blog d’Etalab contient une catégorie [Événements](https://www.etalab.gouv.fr/tag/evenement)&nbsp;
+* le programme EIG publie [son calendrier d’accompagnement](https://cloud.eig-forever.org/index.php/apps/calendar/p/5S4DP594PDIVTARU/EIG2018) et un [calendrier d’événements](https://cloud.eig-forever.org/index.php/apps/calendar/p/C1YPGSGZ1JZPVDDU/EIG2018-Open) qui peuvent intéresser les EIG&nbsp;;
+* Etalab publie son [calendrier OpenGov](https://openagenda.com/opengov?oaq%5Bpassed%5D=1&oaq%5Border%5D=latest).
 
 ### Découvrir la DINSIC
 
-* [site web de la DINSIC](https://www.numerique.gouv.fr/)
-* [beta.gouv](https://beta.gouv.fr/), site de l'incubateur de services numériques
+* [site web de la DINSIC](https://www.numerique.gouv.fr/)&nbsp;;
+* [beta.gouv](https://beta.gouv.fr/), site de l’incubateur de services numériques&nbsp;
 * [wiki de la DINSIC](https://dinsic.xwiki.com/), pour l’intranet.
 
+### Les guides publiés au sein des thématiques
 
-### Les guides publiés au sein des verticales
+Le programme EIG tient à jour plusieurs guides :
 
-Le programme EIG maintient plusieurs guides :
-
-- [un guide de l'ouverture des codes sources](https://github.com/entrepreneur-interet-general/eig-link/blob/master/opensource.org) et une [FAQ](https://github.com/entrepreneur-interet-general/eig-link/blob/master/opensource-faq.org) sur le sujet ;
-- [un guide pour la préparation du programme EIG](https://github.com/entrepreneur-interet-general/eig-link/blob/master/accueil-eig.org) à destination des mentors des administrations.
+* [un guide de l’ouverture des codes sources](https://github.com/entrepreneur-interet-general/eig-link/blob/master/opensource.org) et une [FAQ](https://github.com/entrepreneur-interet-general/eig-link/blob/master/opensource-faq.org) sur le sujet&nbsp;;
+* [un guide pour la préparation du programme EIG](https://github.com/entrepreneur-interet-general/eig-link/blob/master/accueil-eig.org) à destination des mentors des administrations.
