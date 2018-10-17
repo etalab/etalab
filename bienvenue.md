@@ -43,8 +43,8 @@ Bon à savoir&nbsp;:
 * [Slack](https://startups-detat.slack.com), pour la communication interne&nbsp;
 * [Nextcloud](https://nextcloud.data.gouv.fr), pour le partage de fichiers&nbsp;;
 * [Trello](https://trello.com/etalab/home), pour le suivi de certains projets&nbsp;;
-* [Crowdin](https://crowdin.com), pour la gestion des traductions&nbsp;;
-* [Hack MD](https://hackmd.io), pour la rédaction de notes à plusieurs&nbsp;;
+* [Crowdin](https://crowdin.com), pour la gestion des traductions (localisation) &nbsp;;
+* [Hack MD](https://hackmd.io) et [Framapad](https://framapad.org), pour la rédaction de notes&nbsp;;
 
 ## Nos canaux de communication
 
