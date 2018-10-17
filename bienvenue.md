@@ -40,7 +40,7 @@ Bon à savoir&nbsp;:
 ### Nos outils en bref
 
 * [GitHub](https://github.com/etalab/etalab), pour la collaboration sur le code&nbsp;;
-* [Slack](https://startups-detat.slack.com), pour la communication internet&nbsp;
+* [Slack](https://startups-detat.slack.com), pour la communication interne&nbsp;
 * [Nextcloud](https://nextcloud.data.gouv.fr), pour le partage de fichiers&nbsp;;
 * [Trello](https://trello.com/etalab/home), pour le suivi de certains projets&nbsp;;
 * [Crowdin](https://crowdin.com), pour la gestion des traductions&nbsp;;
