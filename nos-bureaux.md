@@ -6,9 +6,9 @@ Les membres d’Etalab travaillent à Paris, au 20 avenue de Ségur, dans le qua
 
 ### Horaires d’ouverture
 
-Le bâtiment est ouvert&nbsp;:
+Le bâtiment est ouvert :
 
-* de 8 heures à 21 heures du lundi au vendredi&nbsp;;
+* de 8 heures à 21 heures du lundi au vendredi ;
 * de 8 heures à 13 heures le samedi.
 
 ### Adresse physique
