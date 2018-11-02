@@ -15,19 +15,19 @@ Les éléments qui composent une liste sont précédés par un numéro, un tiret
 
 ### 1. Liste introduite par le signe deux-points (`:`)
 
-Les éléments d’une liste introduite par le signe _deux-points_ (`:`) ne prennent pas de majuscule s’ils ne sont pas ordonnés, c’est-à-dire s’ils ne sont pas précédés de chiffres. Chaque élément d’une telle liste se termine par un point-virgule (`;`), précédé par une espace insécable (`&nbsp;`), sauf le dernier élément qui se termine par un point final (`.`).
+Les éléments d’une liste introduite par le signe _deux-points_ (`:`) ne prennent pas de majuscule s’ils ne sont pas ordonnés, c’est-à-dire s’ils ne sont pas précédés de chiffres. Chaque élément d’une telle liste se termine par un point-virgule (`;`), précédé par une espace insécable (` `), sauf le dernier élément qui se termine par un point final (`.`).
 
 Exemple de liste introduite par le deux-points :
-- premier élément&nbsp;;
-- deuxième élément&nbsp;;
+- premier élément ;
+- deuxième élément ;
 - dernier élément.
 
 **Cas particulier**
 Si les éléments de la liste sont ordonnés, c’est-à-dire s’ils commencent par un chiffre, alors chaque élément commence par une majuscule et se termine par un point-virgule ou un point final (selon sa position dans la liste).
 
 Exemple de liste introduite par le deux-points :
-1. Premier élément&nbsp;;
-2. Deuxième élément&nbsp;;
+1. Premier élément ;
+2. Deuxième élément ;
 3. Dernier élément.
 
 ### 2. Liste introduite par rien du tout
