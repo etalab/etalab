@@ -1,6 +1,6 @@
 # Bienvenue !
 
-Bienvenue au sein de la mission Etalab. Voici quelques conseils pour bien démarrer.
+Bienvenue au sein de la mission Etalab. Vous trouverez sur cette page des conseils pour bien démarrer.
 
 ## Récupérer un badge
 
@@ -15,7 +15,7 @@ Pour obtenir le badge qui permet d’accéder au bâtiment du [20 avenue de Ség
 Les agents contractuels peuvent disposer de deux adresses e-mail&nbsp;:
 
 1. Une adresse `@modernisation.gouv.fr`&nbsp;: `prenom.nom@modernisation.gouv.fr`&nbsp;;
-2. Une adresse `@data.gouv.fr`&nbsp;: `prenom.nom@data.gouv.fr`
+2. Une adresse `@data.gouv.fr`&nbsp;: `prenom.nom@data.gouv.fr`.
 
 Les prestataires peuvent demander une adresse e-mail en `@data.gouv.fr`.
 
@@ -40,11 +40,11 @@ Bon à savoir&nbsp;:
 ### Nos outils en bref
 
 * [GitHub](https://github.com/etalab/etalab), pour la collaboration sur le code&nbsp;;
-* [Slack](https://startups-detat.slack.com), pour la communication interne&nbsp;
+* [Slack](https://startups-detat.slack.com), pour la communication interne&nbsp;;
 * [Nextcloud](https://nextcloud.data.gouv.fr), pour le partage de fichiers&nbsp;;
 * [Trello](https://trello.com/etalab/home), pour le suivi de certains projets&nbsp;;
 * [Crowdin](https://crowdin.com), pour la gestion des traductions (localisation) &nbsp;;
-* [Hack MD](https://hackmd.io) et [Framapad](https://framapad.org), pour la rédaction de notes&nbsp;;
+* [Hack MD](https://hackmd.io) et [Framapad](https://framapad.org), pour la rédaction de notes&nbsp;.
 
 ## Nos canaux de communication
 
@@ -55,7 +55,7 @@ Les blogs à suivre&nbsp;:
 * le [blog d’Etalab](http://etalab.gouv.fr/)&nbsp;;
 * le [blog de data.gouv.fr](https://www.data.gouv.fr/fr/posts/)&nbsp;;
 * le [blog de l’AGD](https://agd.data.gouv.fr/)&nbsp;;
-* le [blog EIG](https://entrepreneur-interet-general.etalab.gouv.fr/blog.html)&nbsp;:
+* le [blog EIG](https://entrepreneur-interet-general.etalab.gouv.fr/blog.html)&nbsp;;
 * le [blog Géo](https://blog.geo.data.gouv.fr).
 
 ### Réseaux sociaux
@@ -67,7 +67,7 @@ Deux comptes Twitter à suivre&nbsp;:
 1. [@etalab](https://twitter.com/etalab)&nbsp;;
 2. [@datagouvfr](https://twitter.com/datagouvfr).
 
-Les comptes Twitter associés aux verticales d’Etalab&nbsp;:
+Les comptes Twitter associés aux univers d’Etalab&nbsp;:
 
 * [@geodatagouv](https://twitter.com/geodatagouv)&nbsp;;
 * [@adressedatagouv](https://twitter.com/adressedatagouv)&nbsp;;
@@ -103,15 +103,17 @@ utilisables](https://www.data.gouv.fr/fr/licences) par les administrations pour 
 
 Etalab publie et tient à jour plusieurs calendriers&nbsp;:
 
-* le blog d’Etalab contient une catégorie [Événements](https://www.etalab.gouv.fr/tag/evenement)&nbsp;
+* le blog d’Etalab contient une catégorie [Événements](https://www.etalab.gouv.fr/tag/evenement)&nbsp;;
 * le programme EIG publie [son calendrier d’accompagnement](https://cloud.eig-forever.org/index.php/apps/calendar/p/5S4DP594PDIVTARU/EIG2018) et un [calendrier d’événements](https://cloud.eig-forever.org/index.php/apps/calendar/p/C1YPGSGZ1JZPVDDU/EIG2018-Open) qui peuvent intéresser les EIG&nbsp;;
 * Etalab publie son [calendrier OpenGov](https://openagenda.com/opengov?oaq%5Bpassed%5D=1&oaq%5Border%5D=latest).
 
 ### Découvrir la DINSIC
 
-* [site web de la DINSIC](https://www.numerique.gouv.fr/)&nbsp;;
-* [beta.gouv](https://beta.gouv.fr/), site de l’incubateur de services numériques&nbsp;
-* [wiki de la DINSIC](https://dinsic.xwiki.com/), pour l’intranet.
+La DINSIC est la Direction interministérielle du numérique et du système d’information et de communication de l’État. Etalab fait partie de la DINSIC.
+
+* [Site de la DINSIC](https://www.numerique.gouv.fr/)&nbsp;;
+* [beta.gouv](https://beta.gouv.fr/), site de l’incubateur de services numériques&nbsp;;
+* [Wiki de la DINSIC](https://dinsic.xwiki.com/), pour l’intranet.
 
 ### Les guides publiés au sein des thématiques
 
