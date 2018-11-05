@@ -14,7 +14,7 @@ Réunion data.gouv.fr le lundi à 15 h 00.
 
 ## Pour l’équipe Open Fisca
 
-Démo [openfisca](https://fr.openfisca.org/) un mercredi sur deux, à 10 h 00 en salle canapé.
+Démo [openfisca](https://fr.openfisca.org/) un mercredi sur deux, à 14&nbsp;h&nbsp;30, en salle canapé.
 
 ## Pour l’équipe EIG
 
