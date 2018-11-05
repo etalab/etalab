@@ -2,25 +2,25 @@
 
 ## Pour l’équipe Etalab
 
-Trois rendez-vous hebdomadaires&nbsp;:
+Trois rendez-vous hebdomadaires :
 
-1. La réunion d’équipe Etalab&nbsp;: mardi à 11&nbsp;h&nbsp;30 dans le grand open-space&nbsp;;
-2. Le [Fridaylab](etalab/fridaylab)&nbsp;: vendredi de 14 h 00 à 17&nbsp;h&nbsp;00&nbsp;;
-3. Le point hebdomadaire : lundi à 10&nbsp;h&nbsp;30 dans bureau de Laure (réunion réservée aux responsables de pôle).
+1. La réunion d’équipe Etalab : mardi à 11 h 30 dans le grand open-space ;
+2. Le [Fridaylab](etalab/fridaylab) : vendredi de 14 h 00 à 17 h 00 ;
+3. Le point hebdomadaire : lundi à 10 h 30 dans bureau de Laure (réunion réservée aux responsables de pôle).
 
 ## Pour l’équipe [data.gouv.fr](https://www.data.gouv.fr/fr/)
 
-Réunion data.gouv.fr le lundi à 15&nbsp;h&nbsp;00.
+Réunion data.gouv.fr le lundi à 15 h 00.
 
 ## Pour l’équipe Open Fisca
 
-Démo [openfisca](https://fr.openfisca.org/) un mercredi sur deux, à 14&nbsp;h&nbsp;30 en salle canapé.
+Démo [openfisca](https://fr.openfisca.org/) un mercredi sur deux, à 14&nbsp;h&nbsp;30, en salle canapé.
 
 ## Pour l’équipe EIG
 
-Deux rendez-vous&nbsp;:
+Deux rendez-vous :
 
- 1. Le stand-up hebdomadaire, le mardi de 14h30 à 15h&nbsp;;
+ 1. Le stand-up hebdomadaire, le mardi de 14h30 à 15h ;
  2. Les sessions d’accompagnement des EIG 2 fois par mois. [Voir le programme d’accompagnement](https://github.com/entrepreneur-interet-general/eig-link/blob/master/accompagnement.org).
 
 ## Ailleurs à la DINSIC
