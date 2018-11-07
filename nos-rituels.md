@@ -5,7 +5,7 @@
 Trois rendez-vous hebdomadaires :
 
 1. La réunion d’équipe Etalab : mardi à 11 h 30 dans le grand open-space ;
-2. Le [Fridaylab](etalab/fridaylab) : vendredi de 14 h 00 à 17 h 00 ;
+2. Le [Fridaylab](https://github.com/etalab/fridaylab) : vendredi de 14 h 00 à 17 h 00 ;
 3. Le point hebdomadaire : lundi à 10 h 30 dans bureau de Laure (réunion réservée aux responsables de pôle).
 
 ## Pour l’équipe [data.gouv.fr](https://www.data.gouv.fr/fr/)
