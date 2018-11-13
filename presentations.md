@@ -2,6 +2,10 @@
 
 Diaporamas présentés par des membres d’Etalab lors d’ateliers ou de conférences en public.
 
+> **France data policy**<br>
+> Intervention à Sciences po Paris dans le cours data science for public policy le 13 novembre 2018<br>
+> [Version HTML](https://etalab.github.io/etalab/diaporamas/slides-sciencespo.html) | Par [Paul-Antoine Chevalier](https://github.com/pachevalier)
+
 > **Présentation de la politique de la donnée**<br>
 > Autorité de sûreté nucléaire— juin 2018<br>
 > [Version HTML](https://etalab.github.io/etalab/diaporamas/slides-asn.html) | Par [Paul-Antoine Chevalier](https://github.com/pachevalier)
