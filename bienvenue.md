@@ -52,11 +52,12 @@ Bon à savoir :
 
 Les blogs à suivre :
 
-* le [blog d’Etalab](http://etalab.gouv.fr/) ;
-* le [blog de data.gouv.fr](https://www.data.gouv.fr/fr/posts/) ;
-* le [blog de l’AGD](https://agd.data.gouv.fr/) ;
-* le [blog EIG](https://entrepreneur-interet-general.etalab.gouv.fr/blog.html) ;
-* le [blog Géo](https://blog.geo.data.gouv.fr).
+* le [blog d’Etalab](http://etalab.gouv.fr/)&nbsp;;
+* le [blog de data.gouv.fr](https://www.data.gouv.fr/fr/posts/)&nbsp;;
+* le [blog de l’AGD](https://agd.data.gouv.fr/)&nbsp;;
+* le [blog EIG](https://entrepreneur-interet-general.etalab.gouv.fr/blog.html)&nbsp;;
+* le [blog Géo](https://blog.geo.data.gouv.fr)&nbsp;;
+* le [blog OpenFisca](http://openfisca.org/en/news/).
 
 ### Réseaux sociaux
 
@@ -69,10 +70,11 @@ Deux comptes Twitter à suivre :
 
 Les comptes Twitter associés aux univers d’Etalab :
 
-* [@geodatagouv](https://twitter.com/geodatagouv) ;
-* [@adressedatagouv](https://twitter.com/adressedatagouv) ;
-* [@APIGouv](https://twitter.com/APIGouv) ;
-* [@eigforever](https://twitter.com/eigforever).
+* [@geodatagouv](https://twitter.com/geodatagouv)&nbsp;;
+* [@adressedatagouv](https://twitter.com/adressedatagouv)&nbsp;;
+* [@APIGouv](https://twitter.com/APIGouv)&nbsp;;
+* [@eigforever](https://twitter.com/eigforever)&nbsp;;
+* [@OpenFisca](https://twitter.com/OpenFisca).
 
 #### Facebook
 
@@ -84,12 +86,13 @@ La [page Facebook d’Etalab](https://www.facebook.com/etalab/).
 
 Pour le code source, nous utilisons GitHub, où nous avons plusieurs équipes :
 
-* [Etalab](https://github.com/etalab) ;
-* [SGMAP-AGD](https://github.com/sgmap-agd) ;
-* [Geodatagouv](https://github.com/geodatagouv) ;
-* [EIG](https://github.com/entrepreneur-interet-general) ;
-* [Open Data Team](https://github.com/opendatateam) ;
-* [Addok](https://github.com/addok).
+* [Etalab](https://github.com/etalab)&nbsp;;
+* [SGMAP-AGD](https://github.com/sgmap-agd)&nbsp;;
+* [Geodatagouv](https://github.com/geodatagouv)&nbsp;;
+* [EIG](https://github.com/entrepreneur-interet-general)&nbsp;;
+* [Open Data Team](https://github.com/opendatateam)&nbsp;;
+* [Addok](https://github.com/addok)&nbsp;;
+* [OpenFisca](https://github.com/openfisca).
 
 #### Licences pour les données et les codes sources
 
