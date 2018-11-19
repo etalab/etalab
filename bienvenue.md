@@ -19,7 +19,13 @@ Les agents contractuels peuvent disposer de deux adresses e-mail :
 
 Les prestataires peuvent demander une adresse e-mail en `@data.gouv.fr`.
 
+### Mail Modernisation.gouv.fr
+
 Pour obtenir une adresse se terminant par `@modernisation.gouv.fr`, il faut se renseigner auprès du service informatique en appelant le 01 53 18 80 00.
+
+Le mail modernisation.gouv.fr peut être consulté depuis le réseau Bercy ou depuis le webmail [Melissa](https://www.melissa.finances.gouv.fr/dana-na/auth/url_8/welcome.cgi)
+
+#### Mail Data.gouv.fr
 
 Pour obtenir une adresse se terminant par `@data.gouv.fr`, il faut se renseigner auprès de l’équipe Etalab : Paul-Antoine, Christian ou Vincent. Les e-mails reçus sur une adresse en `@data.gouv.fr` sont consultables dans un navigateur [sur le webmail](https://webmail.data.gouv.fr) et via une connexion `IMAPS` (utilisateur : `prenom.nom@modernisation.gouv.fr`).
 
