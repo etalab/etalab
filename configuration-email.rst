@@ -227,42 +227,4 @@ Pour ajouter un carnet d'adresse, procédez comme suit :
         Description: Félix Defrance Etalab
 
 
-C'est terminé. 
-
-======================================
-Utilisation via le protocol ActiveSync
-======================================
-
-Configuration d'un smartphone Android
-=====================================
-Aller dans les parametres d'Android. Dans la section "Comptes", aller dans "ajouter un compte" puis "Entreprise" renseigner les champs. 
-
-Ensuite cliquer sur "suivants, sélectionner "Exchange" puis renseigner les champs. 
-
-.. note :: Pour le champs serveur, on renseignera "mobile.data.gouv.fr" et pour type de sécurité, SSL/TLS (accepter tous les certificats)
-
-C'est terminé.  
-
-
-Configuration smartphone Apple iPhone
-=====================================
-
-.. note: Attention le protocol activesync n'est pas complétement fonctionnel actuellement. 
-
-Aller dans les "Réglages" du téléphone. Dans la section "Mail,Contact, Calendrier", aller dans "Ajout" puis "Exchange" et renseigez les champs suivants ::
-
-  Adresse : felix.defrance@data.gouv.fr
-  Serveur : mobile.data.gouv.fr
-  Domaine : data.gouv.fr
-
-Si ce n'est pas déjà coché, activer la prise en charge du SSL dans les "Réglages Avancés". 
-
 C'est terminé.
-
-=============================
-Utilisation des filtres Sieve
-=============================
-
-Installer l'extension Thunderbird Sieve depuis https://github.com/thsmi/sieve/blob/master/nightly/README.md
-
-À l'heure où j'écris ces lignes cela fonctionne avec la version `sieve-0.2.3e.xpi` et Icedove 31.5.0 et la configuration par défaut.
