@@ -6,6 +6,7 @@ Cette page regroupe les évènements publics organisés par Etalab.
 
 | Date       | Évènement                                             | Lieu                      | URL                                                                                                                                                                         |
 | ---------- | ----------------------------------------------------- | ------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 6/12/2018 | Journée Blue hats | Paris | [Voir sur le blog](https://www.etalab.gouv.fr/appel-a-participation-a-la-journee-blue-hats-hackers-dinteret-general-jeudi-6-decembre) |
 | 15/11/2018 | Restitution de la 2ème promotion EIG | Manufacture des gobelins - Paris | [Voir sur le blog](https://www.etalab.gouv.fr/entrepreneur%c2%b7e-dinteret-general-promotion-2-bilan-et-perspectives) |
 | 12/10/2018 | Atelier : plateforme data.gouv.fr                     | Fondation Mozilla (Paris) | [Voir sur Eventbrite](https://www.eventbrite.com/e/billets-atelier-plateforme-datagouvfr-50867012604#)                                                                      |
 | 11/10/2018 | Atelier : de la donnée ouverte à l'information        | La Paillasse              | [Voir sur Eventbrite](https://www.eventbrite.com/e/billets-atelier-de-la-donnee-ouverte-a-linformation-50867174087#)                                                        |
