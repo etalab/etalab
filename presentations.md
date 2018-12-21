@@ -2,6 +2,11 @@
 
 Diaporamas présentés par des membres d’Etalab lors d’ateliers ou de conférences en public.
 
+> **Expériences de modernisation du service public**<br>
+> Intervention Etalab sur invitation de l'Institut Français d'Haïti — 12 décembre 2018<br>
+> [Version PDF](diaporamas/2018-12-12-etalab_dinsic_haiti.pdf) | Par
+> [Sandra Chakroun](https://github.com/sandcha) et [Bastien Guerry](https://github.com/bzg)
+
 > **From open data to open algorithms… and back again**<br>
 > Intervention lors de l'Internet Governance Forum 2018 — 14 novembre 2018<br>
 > [Version PDF](diaporamas/2018-11-13-IGF-open-data-open-algo.pdf) | Par [Maud Choquet](https://github.com/mchoquet)
