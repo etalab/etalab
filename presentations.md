@@ -2,6 +2,11 @@
 
 Diaporamas présentés par des membres d’Etalab lors d’ateliers ou de conférences en public.
 
+> **Connectez vos territoires à data.gouv.fr avec les moissoneurs de portail OpenData**<br>
+> Intervention Etalab sur invitation du programme DCANT — 20 décembre 2018<br>
+> [Version web](https://pad.etalab.studio/p/S1sIwFwg4) | Par
+> [Alexandre Bulté](https://github.com/abulte) et [Axel Haustant](https://github.com/noirbizarre)
+
 > **Expériences de modernisation du service public**<br>
 > Intervention Etalab sur invitation de l'Institut Français d'Haïti — 12 décembre 2018<br>
 > [Version PDF](diaporamas/2018-12-12-etalab_dinsic_haiti.pdf) | Par
