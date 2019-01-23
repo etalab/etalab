@@ -6,8 +6,8 @@ Dans la grande majorité des cas, nous suivons les [règles typographiques en us
 
 Contrairement à la DINSIC (Direction interministérielle du numérique et du système d'information et de communication de l'État), Etalab n’est pas un sigle mais [un nom de mission](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000023619063&categorieLien=id), un nom propre. Comme le `E-` initial d’Etalab ne renvoie pas au mot `État`, il ne prend jamais d’accent aigu.
 
-- **Ne pas écrire** : La mission _Étalab_ a été fondée en 2011.
-- **Écrire** : La mission _Etalab_ (ou _etalab_) a été fondée en 2011.
+- **Ne pas écrire** : La mission _Étalab_ a été fondée en 2011.
+- **Écrire** : La mission _Etalab_ (ou _etalab_) a été fondée en 2011.
 
 ## Ponctuation des listes
 
@@ -18,7 +18,7 @@ Les éléments qui composent une liste sont précédés par un numéro, un tiret
 Les éléments d’une liste introduite par le signe _deux-points_ (`:`) ne prennent pas de majuscule s’ils ne sont pas ordonnés, c’est-à-dire s’ils ne sont pas précédés de chiffres. Chaque élément d’une telle liste se termine par un point-virgule (`;`), précédé par une espace insécable, sauf le dernier élément qui se termine par un point final (`.`).
 
 ```
-Exemple de liste introduite par le deux-points :
+Exemple de liste introduite par le deux-points :
 
 – premier élément ;
 – deuxième élément ;
@@ -29,7 +29,7 @@ Exemple de liste introduite par le deux-points :
 Si les éléments de la liste sont ordonnés, c’est-à-dire s’ils commencent par un chiffre, alors chaque élément commence par une majuscule et se termine par un point-virgule ou un point final (selon sa position dans la liste).
 
 ```
-Exemple de liste introduite par le deux-points :
+Exemple de liste introduite par le deux-points :
 
 1. Premier élément ;
 2. Deuxième élément ;
