@@ -9,8 +9,5 @@ et à destination de toute la DINSIC.
 > **Introduction à Github**<br/> par Antoine Augusti le 28 janvier
 > 2019.
 
-> **Introduction à la cryptographie**<br/> par Christian Quest le XX
+> **Introduction à la cryptographie**<br/> par Christian Quest le 9
 > janvier 2019.
-
-
-# 
