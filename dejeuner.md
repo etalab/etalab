@@ -2,7 +2,7 @@
 
 ## Cantine
 
-Il existe une cantine dans les bâtiments du 20 avenue de Ségur, Paris. Elle se trouve au rez-de-chaussée, à côté de la cafétaria.
+Il existe une cantine dans les bâtiments du 20 avenue de Ségur, Paris. Elle se trouve au rez-de-chaussée, à côté de la cafétéria.
 
 ### Tarifs
 La cantine est exploitée par Elior. Les tarifs sont les suivants, sur la base du forfait 1 plat + 1 *périphérique* (entrée ou dessert) + 1 pain.
@@ -23,9 +23,9 @@ Pour les **personnes extérieures**, le forfait repas comprend 1 plat, 2 *périp
 Vous pouvez accéder et payer à la cantine à l'aide de votre badge d'accès au bâtiment.
 
 ### Recharger son badge
-Vous trouverez des bornes de rechargement au rez-de-chaussée du bâtiment, près de la cafétaria et à l'entrée de la cantine.
+Vous trouverez des bornes de rechargement au rez-de-chaussée du bâtiment, près de la cafétéria et à l'entrée de la cantine.
 
-Elier propose de [recharger en ligne](https://timechef.elior.com) son badge. Le nom du site est Ségur Fontenoy, 75007. Sur ce site web sont également indiqués les menus, votre historique de dépense, l'affluence prévue et en temps réel.
+Elior propose de [recharger en ligne](https://timechef.elior.com) son badge. Le nom du site est Ségur Fontenoy, 75007. Sur ce site web sont également indiqués les menus, votre historique de dépense, l'affluence prévue et en temps réel.
 
 ## Restaurants aux alentours
 À compléter.
