@@ -8,6 +8,7 @@ Il existe une cantine dans les bâtiments du 20 avenue de Ségur, Paris. Elle se
 La cantine est exploitée par Elior. Les tarifs sont les suivants, sur la base du forfait 1 plat + 1 *périphérique* (entrée ou dessert) + 1 pain.
 
 La grille au 1er janvier 2019 est la suivante :
+
 | Tranche tarifaire | Rémunération mensuelle nette | Tarif du forfait |
 | --- | --- | --- |
 | 1 | <= 2 220 € | 2,42 € |
