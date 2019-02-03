@@ -3,6 +3,9 @@
 Ateliers techniques internes à Etalab donnés par des membres d'Etalab
 et à destination de toute la DINSIC.
 
+> **Initiation à l'éditeur de texte GNU Emacs**<br/> par Bastien
+> Guerry le 28 février 2019.
+
 > **Comprendre et utiliser Proxmox**<br/> par Christian Quest le 29
 > janvier 2019.
 
