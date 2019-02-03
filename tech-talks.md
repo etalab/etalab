@@ -6,6 +6,9 @@ et à destination de toute la DINSIC.
 > **Initiation à l'éditeur de texte GNU Emacs**<br/> par Bastien
 > Guerry le 28 février 2019.
 
+> **Présentation de la méthode « Inbox Zéro »**<br/> par Bastien
+> Guerry le 20 février 2019.
+
 > **Comprendre et utiliser Proxmox**<br/> par Christian Quest le 29
 > janvier 2019.
 
