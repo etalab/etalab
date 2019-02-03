@@ -8,6 +8,7 @@
 - [Nos bureaux](nos-bureaux.md)
 - [Où déjeuner ?](dejeuner.md)
 - [Nos rituels](nos-rituels.md)
+- [Nos logiciels libres](logiciels-libres.md)
 - [Règles typographiques](typographie.md)
 - [Présentations et diaporamas](presentations.md)
 - [Liste des évènements passés](evenements.md)
