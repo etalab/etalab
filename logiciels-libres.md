@@ -13,6 +13,10 @@ Son code est disponible sur le compte d'organisation [OpenDataTeam](https://gith
 **Vous êtes un organisme public** et souhaitez déployer une instance
 de udata ?  Écrivez à [mailto:udata@data.gouv.fr](udata@data.gouv.fr) pour que nous discutions de la meilleure façon de vous accompagner.
 
+Tout le monde peut suivre les annonces de l'équipe udata sur https://twitter.com/udata_project
+
+Vous pouvez entrer en discussion avec l'équipe via [cet espace de discussion](https://gitter.im/opendatateam/udata).
+
 <!-- **Vous êtes un autre acteur?** Tenez-vous au courant des sessions d'information ouvertes au public. -->
 
 ## OpenFisca
