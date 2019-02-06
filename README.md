@@ -10,5 +10,6 @@
 - [Nos rituels](nos-rituels.md)
 - [Nos logiciels libres](logiciels-libres.md)
 - [Règles typographiques](typographie.md)
+- [Tech talks internes à la DINSIC](tech-talks.md)
 - [Présentations et diaporamas](presentations.md)
 - [Liste des évènements passés](evenements.md)
