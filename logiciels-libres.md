@@ -4,9 +4,9 @@ Les logiciels listés sur cette page sont ceux qu'Etalab maintient activement et
 
 ## udata
 
-[udata](https://getudata.org) est un logiciel libre permettant de mettre en place un portail de données.
+[udata](https://getudata.org) est un logiciel libre permettant de mettre en place une plateforme de données.
 
-Il est utilisé pour le portail https://data.gouv.fr et publié sous licence libre.
+Il est utilisé pour la plateforme https://data.gouv.fr et publié sous licence libre.
 
 Son code est disponible sur le compte d'organisation [OpenDataTeam](https://github.com/opendatateam/).
 
