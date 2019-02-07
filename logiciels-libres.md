@@ -24,6 +24,32 @@ Les logiciels listés sur cette page sont ceux qu'Etalab maintient activement et
 - Compte d'organisation pour le code source : [OpenFisca](https://github.com/openfisca/)
 - Licence : [GNU Affero General Public License v3.0](https://github.com/opendatateam/udata/blob/master/LICENSE)
 
+## Outils d'exposition (API) de données publiques
+
+Le site de référence pour vous informer sur ces données est
+https://entreprise.api.gouv.fr/.
+
+Le point de contact pour obtenir de l'aide est
+[tech@entreprise.api.gouv.fr](mailto:tech@entreprise.api.gouv.fr).
+
+### Données SIRENE
+
+- API pour servir les données de la base SIRENE
+- https://github.com/etalab/sirene_as_api
+- [Licence MIT](https://github.com/etalab/sirene_as_api/blob/master/LICENSE)
+
+### Données du RNA (registre national des associations)
+
+- API pour servir les données du registre national des associations
+- https://github.com/etalab/rna_as_api
+- [Licence MIT](https://github.com/etalab/rna_as_api/blob/master/LICENSE)
+
+<!-- ### Données du RNCS (registre national du commerce et des sociétés) -->
+
+<!-- - API pour servir les données du registre national du commerce et des sociétés -->
+<!-- - https://github.com/etalab/rncs_worker_api_entreprise -->
+<!-- - Licence ? -->
+
 ## Autres outils
 
 - [Croquemort](https://github.com/opendatateam/croquemort) : outil de vérification des ressources HTTP d'un site web.
