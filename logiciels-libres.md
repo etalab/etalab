@@ -4,18 +4,13 @@ Les logiciels listés sur cette page sont ceux qu'Etalab maintient activement et
 
 ## udata
 
-[udata](https://getudata.org) est un logiciel libre permettant de mettre en place une plateforme de données.
+[udata](https://getudata.org) est un logiciel libre permettant de mettre en place une plateforme de données. Il est utilisé pour la plateforme https://data.gouv.fr et publié sous licence libre.
 
-Il est utilisé pour la plateforme https://data.gouv.fr et publié sous licence libre.
-
-Son code est disponible sur le compte d'organisation [OpenDataTeam](https://github.com/opendatateam/).
-
-**Vous êtes un organisme public** et souhaitez déployer une instance
-de udata ?  Écrivez à [mailto:udata@data.gouv.fr](udata@data.gouv.fr) pour que nous discutions de la meilleure façon de vous accompagner.
-
-Tout le monde peut suivre les annonces de l'équipe udata sur https://twitter.com/udata_project
-
-Vous pouvez entrer en discussion avec l'équipe via [cet espace de discussion](https://gitter.im/opendatateam/udata).
+- Point de contact pour déployer votre instance : [mailto:udata@data.gouv.fr](udata@data.gouv.fr)
+- Discuter avec l'équipe : [Salon gitter.im](https://gitter.im/opendatateam/udata)
+- Suivire le compte Twitter : [@udata_project](https://twitter.com/udata_project)
+- Compte d'organisation pour le code source : [OpenDataTeam](https://github.com/opendatateam/)
+- Licence : [GNU Affero General Public License v3.0](https://github.com/opendatateam/udata/blob/master/LICENSE)
 
 <!-- **Vous êtes un autre acteur?** Tenez-vous au courant des sessions d'information ouvertes au public. -->
 
@@ -23,9 +18,11 @@ Vous pouvez entrer en discussion avec l'équipe via [cet espace de discussion](h
 
 [OpenFisca](https://openfisca.org/fr/) est un logiciel libre dont le but est de « transformer le code législatif en code logiciel. »
 
-Son code est disponible sur le compte d'organisation [OpenFisca](https://github.com/openfisca).
-
-**Vous êtes un organisme public** et souhaitez utiliser ou contribuer à OpenFisca ?  Écrivez à [mailto:dinsic@openfisca.fr](dinsic@openfisca.fr) pour que nous discutions de la meilleure façon de vous accompagner.
+- Point de contact pour prendre en main l'outil : [mailto:dinsic@openfisca.fr](dinsic@openfisca.fr)
+- Discuter avec l'équipe : écrire à [mailto:contact@openfisca.org](contact@openfisca.org) et demander à rejoindre le salon de discussion
+- Suivire le compte Twitter : [@OpenFisca](https://twitter.com/OpenFisca)
+- Compte d'organisation pour le code source : [OpenFisca](https://github.com/openfisca/)
+- Licence : [GNU Affero General Public License v3.0](https://github.com/opendatateam/udata/blob/master/LICENSE)
 
 ## Autres outils
 
