@@ -26,29 +26,27 @@ Les logiciels listés sur cette page sont ceux qu'Etalab maintient activement et
 
 ## Outils d'exposition (API) de données publiques
 
-Le site de référence pour vous informer sur ces données est
-https://entreprise.api.gouv.fr/.
+Le site de référence pour vous informer sur ces données est https://entreprise.api.gouv.fr.
 
-Le point de contact pour obtenir de l'aide est
-[tech@entreprise.api.gouv.fr](mailto:tech@entreprise.api.gouv.fr).
+Le point de contact pour obtenir de l'aide est [tech@entreprise.api.gouv.fr](mailto:tech@entreprise.api.gouv.fr).
 
 ### Données SIRENE
 
 - API pour servir les données de la base SIRENE
-- https://github.com/etalab/sirene_as_api
+- [Dépôt de code `sirene_as_api`](https://github.com/etalab/sirene_as_api)
 - [Licence MIT](https://github.com/etalab/sirene_as_api/blob/master/LICENSE)
 
 ### Données du RNA (registre national des associations)
 
 - API pour servir les données du registre national des associations
-- https://github.com/etalab/rna_as_api
+- [Dépôt de code `rna_as_api`](https://github.com/etalab/rna_as_api)
 - [Licence MIT](https://github.com/etalab/rna_as_api/blob/master/LICENSE)
 
-<!-- ### Données du RNCS (registre national du commerce et des sociétés) -->
+### Données du RNCS (registre national du commerce et des sociétés)
 
-<!-- - API pour servir les données du registre national du commerce et des sociétés -->
-<!-- - https://github.com/etalab/rncs_worker_api_entreprise -->
-<!-- - Licence ? -->
+- API pour servir les données du registre national du commerce et des sociétés
+- [Dépôt de code `rncs_worker_api_entreprise`](https://github.com/etalab/rncs_worker_api_entreprise)
+- [Licence MIT](https://github.com/etalab/rncs_worker_api_entreprise/blob/master/LICENSE)
 
 ## Autres outils
 
