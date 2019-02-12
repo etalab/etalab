@@ -3,6 +3,9 @@
 Ateliers techniques internes à Etalab donnés par des membres d'Etalab
 et à destination de toute la DINSIC.
 
+> **Internet pour les nuls**<br/> par Christian Quest le 15 février de
+> 12h30 à 14 en salle 5.728.
+
 > **Initiation à l'éditeur de texte GNU Emacs**<br/> par Bastien
 > Guerry le 28 février 2019 de 13h à 14h en salle 5.723.
 
