@@ -3,7 +3,7 @@ Cette page recense la liste des algorithmes administratifs faisant l'objet d'une
 
 # Algorithmes publics publiés
 
-Le tableau est généré à partir d'une autre source, merci de ne pas l'éditer directement.  Si vous voulez apporter une modification, indiquez là en [ouvrant une issue](https://github.com/etalab/etalab/issues/new) et sollicitez @bzg pour la revue.
+Le tableau est généré à partir d'une autre source, merci de ne pas l'éditer directement.  Si vous voulez apporter une modification, indiquez là en [ouvrant une issue](https://github.com/etalab/etalab/issues/new) et sollicitez `@bzg` pour la revue.
 
 <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
