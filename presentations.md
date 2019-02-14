@@ -2,6 +2,11 @@
 
 Diaporamas présentés par des membres d’Etalab lors d’ateliers ou de conférences en public.
 
+> **Les logiciels libres dans le cadre du programme Entrepreneurs d'intérêt général**<br/>
+> Intervention Etalab sur invitation du programme EIG — 13 février 2019<br/>
+> [Version web](https://speakerdeck.com/bluehats/les-logiciels-libres-dans-le-cadre-du-programme-entrepreneur-dinteret-general) | Par
+> [Bastien Guerry](https://github.com/bzg)
+
 > **Connectez vos territoires à data.gouv.fr avec les moissoneurs de portail OpenData**<br/>
 > Intervention Etalab sur invitation du programme DCANT — 20 décembre 2018<br/>
 > [Version web](https://pad.etalab.studio/p/S1sIwFwg4) | Par
