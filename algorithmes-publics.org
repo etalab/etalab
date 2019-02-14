@@ -4,7 +4,7 @@ Cette page recense la liste des algorithmes administratifs faisant l'objet d'une
 
 La loi pour une république numérique pose deux principes :
 
-- celui de redevabilité des administrations à l'égard des citoyens concernant les algorithmes portant sur une décision individuelle : l'administration doit rendre ces algorithmes compréhensibles pour les citoyens.
+- celui de transparence des algorithmes utilisés pour prendre des décisions administratives individuelles: ils doivent faire l'objet d'une mention explicite, d'une information générale. Les personnes (physiques ou morales) concernées par le traitement disposent d'un droit à l'information individuelle,
 - celui de la communicabilité des codes sources produits dans le cadre de la mise en oeuvre de l'ouverture des données administratives.
 
 « Publier » un algorithme consiste à publier un document le présentant et expliquant son fonctionnement sous la forme d'un document lisible par un humain, possiblement complété par le code source implémentant l'algorithme.
@@ -13,7 +13,7 @@ Pour le sujet particulier de l'ouverture des codes sources, voir [[https://githu
 
 * Algorithmes publics aujourd'hui publiés
 
-| Décision individuelle             | Producteur     | URL de l'algorithme            | Informations complémentaires | Licence     |
+| Thème / objet                     | Producteur     | URL de publication             | Informations complémentaires | Licence     |
 |-----------------------------------+----------------+--------------------------------+------------------------------+-------------|
 | Calcul des Allocations Familiales | [[http://www.caf.fr/][CNAF]]           | [[https://cdn2.nextinpact.com/medias/code-source-cnaf.zip][Nextimpact]]                     | [[https://www.nextinpact.com/news/106298-les-allocations-familales-nous-ouvrent-code-source-leur-calculateur-daides.htm][Nextimpact]]                   | N/A*        |
 | Calcul de la taxe d'habitation    | [[https://www.economie.gouv.fr/dgfip][DGFIP]]          | [[https://github.com/etalab/taxe-habitation][Github]]                         | [[https://www.etalab.gouv.fr/temoignage-peut-on-recoder-la-loi-lexemple-de-la-taxe-dhabitation][Blog Etalab]]                  | [[https://github.com/DGTresor/Opale/blob/master/LICENSE][CeCILL v2.1]] |
