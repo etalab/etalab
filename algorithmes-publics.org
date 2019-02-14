@@ -2,8 +2,6 @@ Cette page recense la liste des algorithmes administratifs faisant l'objet d'une
 
 * Algorithmes publics publiés
 
-Le tableau est généré à partir d'une autre source, merci de ne pas l'éditer directement.  Si vous voulez apporter une modification, indiquez là en [[https://github.com/etalab/etalab/issues/new][ouvrant une issue]] et sollicitez =@bzg= pour la revue.
-
 | Décision individuelle             | Producteur     | URL de l'algorithme            | Informations complémentaires | Licence     |
 |-----------------------------------+----------------+--------------------------------+------------------------------+-------------|
 | Calcul des Allocations Familiales | [[http://www.caf.fr/][CNAF]]           | [[https://cdn2.nextinpact.com/medias/code-source-cnaf.zip][Nextimpact]]                     | [[https://www.nextinpact.com/news/106298-les-allocations-familales-nous-ouvrent-code-source-leur-calculateur-daides.htm][Nextimpact]]                   | N/A         |

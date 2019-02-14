@@ -9,7 +9,7 @@
 - [Où déjeuner ?](dejeuner.md)
 - [Nos rituels](nos-rituels.md)
 - [Nos logiciels libres](logiciels-libres.md)
-- [Algorithmes publics](algorithmes-publics.md)
+- [Algorithmes publics](algorithmes-publics.org)
 - [Règles typographiques](typographie.md)
 - [Tech talks internes à la DINSIC](tech-talks.md)
 - [Présentations et diaporamas](presentations.md)
