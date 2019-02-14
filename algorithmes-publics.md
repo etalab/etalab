@@ -1,20 +1,10 @@
 Cette page recense la liste des algorithmes administratifs faisant l'objet d'une publication dans le cadre de l'application de la loi pour une République numérique.
 
-
 # Algorithmes publics publiés
 
 Le tableau est généré à partir d'une autre source, merci de ne pas l'éditer directement.  Si vous voulez apporter une modification, indiquez là en [ouvrant une issue](https://github.com/etalab/etalab/issues/new) et sollicitez `@bzg` pour la revue.
 
 <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
-
-
-<colgroup>
-<col  />
-<col  />
-<col  />
-<col  />
-<col  />
-</colgroup>
 <thead>
 <tr>
 <th scope="col">Décision individuelle</th>
@@ -34,7 +24,6 @@ Le tableau est généré à partir d'une autre source, merci de ne pas l'éditer
 <td>N/A</td>
 </tr>
 
-
 <tr>
 <td>Calcul de la taxe d'habitation</td>
 <td>[DGFIP](https://www.economie.gouv.fr/dgfip)</td>
@@ -42,7 +31,6 @@ Le tableau est généré à partir d'une autre source, merci de ne pas l'éditer
 <td>[Blog Etalab](https://www.etalab.gouv.fr/temoignage-peut-on-recoder-la-loi-lexemple-de-la-taxe-dhabitation)</td>
 <td>[CeCILL v2.1](https://github.com/DGTresor/Opale/blob/master/LICENSE)</td>
 </tr>
-
 
 <tr>
 <td>Parcours Sup</td>
@@ -52,7 +40,6 @@ Le tableau est généré à partir d'une autre source, merci de ne pas l'éditer
 <td>[GNU GPL v3](https://framagit.org/parcoursup/algorithmes-de-parcoursup/blob/master/LICENSE)</td>
 </tr>
 
-
 <tr>
 <td>Impôt sur le revenu</td>
 <td>[DGFIP](https://www.economie.gouv.fr/dgfip)</td>
@@ -60,7 +47,6 @@ Le tableau est généré à partir d'une autre source, merci de ne pas l'éditer
 <td>[Github](https://github.com/etalab/calculette-impots-m-source-code/blob/master/README.md)</td>
 <td>[CeCILL v2.1](https://github.com/DGTresor/Opale/blob/master/LICENSE)</td>
 </tr>
-
 
 <tr>
 <td>Mésange</td>
@@ -70,7 +56,6 @@ Le tableau est généré à partir d'une autre source, merci de ne pas l'éditer
 <td>[CeCILL v2.1](https://github.com/DGTresor/Opale/blob/master/LICENSE)</td>
 </tr>
 
-
 <tr>
 <td>Opale</td>
 <td>[Trésor](https://www.tresor.economie.gouv.fr/)</td>
@@ -79,7 +64,6 @@ Le tableau est généré à partir d'une autre source, merci de ne pas l'éditer
 <td>[CeCILL v2.1](https://github.com/DGTresor/Opale/blob/master/LICENSE)</td>
 </tr>
 
-
 <tr>
 <td>Saphir</td>
 <td>[Trésor](https://www.tresor.economie.gouv.fr/)</td>
@@ -87,7 +71,6 @@ Le tableau est généré à partir d'une autre source, merci de ne pas l'éditer
 <td>[Github](https://github.com/DGTresor/Saphir/blob/master/README.md)</td>
 <td>[CeCILL v2.1](https://github.com/DGTresor/Opale/blob/master/LICENSE)</td>
 </tr>
-
 
 <tr>
 <td>Allocation de retour à l'emploi</td>
@@ -98,7 +81,6 @@ Le tableau est généré à partir d'une autre source, merci de ne pas l'éditer
 </tr>
 </tbody>
 </table>
-
 
 # Offre d'accompagnement d'Etalab
 
