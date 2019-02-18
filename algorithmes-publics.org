@@ -4,8 +4,18 @@ Cette page recense la liste des algorithmes administratifs faisant l'objet d'une
 
 La loi pour une république numérique pose deux principes :
 
-- celui de transparence des algorithmes utilisés pour prendre des décisions administratives individuelles: ils doivent faire l'objet d'une mention explicite, d'une information générale. Les personnes (physiques ou morales) concernées par le traitement disposent d'un droit à l'information individuelle ;
-- celui de la communicabilité des codes sources produits dans le cadre de la mise en oeuvre de l'ouverture des données administratives.
+- Celui de la communication des règles algorithmiques intervenant dans des décisions administratives individuelles. Ces traitements doivent faire l'objet d'une mention explicite et d'une information générale.  Les personnes (physiques ou morales) concernées par le traitement disposent d'un droit à l'information individuelle.
+
+- Celui de la communication des codes sources produits dans le cadre de la mise en oeuvre de l'ouverture des données administratives.
+
+Le premier principe est clairement exposé dans [[https://www.legifrance.gouv.fr/affichLoiPubliee.do?idDocument=JORFDOLE000031589829&type=general&legislature=14][le texte de la loi]] (article 4) :
+
+: Art. L. 311-3-1.-Sous réserve de l'application du 2° de l'article
+: L. 311-5, une décision individuelle prise sur le fondement d'un
+: traitement algorithmique comporte une mention explicite en informant
+: l'intéressé. Les règles définissant ce traitement ainsi que les
+: principales caractéristiques de sa mise en œuvre sont communiquées par
+: l'administration à l'intéressé s'il en fait la demande.
 
 « Publier » un algorithme consiste à publier un document le présentant et expliquant son fonctionnement sous la forme d'un document lisible par un humain, possiblement complété par le code source implémentant l'algorithme.
 
