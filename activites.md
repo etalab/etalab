@@ -2,19 +2,25 @@ Cette page propose un survol des activités d'Etalab.
 
 # Plateforme data.gouv.fr
 
-Etalab est l'opération pour [data.gouv.fr](https://www.data.gouv.fr/),
-la plateforme de mise à disposition des données publiques.
+Etalab est l'opération pour [data.gouv.fr](https://www.data.gouv.fr/), la plateforme de mise à disposition des données publiques.
 
-data.gouv.fr s'appuie sur le logiciel libre
-[udata](https://getudata.org/), maintenu par Etalab.
+data.gouv.fr s'appuie sur le logiciel libre [udata](https://getudata.org/), maintenu par Etalab.
+
+# Service Public de la Donnée
+
+Etalab maintient des API autour de données publiques clefs parmi lesquelles :
+
+<!-- - https://geo.data.gouv.fr -->
+- [API Entreprise](https://entreprise.api.gouv.fr)
+- [Registre national du commerce et des sociétés](https://github.com/etalab/etalab/blob/master/logiciels-libres.md#donn%C3%A9es-du-rna-registre-national-des-associations)
+- [Registre National des Associations](https://github.com/etalab/etalab/blob/master/logiciels-libres.md#donn%C3%A9es-du-rna-registre-national-des-associations)
+- [SIRENE](https://github.com/etalab/etalab/blob/master/logiciels-libres.md#donn%C3%A9es-sirene)
 
 # Plateforme de consultation / Open Gov
 
-Etalab accompagne les administrations qui souhaitent lancer des
-consultations publiques via https://consultation.etalab.gouv.fr.
+Etalab accompagne les administrations qui souhaitent lancer des consultations publiques via <https://consultation.etalab.gouv.fr>.
 
-Etalab participe aux efforts internationaux dans le cadre du
-partenariat pour un gouvernement ouvert.
+Etalab participe aux efforts internationaux dans le cadre du [partenariat pour un gouvernement ouvert](https://www.opengovpartnership.org) et suit le [Plan d’action de la France](https://www.etalab.gouv.fr/plan-daction-national) pour une action publique transparente et collaborative.
 
 # Pôle datascience
 
