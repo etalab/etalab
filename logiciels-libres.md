@@ -24,7 +24,7 @@ Les logiciels listés sur cette page sont ceux qu'Etalab maintient activement et
 
 ## Outils d'exposition (API) de données publiques
 
-Le site de référence pour vous informer sur ces données est [](https://entreprise.api.gouv.fr).
+Le site de référence pour vous informer sur ces données est [entreprise.api.gouv.fr](https://entreprise.api.gouv.fr).
 
 Le point de contact pour obtenir de l'aide est [tech@entreprise.api.gouv.fr](mailto:tech@entreprise.api.gouv.fr).
 
