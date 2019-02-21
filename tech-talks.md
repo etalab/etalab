@@ -9,7 +9,7 @@ et à destination de toute la DINSIC.
 > **Initiation à l'éditeur de texte GNU Emacs**<br/> par Bastien
 > Guerry le 28 février 2019 de 13h à 14h en salle 5.723.
 
-> **Présentation de la méthode « Inbox Zéro »**<br/> par Bastien
+> **[Présentation de la méthode « Inbox Zéro »](https://speakerdeck.com/bzg/merlin-mann-et-marie-kondo-sont-dans-une-boite-demails)**<br/> par Bastien
 > Guerry le 20 février 2019 de 13h à 14h en salle 4.107.
 
 > **[Comprendre et utiliser Proxmox](https://owncloud.data.gouv.fr/s/SsmoSAEC4JnN9Ms)**<br/> par Christian Quest le 29
