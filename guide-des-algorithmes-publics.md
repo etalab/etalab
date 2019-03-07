@@ -1,4 +1,4 @@
-# Objectifs de ce guide
+# Guide des algorithmes publics
 
 La mission Etalab accompagne les administrations dans l'application du nouveau cadre juridique sur les algorithmes publics.
 Ce guide est composé de trois parties qui peuvent se lire de manière indépendante.
@@ -57,7 +57,27 @@ En ce sens, les algorithmes publics sont des formes de l'action publique et sont
 
 ## Comment les algorithmes publics peuvent-ils "rendre des comptes" ?
 
-Ce ne sont pas tant les algorithmes eux-mêmes que les administrations qui les mettent en oeuvre qui doivent rendre des comptes. On parle de **principe de redevabilité**.
+Ce ne sont pas tant les algorithmes eux-mêmes que les administrations qui les mettent en oeuvre qui doivent rendre des comptes. On parle de **principe de redevabilité**. Concrètement cela signifie: 
+- **signaler**, en indiquant quand un algorithme est utilisé,
+- **décrire**, en précisant le fonctionnement général de l'algorithme,
+- **justifier**, en expliquant les objectifs poursuivis et les raisons du recours à cet algorithme,
+- **expliquer ses effets**, en expliquant un résultat individuel mais aussi en précisant les impacts généraux et particuliers,
+- **rendre accessible**, en publiant le code source et la documentation associée,
+- **permettre la contestation**, en indiquant les voies de recours possibles.
 
-![Comment rendre des comptes](https://github.com/schignard/etalab/blob/patch-3/Algo-redevabilite.png)
+Il faut noter que plusieurs manières de rendre des comptes (se signaler, décrire, justifier, expliquer, ...) correspondent à des **obligations légales** introduites par la loi pour une République numérique ou plus récemment le Réglement général sur la protection des données (RGPD). La troisième partie de ce document présente le cadre juridique applicable.
+
+## Comment rendre des décisions "justes" à l'aide des algorithmes ? ##
+
+La prise de décision (automatisée ou non) constitue l'un des principaux usages des algorithmes dans le secteur public. Par exemple pour déterminer le droit à une aide sociale ou encore gérer la mobilité des enseignants. 
+Nous nous intéressons ici au **principe de justice**: quelles sont les conditions requises pour qu'un individu concerné par la décision la juge "juste" ? 
+
+Nous avons identifié **quatre critères** à respecter pour qu'une décision prise à l'aide d'un algorithme soit considéré comme juste: 
+- la **transparence**: il faut que la procédure soit décrite,
+- l'**intelligibilité**: il faut que la procédure soit comprise par les intéressés,
+- la **loyauté**: il faut que la procédure décrite soit effectivement utilisée de manière complète et fidèle,
+- l'**égalité de traitement**: il faut qu'aucun individu n'ait fait l'objet d'un traitement plus favorable (ou défavorable) que les autres individus concernés.
+
+On notera qu'un individu peut tout à fait considérer comme juste une décision qui ne lui est pas favorable (si par exemple la décision consiste à lui refuser une indemnité car il n'est pas éligible selon les critères fixés par la loi).
+
 
