@@ -100,7 +100,9 @@ Le code des relations entre le public et l'administration (CRPA) précise le pé
 
 Alors vous devez remplir les nouvelles obligations liées à la **transparence des algorithmes**.
 
-## Quelles sont ces obligations ?
+📍On notera que les décisions administratives "individuelles" ne concernent pas uniquement des personnes physiques mais aussi **les personnes morales**. C'est à dire qu'une décision prise par une administration envers une association, une entreprise ou un autre acteur public à l'aide d'un traitement algorithmique sera aussi concerné par ces obligations. 
+
+## Quelles sont ces obligations en matière de transparence ?
 
 📝Le Code des relations entre le public et l'administration définit 3 obligations: 
 1. fournir une **information générale** ([article L.312-1-1-3](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000033205516&dateTexte=&categorieLien=id)) 
