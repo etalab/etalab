@@ -80,4 +80,39 @@ Nous avons identifié **quatre critères** à respecter pour qu'une décision pr
 
 On notera qu'un individu peut tout à fait considérer comme juste une décision qui ne lui est pas favorable (si par exemple la décision consiste à lui refuser une indemnité car il n'est pas éligible selon les critères fixés par la loi).
 
+# 3 - Le cadre juridique applicable
+
+La loi pour une République numérique, et plus récemment le Réglement sur la protection des données à caractère personnel (RGPD) ont introduit de nouvelles dispositions concernant les algorithmes publics. Ces dispositions visent à introduire une plus grande transparence et une plus grande redevabilité de ces systèmes, en particulier quand ils sont utilisés pour prendre des décisions.
+
+## Qui est concerné par la transparence des algorithmes ?
+
+Le code des relations entre le public et l'administration (CRPA) précise le périmètre des administrations et des traitements concernés. 
+Si: **une administration d’Etat, une collectivité, un organisme de droit public ou de droit privé intervenants dans le cadre d’une mission de service public**,
+- vous utilisez un **traitement algorithmique**,
+- à l’aide de ce traitement, vous prenez des **décisions administratives individuelles envers des personnes physiques ou morales, de droit public ou privé nommément désignées**,
+- et que ce traitement n’est **pas couvert par l’un des secrets définis par la loi**, et en particulier: délibérations du Gouvernement, défense nationale, conduite de la politique extérieure, sûreté de l’Etat, sécurité publique, sécurité des personnes ou des systèmes d’information, recherche et prévention d’infractions, etc. 
+
+Alors vous devez remplir les nouvelles obligations liées à la **transparence des algorithmes**.
+
+## Quelles sont ces obligations ?
+
+La loi définit 3 obligations: fournir une **information générale** (article L.312-1-13 du Code des relations entre le public et l'administration), faire figurer une **mention explicite** (article L.311-3-1) et **fournir une information individuelle à la demande** (article L.311-3-1-2).
+
+A noter que l'obligation d'information générale ne s'applique uniquement qu'aux administrations comptant plus de 50 équivalents temps plein (agents et/ou salariés) et aux collectivités de moins de 3500 habitants. 
+
+Concrètement, si vous remplissez les conditions, alors vous devrez:
+- au titre de l'information générale: **publier en ligne** les règles définissant les principaux traitements utilisés dans l’accomplissement de vos missions lorsqu’ils fondent des décisions individuelles,
+- au titre de la mention explicite: **faire figurer en ligne et sur les documents** (avis, notifications) une mention précisant les finalités du traitement, le rappel du droit de communication, les modalités d’exercice de ce droit,
+- au titre de l'information individuelle: **fournir à la demande de l’intéressé** : le degré et le mode de contribution du traitement algorithmique à la prise de décision, les données traitées et leurs sources, les paramètres de traitement et leur pondération, appliqués à la situation de l'intéressé, les opérations effectuées par le traitement.
+
+On notera que ces obligations s'appliquent à l'ensemble des traitements qui fondent des décisions administratives individuelles, quel que soit le degré d'intervention humaine. Elles concernent donc aussi bien les traitements automatisés que les outils d'aide à la décision.
+
+Cependant, le législateur a introduit en 2018 dans la loi dite "Informatique et libertés" une contrainte supplémentaire concernant les traitements automatisés (sans intervention humaine): à compter du 1er juillet 2020, tout traitement automatisé devra comporter, **à peine de nullité**, l'obligation de mention explicite [article 10 (https://www.legifrance.gouv.fr/affichTexteArticle.do;jsessionid=244F9CD5D2EFCDA76E8894D66088713F.tplgfr28s_1?idArticle=LEGIARTI000037090394&cidTexte=LEGITEXT000006068624&dateTexte=20190307) de la loi du 6 janvier 1978).
+
+## Un outil pour tester vos connaissances
+
+
+
+
+
 
