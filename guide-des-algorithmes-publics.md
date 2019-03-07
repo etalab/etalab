@@ -6,7 +6,7 @@ Ce guide est composé de trois parties qui peuvent se lire de manière indépend
 - La seconde partie détaille les **enjeux en termes d'éthique et de responsabilité**, 
 - La troisième partie présente le **cadre juridique applicable** suite à l'adoption de la loi pour une République numérique.
 
-Etalab publie par ailleurs la liste des codes sources et algorithmes publiés. 
+📎 Etalab publie par ailleurs la liste des codes sources et algorithmes publiés. 
 
 ## A qui est-il destiné ?
 
@@ -22,9 +22,9 @@ Vous pouvez contribuer à améliorer ce guide en proposant une modification dans
 Commencons tout d'abord par une définition: **qu'est qu'un algorithme** ? 
 > Selon la CNIL, un algorithme est une "*suite finie et non ambigüe d’étapes ou d’instructions permettant d’obtenir un résultat à partir d’éléments fournis en entrée"*.
 
-Retenons que, selon cette définition, un algorithme peut donc exister indépendament d'un traitement informatique. Une grille de notation "papier" utilisée par une administration peut donc être considérée comme un algorithme.
+📍 Retenons que, selon cette définition, un algorithme peut donc exister **indépendamment d'un traitement informatique**. Une grille de notation "papier" utilisée par une administration peut donc être considérée comme un algorithme.
 
-Nous avons recensé plusieurs types d'usages des algorithmes dans les administrations, avec une série d'exemples associés.
+Nous avons recensé plusieurs types d'**usages des algorithmes** dans les administrations, avec une série d'exemples associés.
 
 | Usages      | Exemples |
 | ----------- | ----------- |
@@ -36,6 +36,7 @@ Nous avons recensé plusieurs types d'usages des algorithmes dans les administra
 ## Décision automatisée ou aide à la décision ?
 
 Certains algorithmes peuvent être utilisés pour prendre des décisions envers des individus, personnes physiques (agents, usagers du service public, ...) ou morales (entreprises, autres acteurs publics, ...).
+
 On les distingue selon le **degré d'intervention humaine dans la prise de décision**: 
 - Certains fonctionnent sans intervention humaine (par exemple le calcul de l'impôt des 37 millions de foyers fiscaux). On parle alors de **traitement automatisé**.
 
@@ -56,7 +57,7 @@ Par rapport aux algorithmes mis en oeuvre par le secteur privé, les algorithmes
 2. Ils servent souvent à **exécuter le droit**, à (faire) appliquer la loi
 3. Ils sont bien souvent **incontournables**, c'est à dire qu'il n'existe pas d'alternatives pour les usagers.
 
-En ce sens, les algorithmes publics sont des formes de l'action publique et sont à ce titre soumis à la même forme d'exigence de redevabilité. Ils doivent "rendre des comptes".
+📍En ce sens, les algorithmes publics sont des formes de l'action publique et sont à ce titre soumis à la même forme d'exigence de redevabilité. Ils doivent "rendre des comptes".
 
 ## Comment les algorithmes publics peuvent-ils "rendre des comptes" ?
 
@@ -72,7 +73,7 @@ Il faut noter que plusieurs manières de rendre des comptes (se signaler, décri
 
 ## Comment rendre des décisions "justes" à l'aide des algorithmes ? ##
 
-La prise de décision (automatisée ou non) constitue l'un des principaux usages des algorithmes dans le secteur public. Par exemple pour déterminer le droit à une aide sociale ou encore gérer la mobilité des enseignants. 
+La prise de décision (automatisée ou non) constitue l'un des principaux usages des algorithmes dans le secteur public - par exemple pour déterminer le droit à une aide sociale ou encore gérer la mobilité des enseignants. 
 Nous nous intéressons ici au **principe de justice**: quelles sont les conditions requises pour qu'un individu concerné par la décision la juge "juste" ? 
 
 Nous avons identifié **quatre critères** à respecter pour qu'une décision prise à l'aide d'un algorithme soit considéré comme juste: 
@@ -81,16 +82,17 @@ Nous avons identifié **quatre critères** à respecter pour qu'une décision pr
 - la **loyauté**: il faut que la procédure décrite soit effectivement utilisée de manière complète et fidèle,
 - l'**égalité de traitement**: il faut qu'aucun individu n'ait fait l'objet d'un traitement plus favorable (ou défavorable) que les autres individus concernés.
 
-On notera qu'un individu peut tout à fait considérer comme juste une décision qui ne lui est pas favorable (si par exemple la décision consiste à lui refuser une indemnité car il n'est pas éligible selon les critères fixés par la loi).
+📍On notera qu'un individu peut tout à fait considérer comme juste une décision qui ne lui est pas favorable (si par exemple la décision consiste à lui refuser une indemnité car il n'est pas éligible selon les critères fixés par la loi).
 
 # 3 - Le cadre juridique applicable
 
-La loi pour une République numérique, et plus récemment le Réglement sur la protection des données à caractère personnel (RGPD) ont introduit de nouvelles dispositions concernant les algorithmes publics. Ces dispositions visent à introduire une plus grande transparence et une plus grande redevabilité de ces systèmes, en particulier quand ils sont utilisés pour prendre des décisions.
+La loi pour une République numérique, et plus récemment le Réglement sur la protection des données à caractère personnel (RGPD) ont introduit de nouvelles dispositions concernant les algorithmes publics. Ces dispositions visent à introduire une **plus grande transparence et** une plus grande **redevabilité** de ces systèmes, en particulier quand ils sont utilisés pour prendre des décisions.
 
 ## Qui est concerné par la transparence des algorithmes ?
 
 Le code des relations entre le public et l'administration (CRPA) précise le périmètre des administrations et des traitements concernés. 
-Si: **une administration d’Etat, une collectivité, un organisme de droit public ou de droit privé intervenants dans le cadre d’une mission de service public**,
+📝 Si vous êtes: 
+- **une administration d’Etat, une collectivité, un organisme de droit public ou de droit privé intervenants dans le cadre d’une mission de service public**,
 - vous utilisez un **traitement algorithmique**,
 - à l’aide de ce traitement, vous prenez des **décisions administratives individuelles envers des personnes physiques ou morales, de droit public ou privé nommément désignées**,
 - et que ce traitement n’est **pas couvert par l’un des secrets définis par la loi**, et en particulier: délibérations du Gouvernement, défense nationale, conduite de la politique extérieure, sûreté de l’Etat, sécurité publique, sécurité des personnes ou des systèmes d’information, recherche et prévention d’infractions, etc. 
@@ -99,7 +101,7 @@ Alors vous devez remplir les nouvelles obligations liées à la **transparence d
 
 ## Quelles sont ces obligations ?
 
-La loi définit 3 obligations: fournir une **information générale** (article L.312-1-13 du Code des relations entre le public et l'administration), faire figurer une **mention explicite** (article L.311-3-1) et **fournir une information individuelle à la demande** (article L.311-3-1-2).
+📝La loi définit 3 obligations: fournir une **information générale** ([article L.312-1-1-3](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000033205516&dateTexte=&categorieLien=id) du Code des relations entre le public et l'administration), faire figurer une **mention explicite** ([article L.311-3-1](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000033205535&dateTexte=&categorieLien=cid)) et **fournir une information individuelle à la demande** de l'intéressé ([article L.311-3-1-2](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000034195881)).
 
 A noter que l'obligation d'information générale ne s'applique uniquement qu'aux administrations comptant plus de 50 équivalents temps plein (agents et/ou salariés) et aux collectivités de moins de 3500 habitants. 
 
@@ -108,9 +110,9 @@ Concrètement, si vous remplissez les conditions, alors vous devrez:
 - au titre de la mention explicite: **faire figurer en ligne et sur les documents** (avis, notifications) une mention précisant les finalités du traitement, le rappel du droit de communication, les modalités d’exercice de ce droit,
 - au titre de l'information individuelle: **fournir à la demande de l’intéressé** : le degré et le mode de contribution du traitement algorithmique à la prise de décision, les données traitées et leurs sources, les paramètres de traitement et leur pondération, appliqués à la situation de l'intéressé, les opérations effectuées par le traitement.
 
-On notera que ces obligations s'appliquent à l'ensemble des traitements qui fondent des décisions administratives individuelles, quel que soit le degré d'intervention humaine. Elles concernent donc aussi bien les traitements automatisés que les outils d'aide à la décision.
+On notera que ces obligations s'appliquent à l'ensemble des traitements qui fondent des décisions administratives individuelles, **quel que soit le degré d'intervention humaine**. Elles concernent donc aussi bien les traitements automatisés que les outils d'aide à la décision.
 
-Cependant, le législateur a introduit en 2018 dans la loi dite "Informatique et libertés" une contrainte supplémentaire concernant les traitements automatisés (sans intervention humaine): à compter du 1er juillet 2020, tout traitement automatisé devra comporter, **à peine de nullité**, l'obligation de mention explicite - [article 10](https://www.legifrance.gouv.fr/affichTexteArticle.do;jsessionid=244F9CD5D2EFCDA76E8894D66088713F.tplgfr28s_1?idArticle=LEGIARTI000037090394&cidTexte=LEGITEXT000006068624&dateTexte=20190307) de la loi du 6 janvier 1978.
+📍Cependant, le législateur a introduit en 2018 dans la loi dite "Informatique et libertés" une contrainte supplémentaire concernant les traitements automatisés (sans intervention humaine): à compter du 1er juillet 2020, tout traitement automatisé devra comporter, **à peine de nullité**, l'obligation de mention explicite - [article 10](https://www.legifrance.gouv.fr/affichTexteArticle.do;jsessionid=244F9CD5D2EFCDA76E8894D66088713F.tplgfr28s_1?idArticle=LEGIARTI000037090394&cidTexte=LEGITEXT000006068624&dateTexte=20190307) de la loi du 6 janvier 1978.
 
 ## Un outil pour tester vos connaissances
 
