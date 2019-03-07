@@ -33,14 +33,16 @@ Nous avons recensé plusieurs types d'usages des algorithmes dans les administra
 ## Décision automatisée ou aide à la décision ?
 
 Certains algorithmes peuvent être utilisés pour prendre des décisions envers des individus, personnes physiques (agents, usagers du service public, ...) ou morales (entreprises, autres acteurs publics, ...).
-On les distingue selon le degré d'intervention humaine dans la prise de décision. Certains fonctionnent sans intervention humaine (par exemple le calcul de l'impôt des 32 millions de foyers de contribuables). On parle alors de *traitement automatisé*. D'autres sont des outils d'*aide à la décision*: ils aident l'humain à prendre une décision, par exemple en classant des dossiers selon des critères de priorité pour qu'ils soient ensuite étudiés par une commission.
+On les distingue selon le *degré d'intervention humaine dans la prise de décision*. 
+Certains fonctionnent sans intervention humaine (par exemple le calcul de l'impôt des 32 millions de foyers de contribuables). On parle alors de *traitement automatisé*. 
+D'autres sont des outils d'*aide à la décision*: ils aident l'humain à prendre une décision, par exemple en classant des dossiers selon des critères de priorité pour qu'ils soient ensuite étudiés par une commission qui prendra formellement la décision.
 
 # 2 - Les enjeux des algorithmes publics: éthique et responsabilité
 
 ## Algorithmes du secteur public vs. algorithmes du secteur privé
 
 Tout le monde a entendu parler des algorithmes utilisés par les grandes entreprises du numérique. Citons quelques exemples: 
-- le **PageRank** du moteur de recherche Google,
+- le **PageRank** du moteur de recherche Google qui détermine les pages de résultats pour une requête,
 - le **Newsfeed** qui détermine le contenu d'un fil d'actualités Facebook,
 - l'**algorithme de tarification dynamique** d'Uber qui fait varier les prix des courses en fonction de la demande, 
 - ...
@@ -52,4 +54,6 @@ Par rapport aux algorithmes mis en oeuvre par le secteur privé, les algorithmes
 
 En ce sens, les algorithmes publics sont des formes de l'action publique et sont à ce titre soumis à la même forme d'exigence de redevabilité. Ils doivent "rendre des comptes".
 
-## Comment les algorithmes publics peuvent-ils "rendre des comptes" ?
+## Comment les algorithmes publics peuvent-ils "rendre des comptes" (le principe de redevabilité) ?
+
+Ce ne sont pas tant les algorithmes eux-mêmes que les administrations qui les mettent en oeuvre qui doivent rendre des comptes. Concrètement cela signifie: 
