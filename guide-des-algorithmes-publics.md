@@ -38,7 +38,7 @@ On les distingue selon le **degré d'intervention humaine dans la prise de déci
 
 - D'autres sont des outils d'**aide à la décision**: ils aident l'humain à prendre une décision, par exemple en classant des dossiers selon des critères de priorité pour qu'ils soient ensuite étudiés par une commission qui prendra formellement la décision.
 
-# 2 - Les enjeux des algorithmes publics: éthique et responsabilité
+# 2 - Les enjeux des algorithmes publics
 
 ## Algorithmes du secteur public vs. algorithmes du secteur privé
 
