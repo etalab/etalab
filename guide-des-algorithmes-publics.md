@@ -6,7 +6,7 @@ Ce guide est composé de trois parties qui peuvent se lire de manière indépend
 - La seconde partie détaille les **enjeux en termes d'éthique et de responsabilité**, 
 - La troisième partie présente le **cadre juridique applicable** suite à l'adoption de la loi pour une République numérique.
 
-📎 Etalab propose par ailleurs d'autres ressources en lien avec ce sujet: la liste des algorithmes publics publiés par les administrations  ainsi qu'un [guide sur l'ouverture des codes sources](https://github.com/etalab/ouverture-des-codes-sources-publics). 
+📎 Etalab propose par ailleurs d'autres ressources en lien avec ce sujet: la [liste des algorithmes publics publiés](https://github.com/etalab/etalab/blob/master/algorithmes-publics.org) par les administrations  ainsi qu'un [guide sur l'ouverture des codes sources](https://github.com/etalab/ouverture-des-codes-sources-publics). 
 
 ## A qui est-il destiné ?
 
@@ -116,7 +116,7 @@ Concrètement, si vous remplissez les conditions, alors vous devrez:
 
 On notera que ces obligations s'appliquent à l'ensemble des traitements qui fondent des décisions administratives individuelles, **quel que soit le degré d'intervention humaine**. Elles concernent donc aussi bien les traitements automatisés que les outils d'aide à la décision.
 
-📍Cependant, le législateur a introduit en 2018 dans la loi dite "Informatique et libertés" une contrainte supplémentaire concernant les traitements automatisés (c'est à dire sans intervention humaine): à compter du 1er juillet 2020, tout traitement automatisé devra comporter, **à peine de nullité**, l'obligation de mention explicite - [article 10](https://www.legifrance.gouv.fr/affichTexteArticle.do;jsessionid=244F9CD5D2EFCDA76E8894D66088713F.tplgfr28s_1?idArticle=LEGIARTI000037090394&cidTexte=LEGITEXT000006068624&dateTexte=20190307) de la loi du 6 janvier 1978.
+📍Cependant, le législateur a introduit en 2018 dans la loi dite "Informatique et libertés" une obligation supplémentaire concernant les traitements automatisés (c'est à dire sans intervention humaine): à compter du 1er juillet 2020, tout traitement automatisé devra comporter, **à peine de nullité**, l'obligation de mention explicite - [article 10](https://www.legifrance.gouv.fr/affichTexteArticle.do;jsessionid=244F9CD5D2EFCDA76E8894D66088713F.tplgfr28s_1?idArticle=LEGIARTI000037090394&cidTexte=LEGITEXT000006068624&dateTexte=20190307) de la loi du 6 janvier 1978.
 
 ## Un outil pour tester vos connaissances
 
