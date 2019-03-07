@@ -116,6 +116,8 @@ Cependant, le législateur a introduit en 2018 dans la loi dite "Informatique et
 
 Nous vous proposons un outil sous la forme d'un quizz pour tester votre connaissance du cadre légal applicable aux algorithmes publics. Nous avons identifié 8 exemples réels d'utilisation d'algorithmes. Saurez-vous identifié ceux qui, parmi les 8, sont aujourd'hui concernés par les obligations de transparence des algorithmes ?
 
+![Quizz algorithmes](https://github.com/etalab/etalab/blob/master/Algo-quizz.png)
+
 
 
 
