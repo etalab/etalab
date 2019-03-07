@@ -53,8 +53,8 @@ Tout le monde a entendu parler des algorithmes utilisés par les grandes entrepr
 - ...
 
 Par rapport aux algorithmes mis en oeuvre par le secteur privé, les algorithmes publics ont des caractéristiques particulières: 
-1. Ils sont censés **opérer au service de l'intérêt général**
-2. Ils servent souvent à **exécuter le droit**, à (faire) appliquer la loi
+1. Ils sont censés **opérer au service de l'intérêt général**,
+2. Ils servent souvent à **exécuter le droit**, à (faire) appliquer la loi,
 3. Ils sont bien souvent **incontournables**, c'est à dire qu'il n'existe pas d'alternatives pour les usagers.
 
 📍En ce sens, les algorithmes publics sont des formes de l'action publique et sont à ce titre soumis à la même forme d'exigence de redevabilité. Ils doivent "rendre des comptes".
