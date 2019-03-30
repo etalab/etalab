@@ -50,6 +50,8 @@ Le point de contact pour obtenir de l'aide est [tech@entreprise.api.gouv.fr](mai
 
 - [Croquemort](https://github.com/opendatateam/croquemort) : outil de vérification des ressources HTTP d'un site web.
 - [csvapi](https://github.com/opendatateam/csvapi) : outil pour mettre en place une API `json` à partir d'un fichier `.csv` ou `.xls(x)`.
+- [pseudononymiser](https://github.com/etalab/pseudononymizer/) : application web de pseudonymisation.
+- [ma-semaine](https://github.com/entrepreneur-interet-general/ma-semaine/) : outil de partage de rapports hebdomadaires.
 
 ## Contact
 
