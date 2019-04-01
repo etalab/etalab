@@ -52,6 +52,8 @@ Le point de contact pour obtenir de l'aide est [tech@entreprise.api.gouv.fr](mai
 - [csvapi](https://github.com/opendatateam/csvapi) : outil pour mettre en place une API `json` à partir d'un fichier `.csv` ou `.xls(x)`.
 - [pseudononymiser](https://github.com/etalab/pseudononymizer/) : application web de pseudonymisation.
 - [ma-semaine](https://github.com/entrepreneur-interet-general/ma-semaine/) : outil de partage de rapports hebdomadaires.
+- [csv2html](https://github.com/etalab/csv2html) : outil pour exposer des fichiers `csv` en HTML (datatables).
+- [retweet](https://github.com/etalab/retweet) : bot twitter pour retweeter des tweets.
 
 # Les logiciels libres utilisés par Etalab
 
