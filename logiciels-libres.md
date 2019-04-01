@@ -71,6 +71,7 @@ La mission Etalab utilise plusieurs logiciels libres:
 - [sentry](https://sentry.io) pour le suivi d'erreurs sur les services déployés.
 - [shiny-server](https://www.rstudio.com/products/shiny/shiny-server/) pour déployer des applications en R comme [taxehabitation.etalab.studio](http://taxehabitation.etalab.studio/).
 - [sogo](https://sogo.nu/) pour la gestion des mails de `@data.gouv.fr`.
+- [udata](https://getudata.org/) pour la plateforme [data.gouv.fr](https://www.data.gouv.fr).
 - [wordpress](https://fr.wordpress.org/) pour le site [etalab.gouv.fr](https://www.etalab.gouv.fr/).
 
 # Contact
