@@ -18,3 +18,6 @@
 - [Nos logiciels libres](logiciels-libres.md)
 - [Algorithmes publics](https://etalab.github.io/algorithmes-publics/)
 
+## Licence
+
+Le contenu de ce dépôt est publié sous licence Ouverte 2.0.
