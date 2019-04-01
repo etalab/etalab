@@ -53,6 +53,23 @@ Le point de contact pour obtenir de l'aide est [tech@entreprise.api.gouv.fr](mai
 - [pseudononymiser](https://github.com/etalab/pseudononymizer/) : application web de pseudonymisation.
 - [ma-semaine](https://github.com/entrepreneur-interet-general/ma-semaine/) : outil de partage de rapports hebdomadaires.
 
-## Contact
+# Les logiciels libres utilisés par Etalab
 
-Si vous avez des questions sur les logiciels libres développés par Etalab, contactez [Bastien Guerry](mailto:bastien.guerry@data.gouv.fr).
+La mission Etalab utilise plusieurs logiciels libres:
+
+- [cachet](https://cachethq.io/) pour le suivi des services sur [status.etalab.studio](https://status.etalab.studio/).
+- [codimd](https://demo.codimd.org) pour la prise de notes collaboratives.
+- [discourse](https://discourse.org/) pour la gestion de [forum.etalab.gouv.fr](https://forum.etalab.gouv.fr/).
+- [jekyll](https://jekyllrb.com/) pour le site [entrepreneur-interet-general.etalab.gouv.fr](https://entrepreneur-interet-general.etalab.gouv.fr/).
+- [mastodon](https://joinmastodon.org/) pour l'instance de réseau social [mastodon.etalab.gouv.fr](https://mastodon.etalab.gouv.fr).
+- [matomo](https://matomo.org) pour le suivi des visites web sur [stats.data.gouv.fr](https://stats.data.gouv.fr.)
+- [nextcloud](https://nextcloud.com/) pour le partage de documents et de calendriers internes sur [nextcloud.data.gouv.fr](https://nextcloud.data.gouv.fr).
+- [proxmox](https://www.proxmox.com) pour gérer des machines virtuelles.
+- [sentry](https://sentry.io) pour le suivi d'erreurs sur les services déployés.
+- [shiny-server](https://www.rstudio.com/products/shiny/shiny-server/) pour déployer des applications en R comme [taxehabitation.etalab.studio](http://taxehabitation.etalab.studio/).
+- [sogo](https://sogo.nu/) pour la gestion des mails de `@data.gouv.fr`.
+- [wordpress](https://fr.wordpress.org/) pour le site [etalab.gouv.fr](https://www.etalab.gouv.fr/).
+
+# Contact
+
+Si vous avez des questions sur les logiciels libres développés ou utilisés par Etalab, contactez [Bastien Guerry](mailto:bastien.guerry@data.gouv.fr).
