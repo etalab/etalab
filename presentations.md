@@ -45,6 +45,10 @@ Diaporamas présentés par des membres d’Etalab lors d’ateliers ou de confé
 > Agence française du développement — 9 octobre 2018<br/>
 > [Version HTML](https://etalab.github.io/etalab/diaporamas/slides-afd.html) | Par [Paul-Antoine Chevalier](https://github.com/pachevalier)
 
+> **Stratégies de données**<br/>
+> Institut de radioprotection et de sûreté nucléaire - octobre 2018<br/>
+> [Version PPTX](https://nextcloud.data.gouv.fr/s/Y7DxWTx9oos3LXd) | Par Paul-Antoine Chevalier
+
 > **Présentation de la politique de la donnée**<br/>
 > Autorité de sûreté nucléaire — juin 2018<br/>
 > [Version HTML](https://etalab.github.io/etalab/diaporamas/slides-asn.html) | Par [Paul-Antoine Chevalier](https://github.com/pachevalier)
