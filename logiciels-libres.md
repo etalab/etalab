@@ -61,6 +61,7 @@ La mission Etalab utilise plusieurs logiciels libres:
 
 - [cachet](https://cachethq.io/) pour le suivi des services sur [status.etalab.studio](https://status.etalab.studio/).
 - [codimd](https://demo.codimd.org) pour la prise de notes collaboratives.
+- [demarches-simplifiees](https://github.com/betagouv/demarches-simplifiees.fr) pour les appels à projets.
 - [discourse](https://discourse.org/) pour la gestion de [forum.etalab.gouv.fr](https://forum.etalab.gouv.fr/).
 - [jekyll](https://jekyllrb.com/) pour le site [entrepreneur-interet-general.etalab.gouv.fr](https://entrepreneur-interet-general.etalab.gouv.fr/).
 - [mastodon](https://joinmastodon.org/) pour l'instance de réseau social [mastodon.etalab.gouv.fr](https://mastodon.etalab.gouv.fr).
