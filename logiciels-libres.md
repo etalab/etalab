@@ -55,6 +55,7 @@ Le point de contact pour obtenir de l'aide est [tech@entreprise.api.gouv.fr](mai
 - [npmjs.com/org/etalab](https://www.npmjs.com/org/etalab) : liste de paquetages `npm`.
 - [csv2html](https://github.com/etalab/csv2html) : outil pour exposer des fichiers `csv` en HTML (datatables).
 - [retweet](https://github.com/etalab/retweet) : bot twitter pour retweeter des tweets.
+- [pianoforte](https://github.com/tilery/pianoforte) : fonds de carte développé par le ministère des Affaires étrangères
 
 # Les logiciels libres utilisés par Etalab
 
