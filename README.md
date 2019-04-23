@@ -3,7 +3,7 @@
 ## Accueil
 
 - [Bienvenue à Etalab](bienvenue.md)
-- [Configuration de la messagerie d'Etalab](configuration-email.rst)
+- [Configuration de la messagerie d’Etalab](configuration-des-emails.md)
 - [Guide des déplacements](guide-des-deplacements.md)
 - [Nos bureaux](nos-bureaux.md)
 - [Où déjeuner ?](dejeuner.md)
