@@ -8,19 +8,19 @@ Les membres d’Etalab travaillent à Paris, au [20 avenue de Ségur](https://ad
 
 Le bâtiment est ouvert :
 
-* de 8 heures à 21 heures du lundi au vendredi ;
-* de 8 heures à 13 heures le samedi.
+- de 8 heures à 21 heures du lundi au vendredi ;
+- de 8 heures à 13 heures le samedi.
 
 ### Adresse physique
 
-	Mission Etalab — DINSIC
-	Direction interministérielle du numérique et du système d’information et de communication de l’État
-	20 avenue de Ségur
-	75007 PARIS
-   
+Mission Etalab — DINSIC
+Direction interministérielle du numérique et du système d’information et de communication de l’État
+20 avenue de Ségur
+75007 PARIS
+
 ### Adresse postale
 
-	Mission Etalab — DINSIC
-	Direction interministérielle du numérique et du système d’information et de communication de l’État
-	TSA 30719
-	75334 PARIS CEDEX O7
+Mission Etalab — DINSIC
+Direction interministérielle du numérique et du système d’information et de communication de l’État
+TSA 30719
+75334 PARIS CEDEX O7
