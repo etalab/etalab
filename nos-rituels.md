@@ -24,7 +24,7 @@ Démo [openfisca](https://fr.openfisca.org/) un mercredi sur deux, à 14&nbsp;h&
 Deux rendez-vous :
 
 1.  Le stand-up hebdomadaire, le mardi de 14h30 à 15h ;
-2.  Les sessions d’accompagnement des EIG 2 fois par mois. [Voir le programme d’accompagnement](https://github.com/entrepreneur-interet-general/eig-link/blob/master/accompagnement.org).
+2.  Les sessions d’accompagnement des EIG 2 fois par mois. [Voir le programme d’accompagnement](https://github.com/entrepreneur-interet-general/eig-link/blob/master/accompagnement.md).
 
 ## À la DINSIC
 
