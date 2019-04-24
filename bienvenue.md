@@ -27,7 +27,7 @@ Le mail modernisation.gouv.fr peut être consulté depuis le réseau Bercy ou de
 
 #### E-mail en @data.gouv.fr
 
-Pour obtenir une adresse se terminant par `@data.gouv.fr`, il faut se renseigner auprès de l’équipe Etalab : Paul-Antoine, Christian ou Vincent. Les e-mails reçus sur une adresse en `@data.gouv.fr` sont consultables dans un navigateur [sur le webmail](https://webmail.data.gouv.fr) et via une connexion `IMAPS` (utilisateur : `prenom.nom@modernisation.gouv.fr`).
+Pour obtenir une adresse se terminant par `@data.gouv.fr`, il faut se renseigner auprès de l’équipe Etalab. Les e-mails reçus sur une adresse en `@data.gouv.fr` sont consultables dans un navigateur [sur le webmail](https://webmail.data.gouv.fr) et via une connexion `IMAPS` (utilisateur : `prenom.nom@modernisation.gouv.fr`).
 
 ## Créer un compte Slack
 
