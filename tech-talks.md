@@ -3,7 +3,7 @@
 Ateliers techniques internes à Etalab donnés par des membres d'Etalab
 et à destination de toute la DINSIC.
 
-> **Initiation à l'éditeur de texte GNU Emacs**<br/> par Bastien Guerry le 28 février 2019 de 13h à 14h en salle 5.723.
+> **Initiation à Python pour l'analyse de données**<br/> par Pavel Soriano le 23 avril de 14h à 18h en salle 5.732.
 
 > **[Présentation de la méthode « Inbox Zéro »](https://speakerdeck.com/bzg/merlin-mann-et-marie-kondo-sont-dans-une-boite-demails)**<br/> par Bastien Guerry le 20 février 2019 de 13h à 14h en salle 4.107.
 
