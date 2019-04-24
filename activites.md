@@ -29,7 +29,7 @@ Etalab accompagne les administrations dans des projets de datasciences et des pr
 
 ## Programme Entrepreneurs d’intérêt général
 
-Etalab met en oeuvre le programme [Entrepreneurs d’intérêt général](https://entrepreneur-interet-general.etalab.gouv.fr/), un programme qui parachute dans des administrations des talents du numérique qui souhaitent améliorer l‘expérience utilisateur du service public.
+Etalab met en oeuvre le programme [Entrepreneurs d’intérêt général](https://entrepreneur-interet-general.etalab.gouv.fr/), un programme qui intègre dans des administrations des talents du numérique qui souhaitent améliorer l‘expérience utilisateur du service public.
 
 ## Publication des algorithmes et des codes sources
 
