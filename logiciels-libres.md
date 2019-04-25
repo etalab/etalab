@@ -20,7 +20,7 @@ Les logiciels listés sur cette page sont ceux qu’Etalab maintient activement 
 - Discuter avec l’équipe : écrire à [contact@openfisca.org](mailto:contact@openfisca.org) et demander à rejoindre le salon de discussion
 - Suivire le compte Twitter : [@OpenFisca](https://twitter.com/OpenFisca)
 - Compte d’organisation pour le code source : [OpenFisca](https://github.com/openfisca/)
-- Licence : [GNU Affero General Public License v3.0](https://github.com/opendatateam/udata/blob/master/LICENSE)
+- Licence : [GNU Affero General Public License v3.0](https://github.com/openfisca/openfisca-core/blob/master/LICENSE)
 
 ## Outils d’exposition (API) de données publiques
 
