@@ -22,6 +22,10 @@ Les logiciels listés sur cette page sont ceux qu’Etalab maintient activement 
 - Compte d’organisation pour le code source : [OpenFisca](https://github.com/openfisca/)
 - Licence : [GNU Affero General Public License v3.0](https://github.com/openfisca/openfisca-core/blob/master/LICENSE)
 
+## Addok
+
+[Addok](https://github.com/addok/addok) est un moteur de géocodage développé par Etalab pour le projet de Base adresse nationale. Il est disponible en API web sur la plateforme [adresse.data.gouv.fr](https://adresse.data.gouv.fr/tools).
+
 ## Outils d’exposition (API) de données publiques
 
 Le site de référence pour vous informer sur ces données est [entreprise.api.gouv.fr](https://entreprise.api.gouv.fr).
