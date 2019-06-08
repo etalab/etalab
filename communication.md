@@ -44,14 +44,14 @@ Toute proposition d’article doit être relue par [Brice Boulesteix](mailto:bri
 
 ## Proposer un tweet ou un post Facebook
 
-Tout membre d’Etalab peut proposer un tweet posté depuis l’un des comptes d’Etalab.  Voici les personnes pouvant poster vos propositions :
+Tout membre d’Etalab peut proposer un tweet posté depuis l’un des comptes d’Etalab.  Voici les personnes à contacter pour vos propositions :
 
-- [@etalab](https://twitter.com/etalab) : Brice
+- [@etalab](https://twitter.com/etalab) : Brice, puis validation par Laure
+- [Facebook](https://www.facebook.com/etalab/) : Brice, puis validation par Laure
 - [@datagouvfr](https://twitter.com/datagouvfr) : Brice
-- [Facebook](https://www.facebook.com/etalab/) : Brice
 - [@geodatagouv](https://twitter.com/geodatagouv) : Jérôme
 - [@adressedatagouv](https://twitter.com/adressedatagouv) : Jérôme
 - [@APIGouv](https://twitter.com/APIGouv) : Jérôme
 - [@OpenFisca](https://twitter.com/OpenFisca) : Mauko
-- [@eigforever](https://twitter.com/eigforever) : Sophie
+- [@eigforever](https://twitter.com/eigforever) : Sophie, puis validation par Soizic ou Mathilde
 
