@@ -8,6 +8,7 @@
 - [Nos bureaux](nos-bureaux.md)
 - [Où déjeuner ?](dejeuner.md)
 - [Nos rituels](nos-rituels.md)
+- [Communication d'Etalab](communication.md)
 - [Règles typographiques](typographie.md)
 - [Tech talks internes à la DINSIC](tech-talks.md)
 - [Liste des évènements passés](evenements.md)

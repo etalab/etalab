@@ -52,39 +52,9 @@ Bon à savoir :
 - [Crowdin](https://crowdin.com), pour la gestion des traductions (localisation)  ;
 - [Hack MD](https://hackmd.io) et [Framapad](https://framapad.org), pour la rédaction de notes .
 
-## Nos canaux de communication
+## Communication extérieure
 
-### Blogs
-
-Les blogs à suivre :
-
-- le [blog d’Etalab](http://etalab.gouv.fr/)&nbsp;;
-- le [blog de data.gouv.fr](https://www.data.gouv.fr/fr/posts/)&nbsp;;
-- le [blog de l’AGD](https://agd.data.gouv.fr/)&nbsp;;
-- le [blog EIG](https://entrepreneur-interet-general.etalab.gouv.fr/blog.html)&nbsp;;
-- le [blog Géo](https://blog.geo.data.gouv.fr)&nbsp;;
-- le [blog OpenFisca](http://openfisca.org/en/news/).
-
-### Réseaux sociaux
-
-#### Twitter
-
-Deux comptes Twitter à suivre :
-
-1. [@etalab](https://twitter.com/etalab) ;
-2. [@datagouvfr](https://twitter.com/datagouvfr).
-
-Les comptes Twitter associés aux univers d’Etalab :
-
-- [@geodatagouv](https://twitter.com/geodatagouv)&nbsp;;
-- [@adressedatagouv](https://twitter.com/adressedatagouv)&nbsp;;
-- [@APIGouv](https://twitter.com/APIGouv)&nbsp;;
-- [@eigforever](https://twitter.com/eigforever)&nbsp;;
-- [@OpenFisca](https://twitter.com/OpenFisca).
-
-#### Facebook
-
-La [page Facebook d’Etalab](https://www.facebook.com/etalab/).
+Pour connaître les supports de communication d’Etalab et y participer, voir la page [communication](communication.md).
 
 ## Liens utiles
 
@@ -92,12 +62,12 @@ La [page Facebook d’Etalab](https://www.facebook.com/etalab/).
 
 Pour le code source, nous utilisons GitHub, où nous avons plusieurs équipes :
 
-- [Etalab](https://github.com/etalab)&nbsp;;
-- [SGMAP-AGD](https://github.com/sgmap-agd)&nbsp;;
-- [Geodatagouv](https://github.com/geodatagouv)&nbsp;;
-- [EIG](https://github.com/entrepreneur-interet-general)&nbsp;;
-- [Open Data Team](https://github.com/opendatateam)&nbsp;;
-- [Addok](https://github.com/addok)&nbsp;;
+- [Etalab](https://github.com/etalab) ;
+- [SGMAP-AGD](https://github.com/sgmap-agd) ;
+- [Geodatagouv](https://github.com/geodatagouv) ;
+- [EIG](https://github.com/entrepreneur-interet-general) ;
+- [Open Data Team](https://github.com/opendatateam) ;
+- [Addok](https://github.com/addok) ;
 - [OpenFisca](https://github.com/openfisca).
 
 #### Licences pour les données et les codes sources
