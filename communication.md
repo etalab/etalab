@@ -34,7 +34,7 @@ La [page Facebook d’Etalab](https://www.facebook.com/etalab/).
 
 # Contribuer à notre communication
 
-## Proposer un article sur le site
+## Proposer/modifier un article/page sur le site
 
 Tout membre d’Etalab peut disposer d’un compte pour proposer un article ou une modification sur une page.
 
@@ -55,3 +55,7 @@ Tout membre d’Etalab peut proposer un tweet posté depuis l’un des comptes d
 - [@OpenFisca](https://twitter.com/OpenFisca) : Mauko
 - [@eigforever](https://twitter.com/eigforever) : Sophie, puis validation par Soizic ou Mathilde
 
+## (Re)structurer un blog
+
+La strucuturation d'un blog est à la fois la page principal, son menu (en-tête) et son pied de page.
+Ces éléments reprenne le même process que la proposition/modification d'un article/page sur le site.
