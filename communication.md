@@ -34,13 +34,19 @@ La [page Facebook d’Etalab](https://www.facebook.com/etalab/).
 
 # Contribuer à notre communication
 
-## Proposer/modifier un article/page sur le site
+## Proposer un article sur le site
 
-Tout membre d’Etalab peut disposer d’un compte pour proposer un article ou une modification sur une page.
+Tout membre d’Etalab peut disposer d’un compte pour proposer un article.
 
 Si vous n’avez pas de compte, vous pouvez en demander un à [Jean-Baptiste Le Dévéhat](mailto:jean-baptiste.le-devehat AT data.gouv.fr).
 
 Toute proposition d’article doit être relue par [Brice Boulesteix](mailto:brice.boulesteix AT data.gouv.fr) avant d’être validée par Laure Lucchesi qui, selon les cas, la soumettra en relecture au service communication de la DINSIC.
+
+## Modifier un contenu stable du site
+
+Les « contenus stables » sont les éléments structurants du site (les menus, l'en-tête, le pied de page, etc.) et les /pages/, lesquelles sont appelées à être souvent consultées.
+
+Pour proposer une modification sur ces contenus, écrivez à [Brice Boulesteix](mailto:brice.boulesteix AT data.gouv.fr) ou [Jean-Baptiste Le Dévéhat](mailto:jean-baptiste.le-devehat AT data.gouv.fr).
 
 ## Proposer un tweet ou un post Facebook
 
@@ -54,8 +60,3 @@ Tout membre d’Etalab peut proposer un tweet posté depuis l’un des comptes d
 - [@APIGouv](https://twitter.com/APIGouv) : Jérôme
 - [@OpenFisca](https://twitter.com/OpenFisca) : Mauko
 - [@eigforever](https://twitter.com/eigforever) : Sophie, puis validation par Soizic ou Mathilde
-
-## (Re)structurer un blog
-
-La strucuturation d'un blog est à la fois la page principal, son menu (en-tête) et son pied de page.
-Ces éléments reprenne le même process que la proposition/modification d'un article/page sur le site.
