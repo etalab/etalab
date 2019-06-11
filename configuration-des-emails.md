@@ -226,4 +226,18 @@ Description: Félix Defrance Etalab
 
 ```
 
+### S'abonner à un calendrier Nextcloud via Google Calendar
+
+Pour s'abonner à un calendrier, procédez comme suit :
+
+Sur [Nextcloud](https://nextcloud.data.gouv.fr/apps/calendar/), cliquez sur `Share Link` > `Pubilc access`   
+
+Puis dans le calendrier qui s'ouvre, cliquez sur le bouton `Subscribe` en haut à droite  
+
+Une URL de type `webcal://nextcloud.data.gouv.fr/remote.php/dav/public-calendars/2WeGrrdvdrBtHsfY?export` va alors apparaitre, il faut la copier.
+
+Dans Google Calendar, ajouter un nouvel agenda à partir d'une URL, et utiliser l'URL copiée précédemment.
+
+PS: Google Calendar _cache_ les calendriers pendant 24h, donc pour forcer une synchronisation, vous pouvez rajouter à la fin de l'URL `#blablabla` 
+
 C’est terminé.
