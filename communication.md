@@ -71,5 +71,5 @@ Pour publier un article, il faut utiliser le menu déroulant à droite sur WordP
 
 Bien faire la distinction entre les articles qui sont rédigées au format “blog” et les pages qui sont permanentes et donc plus structurées.
 
-L'ancienne version de WordPress proposait un bloc classique d’éditeur texte. La nouvelle version l’a remplacé par des blocs qui séparent les différents types de contenu ex. Texte, image etc. donc pour changer de type de contenu il faut créer un nouveau bloc et sélectionner le contenu souhaité. Le choix du bloc “classique” permet de retrouver l’éditeur historique.
+L’ancienne version de WordPress proposait un bloc classique d’éditeur texte. La nouvelle version l’a remplacé par des blocs qui séparent les différents types de contenu ex. Texte, image etc. donc pour changer de type de contenu il faut créer un nouveau bloc et sélectionner le contenu souhaité. Le choix du bloc  « classique » permet de retrouver l’éditeur historique.
 
