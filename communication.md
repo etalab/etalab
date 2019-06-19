@@ -65,7 +65,7 @@ Tout membre d’Etalab peut proposer un tweet posté depuis l’un des comptes d
 
 Pour publier un article, il faut utiliser le menu déroulant à droite sur WordPress pour :
 - choisir une catégorie diponible dans le menu;
-- choisir des étiquettes pour permettre à l’article d’être mieux référencé;
+- choisir des étiquettes pour permettre à l’article d’être mieux référencé ;
 - choisir une image mise en avant dans l’étiquette de l’article sur le site ;
 - et de manière générale bien considérer toutes les options de publication proposées. 
 
