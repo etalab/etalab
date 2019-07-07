@@ -55,11 +55,11 @@ Le point de contact pour obtenir de l’aide est [tech@entreprise.api.gouv.fr](m
 - [croquemort](https://github.com/opendatateam/croquemort) : outil de vérification des ressources HTTP d’un site web.
 - [csvapi](https://github.com/opendatateam/csvapi) : outil pour mettre en place une API `json` à partir d’un fichier `.csv` ou `.xls(x)`.
 - [pseudononymiser](https://github.com/etalab/pseudononymizer/) : application web de pseudonymisation.
-- [ma-semaine](https://github.com/entrepreneur-interet-general/ma-semaine/) : outil de partage de rapports hebdomadaires.
+- [bulletins](https://github.com/entrepreneur-interet-general/bulletins) : outil de partage de rapports hebdomadaires (voir la description dans [cette entrée de blog](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2019/07/03/bulletins-outil-retrospective-hebdomadaire.html)).
 - [npmjs.com/org/etalab](https://www.npmjs.com/org/etalab) : liste de paquetages `npm`.
 - [csv2html](https://github.com/etalab/csv2html) : outil pour exposer des fichiers `csv` en HTML (datatables).
 - [retweet](https://github.com/etalab/retweet) : bot twitter pour retweeter des tweets.
-- [pianoforte](https://github.com/tilery/pianoforte) : fonds de carte développé par le ministère des Affaires étrangères
+- [pianoforte](https://github.com/tilery/pianoforte) : fonds de carte développé par le ministère des Affaires étrangères.
 
 # Les logiciels libres utilisés par Etalab
 
