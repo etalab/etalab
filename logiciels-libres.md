@@ -60,6 +60,7 @@ Le point de contact pour obtenir de l’aide est [tech@entreprise.api.gouv.fr](m
 - [csv2html](https://github.com/etalab/csv2html) : outil pour exposer des fichiers `csv` en HTML (datatables).
 - [retweet](https://github.com/etalab/retweet) : bot twitter pour retweeter des tweets.
 - [pianoforte](https://github.com/tilery/pianoforte) : fonds de carte développé par le ministère des Affaires étrangères.
+- [choices](https://github.com/etalab/choices) : outil pour créer des sites web permettant de parcourir des arbres de décision.
 
 # Les logiciels libres utilisés par Etalab
 
