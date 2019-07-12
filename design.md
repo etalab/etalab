@@ -4,10 +4,14 @@
 
 ## Ressources pour les développeurs
 
-- Le dépôt du [template](https://github.com/etalab/template.data.gouv.fr) de doc.data.gouv.fr
+- Le dépôt du [template](https://github.com/etalab/template.data.gouv.fr)
+  - [doc.data.gouv.fr](https://doc.data.gouv.fr/)
+  - [schema.data.gouv.fr](https://schema.data.gouv.fr/)
 - Une version pour [Jekyll](https://github.com/etalab/template-jekyll)
 - Une version pour [VuePress](https://github.com/etalab/vuepress-theme-gouv-fr)
+  - [doc.eig-forever.org](https://doc.eig-forever.org/)
 - Une version pour [bulma](https://github.com/etalab/bulma-theme-gouv-fr)
+  - [lists.eig-forever.org](https://lists.eig-forever.org/)
 - Une mise en composants [React](https://github.com/SocialGouv/template.data.gouv.fr.react)
 
 Les différents templates ne sont pas synchronisés.
