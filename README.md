@@ -19,6 +19,7 @@
 - [Algorithmes publics](https://etalab.github.io/algorithmes-publics/)
 - [Nos éléments de design](design.md)
 - [Nos logiciels libres](logiciels-libres.md)
+- [Nos tutoriels](tutoriels.md)
 
 ## Licence
 
