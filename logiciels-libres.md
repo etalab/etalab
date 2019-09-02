@@ -87,6 +87,10 @@ La mission Etalab utilise plusieurs logiciels libres :
 - [wordpress](https://fr.wordpress.org) pour le site [etalab.gouv.fr](https://www.etalab.gouv.fr).
 - [zammad](https://zammad.org/) pour le site [support.etalab.gouv.fr](https://support.etalab.gouv.fr).
 
-# Contact
+# Canal de discussion et contact
+
+Des membres de l'équipe Etalab se rendent de temps en temps sur le canal IRC "Etalab", accessible sur le serveur `irc.freenode.net`.
+
+Vous pouvez vous connecter avec un client IRC ou via le [canal](https://riot.im/app/#/room/#freenode_#etalab:matrix.org) mis en place via riot.im.
 
 Si vous avez des questions sur les logiciels libres développés ou utilisés par Etalab, contactez [Bastien Guerry](mailto:bastien.guerry@data.gouv.fr).
