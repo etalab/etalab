@@ -228,3 +228,15 @@ Pour ajouter un carnet d'adresse, procédez comme suit :
 
 
 C'est terminé.
+
+
+Message d'absence
+-----------------------
+
+Vous pouvez mettre en place un message automatique qui sera envoyé aux personnes cherchant à vous contacter durant votre absence.
+
+1. Rendez-vous sur https://webmail.data.gouv.fr
+2. Cliquez sur l'onglet "Préférences" puis "Absence prolongée"
+3. Renseignez votre message et la date de fin
+
+Bonnes vacances !
