@@ -50,7 +50,7 @@ Bon à savoir :
 - [Nextcloud](https://nextcloud.data.gouv.fr), pour le partage de fichiers ;
 - [Trello](https://trello.com/etalab/home), pour le suivi de certains projets ;
 - [Crowdin](https://crowdin.com), pour la gestion des traductions (localisation)  ;
-- [Hack MD](https://hackmd.io) et [Framapad](https://framapad.org), pour la rédaction de notes .
+- [Pad](https://github.com/hackmdio/codimd) pour la rédaction de notes .
 
 ## Communication extérieure
 
