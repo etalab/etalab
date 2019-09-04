@@ -241,3 +241,11 @@ Dans Google Calendar, ajouter un nouvel agenda à partir d'une URL, et utiliser 
 PS: Google Calendar _cache_ les calendriers pendant 24h, donc pour forcer une synchronisation, vous pouvez rajouter à la fin de l'URL `#blablabla` 
 
 C’est terminé.
+
+## Configurer un message d'absence prolongée
+
+Pour configurer un message d'absence prolongée sur sa boîte mail @data.gouv.fr, voici la procédure : 
+
+* Se rendre sur le [webmail](https://webmail.data.gouv.fr/)
+* Aller dans l'onglet "Préférences" du menu principal
+* Aller dans l'onglet "Absence prolongée" dans le menu des préférences
