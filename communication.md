@@ -8,8 +8,7 @@ Les blogs à suivre :
 - le [blog de data.gouv.fr](https://www.data.gouv.fr/fr/posts/) ;
 - le [blog EIG](https://entrepreneur-interet-general.etalab.gouv.fr/blog.html) ;
 - le [blog Géo](https://blog.geo.data.gouv.fr) ;
-- le [blog OpenFisca](http://openfisca.org/en/news/) ;
-- le [blog de l’AGD](https://agd.data.gouv.fr/).
+- le [blog OpenFisca](http://openfisca.org/en/news/).
 
 ## Réseaux sociaux
 
