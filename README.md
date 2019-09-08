@@ -12,6 +12,7 @@
 - [Règles typographiques](typographie.md)
 - [Tech talks internes à la DINSIC](tech-talks.md)
 - [Liste des évènements passés](evenements.md)
+- [Outils internes et maintenance](outils-maintenance.md)
 
 ## Ressources
 
@@ -23,4 +24,4 @@
 
 ## Licence
 
-Le contenu de ce dépôt est publié sous licence Ouverte 2.0.
+Le contenu de ce dépôt est publié sous [licence Ouverte 2.0](LICENCE.md).

@@ -79,11 +79,11 @@ La mission Etalab utilise plusieurs logiciels libres :
 - [matomo](https://matomo.org) pour le suivi des visites web sur [stats.data.gouv.fr](https://stats.data.gouv.fr).
 - [mkdocs](https://www.mkdocs.org) pour la documentation de l’infrastructure [data.gouv.fr](https://data.gouv.fr).
 - [nextcloud](https://nextcloud.com) pour le partage de documents et de calendriers internes sur [nextcloud.data.gouv.fr](https://nextcloud.data.gouv.fr).
-- [postfix.admin](http://postfixadmin.sourceforge.net) pour la gestion pour la gestion de nos emails.
+- [postfix.admin](http://postfixadmin.sourceforge.net) pour la gestion des mails.
 - [proxmox](https://www.proxmox.com) pour gérer des machines virtuelles.
 - [sentry](https://sentry.io) pour le suivi d’erreurs sur les services déployés.
 - [shiny-server](https://www.rstudio.com/products/shiny/shiny-server) pour déployer des applications en R comme [taxehabitation.etalab.studio](http://taxehabitation.etalab.studio).
-- [sogo](https://sogo.nu) pour la gestion des mails de `@data.gouv.fr`.
+- [sogo](https://sogo.nu) pour l'accès web aux mails de `@data.gouv.fr`.
 - [udata](https://getudata.org) pour la plateforme [data.gouv.fr](https://www.data.gouv.fr).
 - [wordpress](https://fr.wordpress.org) pour le site [etalab.gouv.fr](https://www.etalab.gouv.fr).
 - [zammad](https://zammad.org/) pour le site [support.etalab.gouv.fr](https://support.etalab.gouv.fr).
