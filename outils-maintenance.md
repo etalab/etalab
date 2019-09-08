@@ -1,8 +1,10 @@
 # Accès aux outils et maintenance
 
 Cette page expose les règles de maintenance des outils de travail
-déployés par Etalab.  Il s'agit bien des *outils de travail* et non de
-l'ensemble des *services* proposés par Etalab (data.gouv.fr, etc.).
+déployés par Etalab.  
+
+Il s'agit bien des *outils de travail* et non de l'ensemble des
+*services* proposés par Etalab (data.gouv.fr, etc.).
 
 # Qui peut se servir de ces outils ?
 
