@@ -39,21 +39,21 @@ Tout membre d’Etalab peut disposer d’un compte pour proposer un article.
 
 Si vous n’avez pas de compte, vous pouvez en demander un à [Jean-Baptiste Le Dévéhat](mailto:jean-baptiste.le-devehat AT data.gouv.fr).
 
-Toute proposition d’article doit être relue par [Brice Boulesteix](mailto:brice.boulesteix AT data.gouv.fr) avant d’être validée par Laure Lucchesi qui, selon les cas, la soumettra en relecture au service communication de la DINSIC.
+Toute proposition d’article doit être relue par [l'équipe du blog](mailto:wordpress AT etalab.gouv.fr) avant d’être validée par Laure Lucchesi qui, selon les cas, la soumettra en relecture au service communication de la DINSIC.
 
 ## Modifier un contenu stable du site
 
 Les « contenus stables » sont les éléments structurants du site (les menus, l'en-tête, le pied de page, etc.) et les /pages/, lesquelles sont appelées à être souvent consultées.
 
-Pour proposer une modification sur ces contenus, écrivez à [Brice Boulesteix](mailto:brice.boulesteix AT data.gouv.fr) ou [Jean-Baptiste Le Dévéhat](mailto:jean-baptiste.le-devehat AT data.gouv.fr).
+Pour proposer une modification sur ces contenus, écrivez à [l'équipe du blog](mailto:wordpress AT etalab.gouv.fr) ou [Jean-Baptiste Le Dévéhat](mailto:jean-baptiste.le-devehat AT data.gouv.fr).
 
 ## Proposer un tweet ou un post Facebook
 
 Tout membre d’Etalab peut proposer un tweet posté depuis l’un des comptes d’Etalab.  Voici les personnes à contacter pour vos propositions :
 
-- [@etalab](https://twitter.com/etalab) : Brice, puis validation par Laure
-- [Facebook](https://www.facebook.com/etalab/) : Brice, puis validation par Laure
-- [@datagouvfr](https://twitter.com/datagouvfr) : Brice
+- [@etalab](https://twitter.com/etalab) : [équipe Etalab](mailto:etalab AT data.gouv.fr), puis validation par Laure
+- [Facebook](https://www.facebook.com/etalab/) : [équipe Etalab](mailto:etalab AT data.gouv.fr), puis validation par Laure
+- [@datagouvfr](https://twitter.com/datagouvfr) : [équipe data.gouv](mailto:datagouv AT data.gouv.fr)
 - [@geodatagouv](https://twitter.com/geodatagouv) : Jérôme
 - [@adressedatagouv](https://twitter.com/adressedatagouv) : Jérôme
 - [@APIGouv](https://twitter.com/APIGouv) : Jérôme
