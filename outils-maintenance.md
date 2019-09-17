@@ -27,6 +27,7 @@ Etalab, qui peut s'en servir comme outil :
 | sentry.data.gouv.fr             |     | ✓      | ✓      |                |        |
 | mastodon.etalab.gouv.fr         | ✓   | ✓      | ✓      | ✓              |        |
 | forum.etalab.gouv.fr            |     | ✓      | ✓      | ✓              | ✓      |
+| yunohost.etalab.studio/date     | ✓   | ✓      |        |                |        |
 
 # Règles de maintenance de ces outils
 
