@@ -79,6 +79,7 @@ La mission Etalab utilise plusieurs logiciels libres :
 - [matomo](https://matomo.org) pour le suivi des visites web sur [stats.data.gouv.fr](https://stats.data.gouv.fr).
 - [mkdocs](https://www.mkdocs.org) pour la documentation de l’infrastructure [data.gouv.fr](https://data.gouv.fr).
 - [nextcloud](https://nextcloud.com) pour le partage de documents et de calendriers internes sur [nextcloud.data.gouv.fr](https://nextcloud.data.gouv.fr).
+- [opensondage](https://forum.yunohost.org/t/official-app-opensondage/4348) pour [https://yunohost.etalab.studio/date/](https://yunohost.etalab.studio/date/).
 - [postfix.admin](http://postfixadmin.sourceforge.net) pour la gestion des mails.
 - [proxmox](https://www.proxmox.com) pour gérer des machines virtuelles.
 - [sentry](https://sentry.io) pour le suivi d’erreurs sur les services déployés.
