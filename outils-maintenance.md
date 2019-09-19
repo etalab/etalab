@@ -28,6 +28,7 @@ Etalab, qui peut s'en servir comme outil :
 | mastodon.etalab.gouv.fr         | ✓   | ✓      | ✓      | ✓              |        |
 | forum.etalab.gouv.fr            |     | ✓      | ✓      | ✓              | ✓      |
 | yunohost.etalab.studio/date     | ✓   | ✓      |        |                |        |
+| listes.etalab.gouv.fr           |     | ✓      |        |                |        |
 
 # Règles de maintenance de ces outils
 
