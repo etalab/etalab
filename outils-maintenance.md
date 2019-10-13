@@ -1,34 +1,64 @@
-# Accès aux outils et maintenance
+# Maintenance des plateformes publiques
 
-Cette page expose les règles de maintenance des outils de travail
-déployés par Etalab.  
+Le tableau ci-dessous indique qui maintient les plateformes opérées
+par Etalab.  La colonne « Administration » indique si des agents
+publics peuvent créer des comptes sur la plateforme.
 
-Il s'agit bien des *outils de travail* et non de l'ensemble des
-*services* proposés par Etalab (data.gouv.fr, etc.).
+| Service                 | Administration | Public | Référent   |
+|-------------------------|----------------|--------|------------|
+| www.etalab.gouv.fr      |                | ✓      | AB / SD    |
+| www.data.gouv.fr        |                | ✓      | datagouv   |
+| code.etalab.gouv.fr     |                | ✓      | BG         |
+| transport.data.gouv.fr  |                | ✓      | transport  |
+| entreprise.data.gouv.fr |                | ✓      | entreprise |
+| adresse.data.gouv.fr    |                | ✓      | Géo        |
+| cadastre.data.gouv.fr   |                | ✓      | Géo        |
+| geo.data.gouv.fr        |                | ✓      | Géo        |
+| app.dvf.data.gouv.fr    |                | ✓      | datagouv   |
+|-------------------------|----------------|--------|------------|
+| mastodon.etalab.gouv.fr | ✓              | ✓      | BG         |
+| forum.etalab.gouv.fr    | ✓              | ✓      | ?          |
+|-------------------------|----------------|--------|------------|
+| piaf.etalab.studio      |                | ✓      | GL         |
 
-# Qui peut se servir de ces outils ?
+# Maintenance des outils d'Etalab
 
-Le tableau ci-dessous indique, pour chaque service maintenu par
-Etalab, qui peut s'en servir comme outil :
+La tableau ci-dessous indique, pour chaque outil opéré par Etalab, qui
+peut s'en servir et qui est responsable de sa maintenance.
 
-| Service                         | EIG | Etalab | DINSIC | Administration | Public | Référent |
-|---------------------------------|-----|--------|--------|----------------|--------|----------|
-| www.etalab.gouv.fr              |     | ✓      |        |                |        | AB / SD  |
-| status.etalab.studio            |     | ✓      |        |                |        | AB / SD  |
-| lists.eig-forever.org           |     | ✓      |        |                |        | BG       |
-| infolettres.etalab.gouv.fr      |     | ✓      |        |                |        | BG       |
-| eig.etalab.gouv.fr              | ✓   | ✓      |        |                |        | BG / AA  |
-| eig3.ma-semaine.eig-forever.org | ✓   |        |        |                |        | AA       |
-| nextcloud.data.gouv.fr          |     | ✓      | ✓      |                |        | ?        |
-| webmail.data.gouv.fr            |     | ✓      | ✓      |                |        | ?        |
-| pfa.data.gouv.fr                |     | ✓      | ✓      |                |        | ?        |
-| pad.etalab.studio               |     | ✓      | ✓      |                |        | AB       |
-| stats.data.gouv.fr              |     | ✓      | ✓      |                |        | AB       |
-| sentry.data.gouv.fr             |     | ✓      | ✓      |                |        | AB       |
-| mastodon.etalab.gouv.fr         | ✓   | ✓      | ✓      | ✓              |        | BG       |
-| forum.etalab.gouv.fr            |     | ✓      | ✓      | ✓              | ✓      | ?        |
-| yunohost.etalab.studio/date     | ✓   | ✓      |        |                |        | BG       |
-| listes.etalab.gouv.fr           |     | ✓      |        |                |        | BG       |
+| Service                         | EIG | Etalab | DINSIC | Référent |
+|---------------------------------|-----|--------|--------|----------|
+| status.etalab.studio            |     | ✓      |        | AB / SD  |
+| infolettres.etalab.gouv.fr      |     | ✓      |        | BG       |
+| eig.etalab.gouv.fr              | ✓   | ✓      |        | BG / AA  |
+| eig3.ma-semaine.eig-forever.org | ✓   |        |        | AA       |
+| nextcloud.data.gouv.fr          |     | ✓      | ✓      | ?        |
+| webmail.data.gouv.fr            |     | ✓      | ✓      | ?        |
+| pfa.data.gouv.fr                |     | ✓      | ✓      | ?        |
+| pad.etalab.studio               |     | ✓      | ✓      | AB       |
+| stats.data.gouv.fr              |     | ✓      | ✓      | AB       |
+| sentry.data.gouv.fr             |     | ✓      | ✓      | AB       |
+| yunohost.etalab.studio/date     | ✓   | ✓      |        | BG       |
+| listes.etalab.gouv.fr           |     | ✓      |        | BG       |
+
+# Règles de maintenance des plateformes et outils
+
+- Les services en `eig-forever.org` sont soit dédiés au programme EIG
+  soit expérimentaux.  Il n'y a pas de contrainte de disponibilité, de
+  sauvegarde ou de supervision sur ces services.
+
+- Les services en `etalab.studio` sont expérimentaux.  Il n'y a pas de
+  contrainte de disponibilité, de sauvegarde ou de supervision sur ces
+  services.
+
+- Les services mis à disposition du reste de l'administration le sont
+  sans contrainte de disponibilité, de sauvegarde ou de supervision.
+
+- Lorsqu'un outil d'Etalab est mis à disposition de la DINSIC, toutes
+  les fonctionnalités implémentées doivent aussi servir à Etalab.  Par
+  exemple, si beta.gouv.fr a besoin d'un module sur stats.data.gouv.fr
+  ce module n'est installé et maintenu que s'il est aussi utilisé par
+  un service d'Etalab.
 
 # Quel « liste » utiliser pour les mails ?
 
@@ -57,21 +87,3 @@ Il y a trois types de _listes_:
   [listes.etalab.gouv.fr](https://listes.etalab.gouv.fr/listinfo).  Si
   vous avez besoin d'une nouvelle liste, envoyez un mail à Bastien.
 
-# Règles de maintenance de ces outils
-
-- Les services en `eig-forever.org` sont soit dédiés au programme EIG
-  soit expérimentaux.  Il n'y a pas de contrainte de disponibilité, de
-  sauvegarde ou de supervision sur ces services.
-
-- Les services en `etalab.studio` sont expérimentaux.  Il n'y a pas de
-  contrainte de disponibilité, de sauvegarde ou de supervision sur ces
-  services.
-
-- Les services mis à disposition du reste de l'administration le sont
-  sans contrainte de disponibilité, de sauvegarde ou de supervision.
-
-- Lorsqu'un outil d'Etalab est mis à disposition de la DINSIC, toutes
-  les fonctionnalités implémentées doivent aussi servir à Etalab.  Par
-  exemple, si beta.gouv.fr a besoin d'un module sur stats.data.gouv.fr
-  ce module n'est installé et maintenu que s'il est aussi utilisé par
-  un service d'Etalab.
