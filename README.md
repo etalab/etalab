@@ -12,7 +12,7 @@
 - [Règles typographiques](typographie.md)
 - [Tech talks internes à la DINSIC](tech-talks.md)
 - [Liste des évènements passés](evenements.md)
-- [Outils internes et maintenance](outils-maintenance.md)
+- [Maintenance des plateformes et outils](maintenance.md)
 
 ## Ressources
 
