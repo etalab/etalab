@@ -4,22 +4,22 @@ Le tableau ci-dessous indique qui maintient les plateformes opérées
 par Etalab.  La colonne « Administration » indique si des agents
 publics peuvent créer des comptes sur la plateforme.
 
-| Service                 | Administration | Public | Référent   |
-|-------------------------|----------------|--------|------------|
-| www.etalab.gouv.fr      |                | ✓      | AB / SD    |
-| www.data.gouv.fr        |                | ✓      | datagouv   |
-| code.etalab.gouv.fr     |                | ✓      | BG         |
-| transport.data.gouv.fr  |                | ✓      | transport  |
-| entreprise.data.gouv.fr |                | ✓      | entreprise |
-| adresse.data.gouv.fr    |                | ✓      | Géo        |
-| cadastre.data.gouv.fr   |                | ✓      | Géo        |
-| geo.data.gouv.fr        |                | ✓      | Géo        |
-| app.dvf.data.gouv.fr    |                | ✓      | datagouv   |
-|-------------------------|----------------|--------|------------|
-| mastodon.etalab.gouv.fr | ✓              | ✓      | BG         |
-| forum.etalab.gouv.fr    | ✓              | ✓      | ?          |
-|-------------------------|----------------|--------|------------|
-| piaf.etalab.studio      |                | ✓      | GL         |
+| Service                 | Administration | Public | Référent          |
+|-------------------------|----------------|--------|-------------------|
+| www.data.gouv.fr        |                | ✓      | Équipe datagouv   |
+| transport.data.gouv.fr  |                | ✓      | Équipe Transport  |
+| entreprise.data.gouv.fr |                | ✓      | Équipe Entreprise |
+| adresse.data.gouv.fr    |                | ✓      | Équipe Géo        |
+| cadastre.data.gouv.fr   |                | ✓      | Équipe Géo        |
+| geo.data.gouv.fr        |                | ✓      | Équipe Géo        |
+| www.etalab.gouv.fr      |                | ✓      | AB / SD / BG      |
+| code.etalab.gouv.fr     |                | ✓      | BG                |
+| app.dvf.data.gouv.fr    |                | ✓      | AB / AA           |
+|-------------------------|----------------|--------|-------------------|
+| mastodon.etalab.gouv.fr | ✓              | ✓      | BG                |
+| forum.etalab.gouv.fr    | ✓              | ✓      | ?                 |
+|-------------------------|----------------|--------|-------------------|
+| piaf.etalab.studio      |                | ✓      | AB / GL           |
 
 # Maintenance des outils d'Etalab
 
