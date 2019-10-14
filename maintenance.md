@@ -28,18 +28,20 @@ peut s'en servir et qui est responsable de sa maintenance.
 
 | Service                         | EIG | Etalab | DINSIC | Référent |
 |---------------------------------|-----|--------|--------|----------|
-| status.etalab.studio            |     | ✓      |        | AB / SD  |
-| infolettres.etalab.gouv.fr      |     | ✓      |        | BG       |
 | eig.etalab.gouv.fr              | ✓   | ✓      |        | BG / AA  |
-| eig3.ma-semaine.eig-forever.org | ✓   |        |        | AA       |
 | nextcloud.data.gouv.fr          |     | ✓      | ✓      | ?        |
 | webmail.data.gouv.fr            |     | ✓      | ✓      | ?        |
 | pfa.data.gouv.fr                |     | ✓      | ✓      | ?        |
-| pad.etalab.studio               |     | ✓      | ✓      | AB       |
+| mail.data.gouv.fr               |     | ✓      | ✓      | AB       |
 | stats.data.gouv.fr              |     | ✓      | ✓      | AB       |
 | sentry.data.gouv.fr             |     | ✓      | ✓      | AB       |
-| yunohost.etalab.studio/date     | ✓   | ✓      |        | BG       |
+| infolettres.etalab.gouv.fr      |     | ✓      |        | BG       |
 | listes.etalab.gouv.fr           |     | ✓      |        | BG       |
+|---------------------------------|-----|--------|--------|----------|
+| status.etalab.studio            |     | ✓      |        | AB / SD  |
+| eig3.ma-semaine.eig-forever.org | ✓   |        |        | AA       |
+| pad.etalab.studio               |     | ✓      | ✓      | AB       |
+| yunohost.etalab.studio/date     | ✓   | ✓      |        | BG       |
 
 # Règles de maintenance des plateformes et outils
 
