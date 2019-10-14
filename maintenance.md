@@ -12,8 +12,9 @@ publics peuvent créer des comptes sur la plateforme.
 | adresse.data.gouv.fr    |        |                |        | Équipe Géo        |
 | cadastre.data.gouv.fr   |        |                |        | Équipe Géo        |
 | geo.data.gouv.fr        |        |                |        | Équipe Géo        |
+| geo.api.gouv.fr         |        |                |        | Équipe Géo
 | www.etalab.gouv.fr      | ✓      |                |        | AB / SD / BG      |
-| app.dvf.data.gouv.fr    |        |                | ✓      | AB / AA           |
+| app.dvf.data.gouv.fr    |        |                | ✓      | Équipe Géo / MP   |
 | code.etalab.gouv.fr     |        |                | ✓      | BG                |
 |-------------------------|--------|----------------|--------|-------------------|
 | mastodon.etalab.gouv.fr | ✓      |                | ✓      | BG                |
