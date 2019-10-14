@@ -4,22 +4,22 @@ Le tableau ci-dessous indique qui maintient les plateformes opérées
 par Etalab.  La colonne « Administration » indique si des agents
 publics peuvent créer des comptes sur la plateforme.
 
-| Service                 | Administration | Public | Référent          |
-|-------------------------|----------------|--------|-------------------|
-| www.data.gouv.fr        |                | ✓      | Équipe datagouv   |
-| transport.data.gouv.fr  |                | ✓      | Équipe Transport  |
-| entreprise.data.gouv.fr |                | ✓      | Équipe Entreprise |
-| adresse.data.gouv.fr    |                | ✓      | Équipe Géo        |
-| cadastre.data.gouv.fr   |                | ✓      | Équipe Géo        |
-| geo.data.gouv.fr        |                | ✓      | Équipe Géo        |
-| www.etalab.gouv.fr      |                | ✓      | AB / SD / BG      |
-| code.etalab.gouv.fr     |                | ✓      | BG                |
-| app.dvf.data.gouv.fr    |                | ✓      | AB / AA           |
-|-------------------------|----------------|--------|-------------------|
-| mastodon.etalab.gouv.fr | ✓              | ✓      | BG                |
-| forum.etalab.gouv.fr    | ✓              | ✓      | ?                 |
-|-------------------------|----------------|--------|-------------------|
-| piaf.etalab.studio      |                | ✓      | AB / GL           |
+| Service                 | Etalab | Administration | Public | Référent          |
+|-------------------------|--------|----------------|--------|-------------------|
+| www.data.gouv.fr        | ✓      | ✓              | ✓      | Équipe datagouv   |
+| transport.data.gouv.fr  |        |                |        | Équipe Transport  |
+| entreprise.data.gouv.fr |        |                |        | Équipe Entreprise |
+| adresse.data.gouv.fr    |        |                |        | Équipe Géo        |
+| cadastre.data.gouv.fr   |        |                |        | Équipe Géo        |
+| geo.data.gouv.fr        |        |                |        | Équipe Géo        |
+| www.etalab.gouv.fr      | ✓      |                |        | AB / SD / BG      |
+| app.dvf.data.gouv.fr    |        |                | ✓      | AB / AA           |
+| code.etalab.gouv.fr     |        |                | ✓      | BG                |
+|-------------------------|--------|----------------|--------|-------------------|
+| mastodon.etalab.gouv.fr | ✓      |                | ✓      | BG                |
+| forum.etalab.gouv.fr    | ✓      |                | ✓      | BG                |
+|-------------------------|--------|----------------|--------|-------------------|
+| piaf.etalab.studio      |        |                | ✓      | AB / GL           |
 
 # Maintenance des outils d'Etalab
 
@@ -28,11 +28,11 @@ peut s'en servir et qui est responsable de sa maintenance.
 
 | Service                         | EIG | Etalab | DINSIC | Référent |
 |---------------------------------|-----|--------|--------|----------|
-| eig.etalab.gouv.fr              | ✓   | ✓      |        | BG / AA  |
 | nextcloud.data.gouv.fr          |     | ✓      | ✓      | ?        |
 | webmail.data.gouv.fr            |     | ✓      | ✓      | ?        |
+| mail.data.gouv.fr               |     | ✓      | ✓      | ?        |
 | pfa.data.gouv.fr                |     | ✓      | ✓      | ?        |
-| mail.data.gouv.fr               |     | ✓      | ✓      | AB       |
+| eig.etalab.gouv.fr              | ✓   | ✓      |        | BG / AA  |
 | stats.data.gouv.fr              |     | ✓      | ✓      | AB       |
 | sentry.data.gouv.fr             |     | ✓      | ✓      | AB       |
 | infolettres.etalab.gouv.fr      |     | ✓      |        | BG       |
