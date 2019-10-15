@@ -49,6 +49,7 @@ peut s'en servir et qui est responsable de sa maintenance.
 | sentry.data.gouv.fr             |     | ✓      | ✓      | AB       |
 | infolettres.etalab.gouv.fr      |     | ✓      |        | BG       |
 | listes.etalab.gouv.fr           |     | ✓      |        | BG       |
+| support.etalab.gouv.fr          |     | ✓      |        | ?        |
 |---------------------------------|-----|--------|--------|----------|
 | status.etalab.studio            |     | ✓      |        | AB / SD  |
 | eig3.ma-semaine.eig-forever.org | ✓   |        |        | AA       |
