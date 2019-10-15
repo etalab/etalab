@@ -16,12 +16,22 @@ publics peuvent créer des comptes sur la plateforme.
 | app.dvf.etalab.gouv.fr  |        |                | ✓      | Équipe Géo / MP   |
 | www.etalab.gouv.fr      | ✓      |                |        | AB / SD / BG      |
 | code.etalab.gouv.fr     |        |                | ✓      | BG                |
+| entrepreneur-interet-general.etalab.gouv.fr   |        |     | ✓   | AA        |
+| consultation.etalab.gouv.fr  |   |                | ✓      | ?                 |
+| doc.data.gouv.fr        |        |                | ✓      | ?                 |
+| schema.data.gouv.fr     |        |                | ✓      | ?                 |
+| template.data.gouv.fr   |        |                | ✓      | ?                 |
+| blog.geo.data.gouv.fr   |        |                | ✓      | ?                 |
 |-------------------------|--------|----------------|--------|-------------------|
 | mastodon.etalab.gouv.fr | ✓      |                | ✓      | BG                |
 | forum.etalab.gouv.fr    | ✓      |                | ✓      | BG                |
 |-------------------------|--------|----------------|--------|-------------------|
 | piaf.etalab.studio      |        |                | ✓      | AB / GL           |
-| entrepreneur-interet-general.etalab.gouv.fr      |        |                | ✓      | AA           |
+| csvdetective.etalab.studio  |    |                | ✓      | ?                 |
+| csv-gg.etalab.studio    |        |                | ✓      | ?                 |
+| r.etalab.studio         |        |                | ✓      | ?                 |
+| urban-olympics.etalab.studio |   |                | ✓      | ?                 |
+
 
 # Maintenance des outils d'Etalab
 
