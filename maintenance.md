@@ -21,6 +21,7 @@ publics peuvent créer des comptes sur la plateforme.
 | forum.etalab.gouv.fr    | ✓      |                | ✓      | BG                |
 |-------------------------|--------|----------------|--------|-------------------|
 | piaf.etalab.studio      |        |                | ✓      | AB / GL           |
+| entrepreneur-interet-general.etalab.gouv.fr      |        |                | ✓      | AA           |
 
 # Maintenance des outils d'Etalab
 
@@ -41,6 +42,13 @@ peut s'en servir et qui est responsable de sa maintenance.
 |---------------------------------|-----|--------|--------|----------|
 | status.etalab.studio            |     | ✓      |        | AB / SD  |
 | eig3.ma-semaine.eig-forever.org | ✓   |        |        | AA       |
+| dig.ma-semaine.eig-forever.org  | ✓   |        |        | AA       |
+| doc.eig-forever.org             | ✓   |        |        | AA       |
+| dig.eig-forever.org             | ✓   |        |        | AA       |
+| standup.eig-forever.org         | ✓   |        |        | AA       |
+| standup-dig.eig-forever.org     | ✓   |        |        | AA       |
+| bulletins.eig-forever.org       | ✓   |        |        | AA       |
+| vuepress-gouv-fr-demo.eig-forever.org | ✓   |        |  | AA       |
 | pad.etalab.studio               |     | ✓      | ✓      | AB       |
 | yunohost.etalab.studio/date     | ✓   | ✓      |        | BG       |
 
