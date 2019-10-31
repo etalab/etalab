@@ -12,7 +12,6 @@
 - [Règles typographiques](typographie.md)
 - [Tech talks internes à la DINSIC](tech-talks.md)
 - [Liste des évènements passés](evenements.md)
-- [Maintenance des plateformes et outils](maintenance.md)
 
 ## Ressources
 
