@@ -1,6 +1,6 @@
 # Bienvenue
 
-Bienvenue au sein de la mission Etalab. Vous trouverez sur cette page des conseils pour bien démarrer.
+Bienvenue au sein de l'équipe Etalab. Vous trouverez sur cette page des conseils pour bien démarrer.
 
 ## Récupérer un badge
 
@@ -27,7 +27,7 @@ Le mail modernisation.gouv.fr peut être consulté depuis le réseau Bercy ou de
 
 #### E-mail en @data.gouv.fr
 
-Pour obtenir une adresse se terminant par `@data.gouv.fr`, il faut se renseigner auprès de l’équipe Etalab. Les e-mails reçus sur une adresse en `@data.gouv.fr` sont consultables dans un navigateur [sur le webmail](https://webmail.data.gouv.fr) et via une connexion `IMAPS` (utilisateur : `prenom.nom@modernisation.gouv.fr`).
+Pour obtenir une adresse se terminant par `@data.gouv.fr`, il faut se renseigner auprès de l’équipe Etalab. Les e-mails reçus sur une adresse en `@data.gouv.fr` sont consultables dans un navigateur [sur le webmail](https://webmail.data.gouv.fr) et via une connexion `IMAP` (utilisateur : `prenom.nom@data.gouv.fr`).
 
 ## Créer un compte Slack
 
@@ -47,10 +47,8 @@ Bon à savoir :
 
 - [GitHub](https://github.com/etalab), pour la collaboration sur le code ;
 - [Slack](https://startups-detat.slack.com), pour la communication interne ;
-- [Nextcloud](https://nextcloud.data.gouv.fr), pour le partage de fichiers ;
 - [Trello](https://trello.com/etalab/home), pour le suivi de certains projets ;
 - [Crowdin](https://crowdin.com), pour la gestion des traductions (localisation)  ;
-- [Pad](https://github.com/hackmdio/codimd) pour la rédaction de notes .
 
 ## Communication extérieure
 
@@ -86,13 +84,13 @@ Etalab publie et tient à jour plusieurs calendriers :
 - le programme EIG publie [son calendrier d’accompagnement](https://cloud.eig-forever.org/index.php/apps/calendar/p/5S4DP594PDIVTARU/EIG2018) et un [calendrier d’événements](https://cloud.eig-forever.org/index.php/apps/calendar/p/C1YPGSGZ1JZPVDDU/EIG2018-Open) qui peuvent intéresser les EIG ;
 - Etalab publie son [calendrier OpenGov](https://openagenda.com/opengov?oaq%5Bpassed%5D=1&oaq%5Border%5D=latest).
 
-### Découvrir la DINSIC
+### Découvrir la DINUM
 
-La DINSIC est la Direction interministérielle du numérique et du système d’information et de communication de l’État. Etalab fait partie de la DINSIC.
+La DINUM est la Direction interministérielle du numérique. Etalab est un des départements de la DINUM.
 
-- [Site de la DINSIC](https://www.numerique.gouv.fr/) ;
+- [Site de la DINUM](https://www.numerique.gouv.fr/) ;
 - [beta.gouv](https://beta.gouv.fr/), site de l’incubateur de services numériques ;
-- [Wiki de la DINSIC](https://dinsic.xwiki.com/), pour l’intranet.
+- [Wiki de la DINUM](https://dinsic.xwiki.com/), pour l’intranet.
 
 ### Les guides publiés au sein des thématiques
 
