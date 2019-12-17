@@ -1,8 +1,8 @@
 # Bienvenue
 
-Bienvenue au sein de l'équipe Etalab. Vous trouverez sur cette page des conseils pour bien démarrer.
+Bienvenue au sein de l'équipe Etalab. Tu trouveras sur cette page les informations nécessaires à ton arrivée. C'est un document ouvert et collaboratif. N'hésite pas à proposer des améliorations !
 
-## Récupérer un badge
+## Accéder au bâtiment
 
 Pour obtenir le badge qui permet d’accéder au bâtiment du [20 avenue de Ségur](https://adresse.data.gouv.fr/map?lng=2.30831&lat=48.8503&z=18), voici la marche à suivre :
 
@@ -14,8 +14,8 @@ Pour obtenir le badge qui permet d’accéder au bâtiment du [20 avenue de Ség
 
 Les agents contractuels peuvent disposer de deux adresses e-mail :
 
-1. Une adresse `@modernisation.gouv.fr` : `prenom.nom@modernisation.gouv.fr` ;
-2. Une adresse `@data.gouv.fr` : `prenom.nom@data.gouv.fr`.
+1. Une adresse `@modernisation.gouv.fr` : `prenom.nom@modernisation.gouv.fr` gérée par le service informatique ;
+2. Une adresse `@data.gouv.fr` : `prenom.nom@data.gouv.fr` gérée par l'équipe.
 
 Les prestataires peuvent demander une adresse e-mail en `@data.gouv.fr`.
 
