@@ -87,6 +87,7 @@ La mission Etalab utilise plusieurs logiciels libres :
 - [sogo](https://sogo.nu) pour l'accès web aux mails de `@data.gouv.fr`.
 - [udata](https://getudata.org) pour la plateforme [data.gouv.fr](https://www.data.gouv.fr).
 - [wordpress](https://fr.wordpress.org) pour le site [etalab.gouv.fr](https://www.etalab.gouv.fr).
+- [yunohost](https://yunohost.org) pour [https://listes.etalab.gouv.fr](https://listes.etalab.gouv.fr).
 - [zammad](https://zammad.org/) pour le site [support.etalab.gouv.fr](https://support.etalab.gouv.fr).
 
 # Canal de discussion et contact
