@@ -25,7 +25,7 @@ Pour obtenir une adresse se terminant par `@modernisation.gouv.fr`, il faut se r
 
 Le mail modernisation.gouv.fr peut être consulté depuis le réseau Bercy ou depuis le webmail [Melissa](https://www.melissa.finances.gouv.fr/dana-na/auth/url_8/welcome.cgi)
 
-#### E-mail en @data.gouv.fr
+### E-mail en @data.gouv.fr
 
 Pour obtenir une adresse se terminant par `@data.gouv.fr`, il faut se renseigner auprès de l’équipe Etalab. Les e-mails reçus sur une adresse en `@data.gouv.fr` sont consultables dans un navigateur [sur le webmail](https://webmail.data.gouv.fr) et via une connexion `IMAP` (utilisateur : `prenom.nom@data.gouv.fr`).
 
@@ -43,7 +43,7 @@ Bon à savoir :
 
 [Lire la documentation de beta.gouv sur Slack](https://github.com/betagouv/beta.gouv.fr/wiki/Slack)
 
-### Nos outils en bref
+## Nos outils en bref
 
 - [GitHub](https://github.com/etalab), pour la collaboration sur le code ;
 - [Slack](https://startups-detat.slack.com), pour la communication interne ;
@@ -55,6 +55,11 @@ Bon à savoir :
 Pour connaître les supports de communication d’Etalab et y participer, voir la page [communication](communication.md).
 
 ## Liens utiles
+
+### Consultation des fiches de paie
+
+Pour consulter et télécharger ses fiches de paie en ligne, voir [le site de l'ENSAP](https://ensap.gouv.fr/web/accueilnonconnecte).
+La création de compte se fait à partir du numéro de sécurité sociale.
 
 ### Publication de codes sources
 
@@ -68,7 +73,7 @@ Pour le code source, nous utilisons GitHub, où nous avons plusieurs équipes :
 - [Addok](https://github.com/addok) ;
 - [OpenFisca](https://github.com/openfisca).
 
-#### Licences pour les données et les codes sources
+### Licences pour les données et les codes sources
 
 Etalab publie la [licence ouverte
 2.0](https://www.etalab.gouv.fr/licence-ouverte-open-licence).
