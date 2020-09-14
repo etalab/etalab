@@ -66,12 +66,13 @@ La création de compte se fait à partir du numéro de sécurité sociale.
 Pour le code source, nous utilisons GitHub, où nous avons plusieurs équipes :
 
 - [Etalab](https://github.com/etalab) ;
-- [SGMAP-AGD](https://github.com/sgmap-agd) ;
+- [Lab IA](https://github.com/etalab-ia) ;
 - [Geodatagouv](https://github.com/geodatagouv) ;
 - [EIG](https://github.com/entrepreneur-interet-general) ;
 - [Open Data Team](https://github.com/opendatateam) ;
 - [Addok](https://github.com/addok) ;
-- [OpenFisca](https://github.com/openfisca).
+- [OpenFisca](https://github.com/openfisca) ; 
+- [Administrateur général des données (archive)](https://github.com/sgmap-agd).
 
 ### Licences pour les données et les codes sources
 
