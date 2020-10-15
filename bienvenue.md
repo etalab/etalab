@@ -4,7 +4,7 @@ Bienvenue au sein de l'équipe Etalab. Tu trouveras sur cette page les informati
 
 ## Accéder au bâtiment
 
-Pour obtenir le badge qui permet d’accéder au bâtiment du [20 avenue de Ségur](https://adresse.data.gouv.fr/map?lng=2.30831&lat=48.8503&z=18), voici la marche à suivre :
+Pour obtenir le badge qui permet d’accéder au bâtiment du [20 avenue de Ségur](https://adresse.data.gouv.fr/map#18/48.8505/2.3083), voici la marche à suivre :
 
 1. Imprimer et remplir le [formulaire de demande de badge](https://raw.github.com/wiki/betagouv/beta.gouv.fr/files/formulaire.pdf) ;
 2. Faire valider le formulaire par le responsable hiérarchique ;
