@@ -2,7 +2,41 @@
 
 Diaporamas présentés par des membres d’Etalab lors d’ateliers ou de conférences en public.
 
+## 2020
+
+> **Pérenniser la transformation numérique : un an après, des porteurs de projet EIG3 racontent**<br/>
+> Evénement organisé pendant le Mois de l'Innovation Publique — 09 novembre 2020<br/>[Version web](https://speakerdeck.com/eig2020/eig3) | Par
+> Soizic Pénicaud et Thanh Ha Le
+
+> **Rencontre des EIG4 avec Amélie de Montchalin, Ministre de la Transformation et de la Fonction publiques**<br/>
+> Clôture du bootcamp EIG4 — 25 septembre 2020<br/>[Version web](https://speakerdeck.com/eig2020/presentation-de-cloture-du-bootcamp-eig4) | Par
+> Soizic Pénicaud
+
 ## 2019
+
+> **Plongée dans le numérique d'intérêt général**<br/>
+> Restitution du programme EIG, promotion 3 — 12 novembre 2019<br/>[Version web](https://speakerdeck.com/eig2020/restitution-de-la-promotion-eig-3) | Par
+> Soizic Pénicaud et Sophie Miljkovic
+
+> **Présentation Public Interest Entrepreneurs**<br/>
+> Présentation en anglais — septembre 2019<br/>[Version web](https://speakerdeck.com/eig2020/english-presentation-september-2019) | Par
+> Soizic Pénicaud et Sophie Miljkovic
+
+> **Présentation EIG**<br/>
+> Bureau Ouvert — 27 septembre 2019<br/>[Version web](https://speakerdeck.com/eig2020/2019-71d6d2e6-6240-4425-b59f-a9be4b73e96d) | Par
+> Soizic Pénicaud et Sophie Miljkovic
+
+> **Présentation EIG - Appel à candidatures EIG4**<br/>
+> Webinaire — mai 2019<br/>[Version web](https://speakerdeck.com/eig2020/presentation-webinaires-3e165e3c-1d22-4f80-8c7a-7d115e55baad) | Par
+> Soizic Pénicaud et Sophie Miljkovic
+
+> **Le numérique ouvert dans l'administration : des outils, des méthodes, des parcours**<br/>
+> Présentation des principaux résultats de l'enquête sur les promotions 1&2 — juin 2019<br/>[Version web](https://speakerdeck.com/eig2020/presentation-des-principaux-resultats-du-rapport-danalyse-eig) | Par
+> Guénolé Carré
+
+> **Présentation EIG - Appel à projets pour la promotion 4**<br/>
+> Session d'information — février 2019<br/>[Version web](https://speakerdeck.com/eig2020/appel-a-projets-eig-4-session-dinformation) | Par
+> Soizic Pénicaud et Sophie Miljkovic
 
 > **Les logiciels libres dans le cadre du programme Entrepreneurs d’intérêt général**<br/>
 > Intervention Etalab sur invitation du programme EIG — 13 février 2019<br/>[Version web](https://speakerdeck.com/bluehats/les-logiciels-libres-dans-le-cadre-du-programme-entrepreneur-dinteret-general) | Par
@@ -42,6 +76,14 @@ Diaporamas présentés par des membres d’Etalab lors d’ateliers ou de confé
 
 > **Stratégies de données**<br/>
 > Institut de radioprotection et de sûreté nucléaire - octobre 2018<br/>[Version PPTX](https://nextcloud.data.gouv.fr/s/byWCQaD7ETKWSF9) | Par Paul-Antoine Chevalier
+
+> **EIG - Promotion 3**<br/>
+> Session d'information — 03 octobre 2018<br/>[Version web](https://speakerdeck.com/eig2020/evenement-dinformation-eig3-3-octobre) | Par
+> Soizic Pénicaud et Sophie Miljkovic
+
+> **Construire des algorithmes publics "exemplaires"**<br/>
+> Atelier Etalab-Fing-EIG — 26 septembre 2018<br/>[Version web](https://speakerdeck.com/eig2020/atelier-fing-etalab-eig-sur-les-algorithmes-publics) | Par
+> Soizic Pénicaud
 
 > **Présentation de la politique de la donnée**<br/>
 > Autorité de sûreté nucléaire — juin 2018<br/>[Version HTML](https://etalab.github.io/etalab/diaporamas/slides-asn.html) | Par [Paul-Antoine Chevalier](https://github.com/pachevalier)
