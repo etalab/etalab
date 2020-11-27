@@ -2,6 +2,10 @@
 
 Diaporamas présentés par des membres d’Etalab lors d’ateliers ou de conférences en public.
 
+## 2020
+> **Open Data - The French Case**<br/>
+> Intervention Etalab sur invitation du [VI Digital Government Ministerial Meeting of the Americas](https://www.redgealc.org/ministerial2020/en/the-event/) - 18 novembre 2020<br/>[Version Keynote](https://etalab.github.io/etalab/diaporamas/slides-vi-digital-government-ministerial-meeting-of-the-americas/slides-vi-digital-government-ministerial-meeting-of-the-americas.key) - [Version PDF](https://etalab.github.io/etalab/diaporamas/slides-vi-digital-government-ministerial-meeting-of-the-americas/slides-vi-digital-government-ministerial-meeting-of-the-americas.pdf) | Par [Antonin Garrone](https://github.com/agarrone) et [Mario Restuccia](https://github.com/restuccia)
+
 ## 2019
 
 > **Les logiciels libres dans le cadre du programme Entrepreneurs d’intérêt général**<br/>
