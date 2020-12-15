@@ -3,6 +3,9 @@
 Diaporamas présentés par des membres d’Etalab lors d’ateliers ou de conférences en public.
 
 ## 2020
+> **The challenges of building an user-centred data portal**<br/>
+> Webinaire du cycle [The Future of Open Data Portals](https://european-data-portal.gitlab.io/future-open-data-portals/) organisé par le European Data Portal — 15 décembre 2020<br/>[Version Keynote](https://etalab.github.io/etalab/diaporamas/2020-12-15-future-opendata-portals.key) - [Version PDF](https://etalab.github.io/etalab/diaporamas/2020-12-15-future-opendata-portals.pdf) | Par [Mathilde Hoang](https://github.com/mathildehg), [Antonin Garrone](https://github.com/agarrone) et [Mario Restuccia](https://github.com/restuccia)
+
 > **Open Data - The French Case**<br/>
 > Intervention Etalab sur invitation du [VI Digital Government Ministerial Meeting of the Americas](https://www.redgealc.org/ministerial2020/en/the-event/) - 18 novembre 2020<br/>[Version Keynote](https://etalab.github.io/etalab/diaporamas/slides-vi-digital-government-ministerial-meeting-of-the-americas/slides-vi-digital-government-ministerial-meeting-of-the-americas.key) - [Version PDF](https://etalab.github.io/etalab/diaporamas/slides-vi-digital-government-ministerial-meeting-of-the-americas/slides-vi-digital-government-ministerial-meeting-of-the-americas.pdf) | Par [Antonin Garrone](https://github.com/agarrone) et [Mario Restuccia](https://github.com/restuccia)
 
