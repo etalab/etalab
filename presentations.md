@@ -2,6 +2,10 @@
 
 Diaporamas présentés par des membres d’Etalab lors d’ateliers ou de conférences en public.
 
+## 2021
+> **Opening COVID-19 vaccines data in France**<br/>
+> Tailored Support Workshop du [Portail Européen de Données](https://www.europeandataportal.eu/fr) — 18 février 2021<br/>[Version PDF](https://etalab.github.io/etalab/diaporamas/2021-02-18-EDP-covid-vaccines.pdf) | Par [Mario Restuccia](https://github.com/restuccia)
+
 ## 2020
 > **The challenges of building an user-centred data portal**<br/>
 > Webinaire du cycle [The Future of Open Data Portals](https://european-data-portal.gitlab.io/future-open-data-portals/) organisé par le European Data Portal — 15 décembre 2020<br/>[Version Keynote](https://etalab.github.io/etalab/diaporamas/2020-12-15-future-opendata-portals.key) - [Version PDF](https://etalab.github.io/etalab/diaporamas/2020-12-15-future-opendata-portals.pdf) | Par [Mathilde Hoang](https://github.com/mathildehg), [Antonin Garrone](https://github.com/agarrone) et [Mario Restuccia](https://github.com/restuccia)
