@@ -210,6 +210,26 @@ Password: **********************
 Description: Félix Defrance Etalab
 ```
 
+### Configurer l'accès iCal/Calendar.app
+
+Pour ajouter un calendrier, procédez comme suit :
+
+Appuyez sur `Calendar` \> `Preferences...` \> `+`
+
+```
+Account information
+
+Username: votre email complet
+Password: votre mot de passe mail
+
+Server Settings
+
+Server Address: webmail.data.gouv.fr
+Server Path: /SOGo/dav/tamkien.duong/
+Port: 443
+Use SSL: ✅
+```
+
 #### Apple Contacts
 
 Pour ajouter un carnet d’adresse, procédez comme suit :
@@ -223,24 +243,7 @@ Server : https://webmail.data.gouv.fr/SOGo/dav/felix.defrance/ (Ajustez à votre
 Nom : felix.defrance@data.gouv.fr (Ajustez à votre mail)
 Password: **********\*\***********
 Description: Félix Defrance Etalab
-
 ```
-
-### S'abonner à un calendrier Nextcloud via Google Calendar
-
-Pour s'abonner à un calendrier, procédez comme suit :
-
-Sur [Nextcloud](https://nextcloud.data.gouv.fr/apps/calendar/), cliquez sur `Share Link` > `Pubilc access`   
-
-Puis dans le calendrier qui s'ouvre, cliquez sur le bouton `Subscribe` en haut à droite  
-
-Une URL de type `webcal://nextcloud.data.gouv.fr/remote.php/dav/public-calendars/2WeGrrdvdrBtHsfY?export` va alors apparaitre, il faut la copier.
-
-Dans Google Calendar, ajouter un nouvel agenda à partir d'une URL, et utiliser l'URL copiée précédemment.
-
-PS: Google Calendar _cache_ les calendriers pendant 24h, donc pour forcer une synchronisation, vous pouvez rajouter à la fin de l'URL `#blablabla` 
-
-C’est terminé.
 
 ## Configurer un message d'absence prolongée
 
