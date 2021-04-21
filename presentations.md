@@ -3,6 +3,10 @@
 Diaporamas présentés par des membres d’Etalab lors d’ateliers ou de conférences en public.
 
 ## 2021
+> **Open Data policy and implementation in France**<br/>
+> Stakeholders meeting of the [data.norge.no](https://data.norge.no) Norwegian Open Data portal, managed by the [Norwegian Digitalisation Agency](https://www.digdir.no/) — 21 avril 2021<br />[Version PDF](https://etalab.github.io/etalab/diaporamas/2021-04-21-norwegian-digitalisation-agency.pdf) | Par [Mario Restuccia](https://github.com/restuccia)
+
+
 > **Opening COVID-19 vaccines data in France**<br/>
 > Tailored Support Workshop du [Portail Européen de Données](https://www.europeandataportal.eu/fr) — 18 février 2021<br/>[Version PDF](https://etalab.github.io/etalab/diaporamas/2021-02-18-EDP-covid-vaccines.pdf) | Par [Mario Restuccia](https://github.com/restuccia)
 
