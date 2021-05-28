@@ -29,24 +29,24 @@ Le mail modernisation.gouv.fr peut être consulté depuis le réseau Bercy ou de
 
 Pour obtenir une adresse se terminant par `@data.gouv.fr`, il faut se renseigner auprès de l’équipe Etalab. Les e-mails reçus sur une adresse en `@data.gouv.fr` sont consultables dans un navigateur [sur le webmail](https://webmail.data.gouv.fr) et via une connexion `IMAP` (utilisateur : `prenom.nom@data.gouv.fr`).
 
-## Créer un compte Slack
+## Créer un compte Mattermost
 
-Nous utilisons le service de messagerie instantanée Slack pour communiquer en interne : https://startups-detat.slack.com/. Ce compte Slack est partagé entre Etalab et l’[incubateur de services numériques](https://beta.gouv.fr/).
+Nous utilisons le service de messagerie instantanée Mattermost pour communiquer en interne : https://mattermost.incubateur.net. Ce compte Slack est partagé entre Etalab et l’[incubateur de services numériques](https://beta.gouv.fr/) et différentes administrations.
 
-Pour être valide, l’inscription sur Slack doit être faite avec une adresse de travail se terminant par `@modernisation.gouv` ou `@data.gouv.fr`.
+Pour être valide, l’inscription sur Mattermost doit être faite avec une adresse de travail se terminant par `@modernisation.gouv`, `@data.gouv.fr` ou `@etalab.club`.
 
 Bon à savoir :
 
 - les canaux Etalab commencent par le préfixe `etalab_` ;
-- le canal 🔒[#domaine_opendata](https://startups-detat.slack.com/messages/C04QZ3S8H) nous concerne aussi ;
+- le canal `~domaine_opendata` nous concerne aussi ;
 - la commande `/trad` permet de traduire certains acronymes. Exemple `/trad DINSIC`.
 
-[Lire la documentation de beta.gouv sur Slack](https://github.com/betagouv/beta.gouv.fr/wiki/Slack)
+[Lire la documentation de beta.gouv sur Mattermost](https://doc.incubateur.net/communaute/travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/mattermost)
 
 ## Nos outils en bref
 
 - [GitHub](https://github.com/etalab), pour la collaboration sur le code ;
-- [Slack](https://startups-detat.slack.com), pour la communication interne ;
+- [Slack](https://mattermost.incubateur.net), pour la communication interne ;
 - [Trello](https://trello.com/etalab/home), pour le suivi de certains projets ;
 - [Crowdin](https://crowdin.com), pour la gestion des traductions (localisation)  ;
 
@@ -71,7 +71,6 @@ Pour le code source, nous utilisons GitHub, où nous avons plusieurs équipes :
 - [EIG](https://github.com/entrepreneur-interet-general) ;
 - [Open Data Team](https://github.com/opendatateam) ;
 - [Addok](https://github.com/addok) ;
-- [OpenFisca](https://github.com/openfisca) ; 
 - [Administrateur général des données (archive)](https://github.com/sgmap-agd).
 
 ### Licences pour les données et les codes sources
