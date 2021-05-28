@@ -4,6 +4,8 @@
 
 ## Ressources pour les développeurs
 
+**⚠️ Déprécié, à migrer vers le design system https://template.incubateur.net https://systeme-de-design.gouv.fr**
+
 - Le dépôt du [template](https://github.com/etalab/template.data.gouv.fr)
   - [doc.data.gouv.fr](https://doc.data.gouv.fr/)
   - [schema.data.gouv.fr](https://schema.data.gouv.fr/)
