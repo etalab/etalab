@@ -8,7 +8,6 @@ Les blogs à suivre :
 - le [blog de data.gouv.fr](https://www.data.gouv.fr/fr/posts/) ;
 - le [blog EIG](https://entrepreneur-interet-general.etalab.gouv.fr/blog.html) ;
 - le [blog Géo](https://blog.geo.data.gouv.fr) ;
-- le [blog OpenFisca](http://openfisca.org/en/news/).
 
 ## Réseaux sociaux
 
@@ -25,7 +24,6 @@ Les comptes Twitter associés aux univers d’Etalab :
 - [@adressedatagouv](https://twitter.com/adressedatagouv) ;
 - [@APIGouv](https://twitter.com/APIGouv) ;
 - [@eigforever](https://twitter.com/eigforever) ;
-- [@OpenFisca](https://twitter.com/OpenFisca).
 
 ### Facebook
 
@@ -56,8 +54,7 @@ Tout membre d’Etalab peut proposer un tweet posté depuis l’un des comptes d
 - [@datagouvfr](https://twitter.com/datagouvfr) : [équipe data.gouv](mailto:datagouv AT data.gouv.fr)
 - [@geodatagouv](https://twitter.com/geodatagouv) : Jérôme
 - [@adressedatagouv](https://twitter.com/adressedatagouv) : Jérôme
-- [@APIGouv](https://twitter.com/APIGouv) : Jérôme
-- [@OpenFisca](https://twitter.com/OpenFisca) : Mauko
+- [@APIGouv](https://twitter.com/APIGouv) : Xavier
 - [@eigforever](https://twitter.com/eigforever) : Sophie, puis validation par Soizic ou Mathilde
 
 ## Guide d’utilisateur pour le blog Etalab
