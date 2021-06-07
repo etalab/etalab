@@ -1,7 +1,7 @@
 # Tech talks
 
 Ateliers techniques internes à Etalab donnés par des membres d'Etalab
-et à destination de toute la DINSIC.
+et à destination de toute la DINUM.
 
 > **Initiation à Python pour l'analyse de données**<br/> par Pavel Soriano le 23 avril de 14h à 18h en salle 5.732.
 
