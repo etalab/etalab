@@ -7,8 +7,10 @@ Bienvenue au sein de l'équipe Etalab. Tu trouveras sur cette page les informati
 Pour obtenir le badge qui permet d’accéder au bâtiment du [20 avenue de Ségur](https://adresse.data.gouv.fr/map#18/48.8505/2.3083), voici la marche à suivre :
 
 1. Imprimer et remplir le [formulaire de demande de badge](https://raw.github.com/wiki/betagouv/beta.gouv.fr/files/formulaire.pdf) ;
-2. Faire valider le formulaire par le responsable hiérarchique ;
-3. Transmettre le formulaire au secrétariat.
+2. Faire valider le formulaire par le ou la responsable hiérarchique ;
+3. Transmettre le formulaire au [secrétariat](mailto:secretariat.etalab AT modernisation.gouv.fr).
+
+Si ton badge n'est pas prêt le jour de ton arrivée, présente-toi à l'accueil du bâtiment avec une pièce d'identité. Ton arrivée aura été annoncée et tu recevras un badge "visiteur" en échange d'une pièce d'identité. N'oublie pas de la récupérer en fin de journée.
 
 ## Obtenir une adresse e-mail
 
@@ -45,10 +47,10 @@ Bon à savoir :
 
 ## Nos outils en bref
 
-- [GitHub](https://github.com/etalab), pour la collaboration sur le code ;
-- [Slack](https://mattermost.incubateur.net), pour la communication interne ;
-- [Trello](https://trello.com/etalab/home), pour le suivi de certains projets ;
-- [Crowdin](https://crowdin.com), pour la gestion des traductions (localisation)  ;
+- [GitHub](https://github.com/etalab), pour la collaboration sur le code
+- [Mattermost](https://mattermost.incubateur.net), pour la communication interne
+- [Trello](https://trello.com/etalab/home), pour le suivi de certains projets
+- [Crowdin](https://crowdin.com), pour la gestion des traductions (localisation)
 
 ## Communication extérieure
 
@@ -91,15 +93,13 @@ Etalab publie et tient à jour plusieurs calendriers :
 
 ### Découvrir la DINUM
 
-La DINUM est la Direction interministérielle du numérique. Etalab est un des départements de la DINUM.
+La DINUM est la direction interministérielle du numérique. Etalab est un des départements de la DINUM.
 
-- [Site de la DINUM](https://www.numerique.gouv.fr/) ;
-- [beta.gouv](https://beta.gouv.fr/), site de l’incubateur de services numériques ;
-- [Wiki de la DINUM](https://dinsic.xwiki.com/), pour l’intranet.
+- [Site de la DINUM](https://www.numerique.gouv.fr/)
+- [beta.gouv](https://beta.gouv.fr/), site de l’incubateur de services numériques
+- [Wiki de la DINUM](https://dinsic.xwiki.com/), pour l’intranet
 
-### Les guides publiés au sein des thématiques
+### Les guides publiés par thématiques
 
-Le programme EIG tient à jour plusieurs guides :
+Les équipes d'Etalab tiennent à jour [plusieurs guides sur l'ouverture, l'exploitation et la circulation des données, sur la transparence des algorithmes publics et sur l'ouverture des codes sources](https://guides.etalab.gouv.fr/accueil.html)
 
-- [un guide de l’ouverture des codes sources](https://github.com/entrepreneur-interet-general/eig-link/blob/master/opensource.org) et une [FAQ](https://github.com/entrepreneur-interet-general/eig-link/blob/master/opensource-faq.org) sur le sujet ;
-- [un guide pour la préparation du programme EIG](https://github.com/entrepreneur-interet-general/eig-link/blob/master/accueil-eig.org) à destination des mentors des administrations.
