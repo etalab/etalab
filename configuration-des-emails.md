@@ -1,6 +1,6 @@
 # Configurer les e-mails, les calendriers et les contacts
 
-Cette page comment accéder et utiliser la messagerie d’Etalab pour envoyer et recevoir des e-mails depuis un ordinateur et un mobile.
+Cette page explique comment accéder à et utiliser la messagerie d’Etalab pour envoyer et recevoir des e-mails depuis un ordinateur et un mobile.
 
 ## Accéder aux e-mails par des protocoles ouverts
 
@@ -16,7 +16,7 @@ Ce paragraphe décrit comment afficher le calendrier d’un collaborateur, ou de
 
 En premier lieu, il faut l’accord de votre collaborateur et que celui-ci vous autorise l’accès à son calendrier.
 
-##### Définir les des droits aux calendriers
+##### Définir les droits aux calendriers
 
 Actions à réaliser par votre collaborateur sur son compte Sogo :
 
@@ -49,7 +49,7 @@ Action à réaliser par vous même sur votre compte Sogo :
 
 1. Se rendre sur le webmail : <https://webmail.data.gouv.fr> ;
 2. Aller dans l’onglet `Agenda` ;
-3. Dans la section agenda, cliquez sur la 3ème icone (S’inscrire à un agenda…) ;
+3. Dans la section agenda, cliquez sur la 3ème icône (S’inscrire à un agenda…) ;
 4. Une fenêtre s’ouvre et on renseigne dans le champs, `équipe` ;
 5. On clique sur le `+` en face du nom et on sélectionne `Personnal Calendar` ;
 6. On clique sur `Ajouter`, c’est terminé.
@@ -61,10 +61,10 @@ suivre les instructions ci-après.
 
 ### Configurer l’accès avec Thunderbird sur ordinateur
 
-Pour les clients de messagerie de type Tshunderbird, la configuration des
+Pour les clients de messagerie de type Thunderbird, la configuration des
 paramètres de comptes est automatique.
 
-Les champs toutefois nécessaire de renseigner sont les suivants:
+Les champs qu'il faut renseigner sont les suivants:
 
 - la description du compte ;
 - l’adresse e-mail ainsi que ;
@@ -136,7 +136,7 @@ Ensuite on s’assure que le protocole SSL est activé :
 
 Cette section de la page explique comment configurer l’accès aux calendriers et aux contacts.
 
-### Configurer l’accès avec ThunderBird
+### Configurer l’accès avec Thunderbird
 
 Pour activer les fonctionnalités de calendrier et de contacts avec
 Thunderbird, il faut installer le plugin SOGO conntector disponible ici
