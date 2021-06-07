@@ -10,7 +10,7 @@
 - [Nos rituels](nos-rituels.md)
 - [Communication d'Etalab](communication.md)
 - [Règles typographiques](typographie.md)
-- [Tech talks internes à la DINSIC](tech-talks.md)
+- [Tech talks internes à la DINUM](tech-talks.md)
 - [Liste des évènements passés](evenements.md)
 
 ## Ressources
