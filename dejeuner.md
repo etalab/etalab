@@ -27,7 +27,7 @@ Vous pouvez accéder et payer à la cantine à l’aide de votre badge d’accè
 
 ### Recharger son badge
 
-Vous trouverez des bornes de rechargement au rez-de-chaussée du bâtiment, près de la cafétéria et à l’entrée de la cantine.
+Vous trouverez des bornes de rechargement au rez-de-chaussée du bâtiment, près de la cafétéria et à l’entrée de la cantine. Vous pouvez également recharger votre badge à la cafétéria.
 
 Elior propose de [recharger en ligne](https://timechef.elior.com) son badge. Le nom du site est Ségur Fontenoy, 75007. Sur ce site web sont également indiqués les menus, votre historique de dépense, l’affluence prévue et en temps réel.
 
