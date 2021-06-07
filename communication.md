@@ -7,7 +7,7 @@ Les blogs à suivre :
 - le [blog d’Etalab](http://etalab.gouv.fr/) ;
 - le [blog de data.gouv.fr](https://www.data.gouv.fr/fr/posts/) ;
 - le [blog EIG](https://entrepreneur-interet-general.etalab.gouv.fr/blog.html) ;
-- le [blog Géo](https://blog.geo.data.gouv.fr) ;
+- le [blog Géo](https://blog.geo.data.gouv.fr).
 
 ## Réseaux sociaux
 
@@ -27,17 +27,17 @@ Les comptes Twitter associés aux univers d’Etalab :
 
 ### Facebook
 
-La [page Facebook d’Etalab](https://www.facebook.com/etalab/).
+La [page Facebook d’Etalab](https://www.facebook.com/etalab/) existe, mais n'est pas active.
 
 # Contribuer à notre communication
 
 ## Proposer un article sur le site
 
-Tout membre d’Etalab peut disposer d’un compte pour proposer un article.
+Le site Etalab est mis à jour sur WordPress. Tout membre d’Etalab peut disposer d’un compte WordPress pour proposer un article.
 
 Si vous n’avez pas de compte, vous pouvez en demander un à [Jean-Baptiste Le Dévéhat](mailto:jean-baptiste.le-devehat AT data.gouv.fr).
 
-Toute proposition d’article doit être relue par [l'équipe du blog](mailto:wordpress AT etalab.gouv.fr) avant d’être validée par Laure Lucchesi qui, selon les cas, la soumettra en relecture au service communication de la DINSIC.
+Toute proposition d’article doit être relue par [l'équipe du blog](mailto:wordpress AT etalab.gouv.fr) avant d’être validée par Laure Lucchesi qui, selon les cas, la soumettra en relecture au service communication de la DINUM.
 
 ## Modifier un contenu stable du site
 
