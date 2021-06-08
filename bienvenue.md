@@ -91,14 +91,6 @@ Etalab publie et tient à jour plusieurs calendriers :
 - le programme EIG publie [son calendrier d’accompagnement](https://cloud.eig-forever.org/index.php/apps/calendar/p/5S4DP594PDIVTARU/EIG2018) et un [calendrier d’événements](https://cloud.eig-forever.org/index.php/apps/calendar/p/C1YPGSGZ1JZPVDDU/EIG2018-Open) qui peuvent intéresser les EIG ;
 - Etalab publie son [calendrier OpenGov](https://openagenda.com/opengov?oaq%5Bpassed%5D=1&oaq%5Border%5D=latest).
 
-### Découvrir la DINUM
-
-La DINUM est la direction interministérielle du numérique. Etalab est un des départements de la DINUM.
-
-- [Site de la DINUM](https://www.numerique.gouv.fr/)
-- [beta.gouv](https://beta.gouv.fr/), site de l’incubateur de services numériques
-- [Wiki de la DINUM](https://dinsic.xwiki.com/), pour l’intranet
-
 ### Les guides publiés par thématiques
 
 Les équipes d'Etalab tiennent à jour [plusieurs guides sur l'ouverture, l'exploitation et la circulation des données, sur la transparence des algorithmes publics et sur l'ouverture des codes sources](https://guides.etalab.gouv.fr/accueil.html)
