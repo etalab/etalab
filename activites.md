@@ -1,6 +1,6 @@
 # Activités
 
-Cette page propose un survol des activités d’Etalab.
+Cette page propose un survol des activités d’Etalab et introduit la direction interministérielle du numérique, dont il fait partie.
 
 ## Plateforme data.gouv.fr
 
@@ -36,3 +36,12 @@ Etalab met en oeuvre le programme [Entrepreneurs d’intérêt général](https:
 Etalab accompagne les administrations pour la [publication de certains algorithmes](algorithmes-publics.md) et de l’ensemble de ses codes sources.
 
 La mission Etalab propose une liste de [logiciels libres](logiciels-libres.md) qu’elle développe, maintient et met à disposition des autres administrations.
+
+## Découvrir la DINUM
+
+Etalab est un département de la direction interministérielle du numérique (DINUM). Les équipes échangent souvent avec d'autres départements, notamment celui de beta.gouv.
+
+- [Site de la DINUM](https://www.numerique.gouv.fr/)
+- [beta.gouv](https://beta.gouv.fr/), site de l’incubateur de services numériques
+- [Wiki de la DINUM](https://dinsic.xwiki.com/), pour l’intranet
+
