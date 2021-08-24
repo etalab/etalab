@@ -85,7 +85,7 @@ Etalab publie la [licence ouverte
 Le site data.gouv.fr héberge une page contenant la [liste des licences
 utilisables](https://www.data.gouv.fr/fr/licences) par les administrations pour leurs données et codes sources.
 
-### Calendriers publics
+<!-- ### Calendriers publics
 
 Etalab publie et tient à jour plusieurs calendriers :
 
