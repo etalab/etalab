@@ -33,7 +33,7 @@ Pour obtenir une adresse se terminant par `@data.gouv.fr`, il faut se renseigner
 
 ## Créer un compte Mattermost
 
-Nous utilisons le service de messagerie instantanée Mattermost pour communiquer en interne : https://mattermost.incubateur.net. Ce compte Slack est partagé entre Etalab et l’[incubateur de services numériques](https://beta.gouv.fr/) et différentes administrations.
+Nous utilisons le service de messagerie instantanée Mattermost pour communiquer en interne : https://mattermost.incubateur.net. Ce service Mattermost est maintenu par l’[incubateur de services numériques](https://beta.gouv.fr/) et utilisé par Etalab.
 
 Pour être valide, l’inscription sur Mattermost doit être faite avec une adresse de travail se terminant par `@modernisation.gouv`, `@data.gouv.fr` ou `@etalab.club`.
 
@@ -41,7 +41,6 @@ Bon à savoir :
 
 - les canaux Etalab commencent par le préfixe `etalab_` ;
 - le canal `~domaine_opendata` nous concerne aussi ;
-- la commande `/trad` permet de traduire certains acronymes. Exemple `/trad DINSIC`.
 
 [Lire la documentation de beta.gouv sur Mattermost](https://doc.incubateur.net/communaute/travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/mattermost)
 
@@ -51,6 +50,9 @@ Bon à savoir :
 - [Mattermost](https://mattermost.incubateur.net), pour la communication interne
 - [Trello](https://trello.com/etalab/home), pour le suivi de certains projets
 - [Crowdin](https://crowdin.com), pour la gestion des traductions (localisation)
+- [Resana](https://resana.numerique.gouv.fr/) pour le partage de documents
+- [Osmose](https://osmose.numerique.gouv.fr/) pour le partage de documents
+- [Webinaire](https://webinaire.numerique.gouv.fr/) pour les visio conférences
 
 ## Communication extérieure
 
@@ -97,7 +99,6 @@ La DINUM est la direction interministérielle du numérique. Etalab est un des d
 
 - [Site de la DINUM](https://www.numerique.gouv.fr/)
 - [beta.gouv](https://beta.gouv.fr/), site de l’incubateur de services numériques
-- [Wiki de la DINUM](https://dinsic.xwiki.com/), pour l’intranet
 
 ### Les guides publiés par thématiques
 
