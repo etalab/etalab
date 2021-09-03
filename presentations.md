@@ -1,6 +1,7 @@
 # Présentations
 
 Diaporamas présentés par des membres d’Etalab lors d’ateliers ou de conférences en public.
+Sauf mention contraire, toutes les présentations dans cette page sont sous licence [etalab-2.0](https://www.etalab.gouv.fr/wp-content/uploads/2017/04/ETALAB-Licence-Ouverte-v2.0.pdf).
 
 ## 2021
 > **Open Data policy and implementation in France**<br/>
