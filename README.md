@@ -11,13 +11,10 @@ C'est un document ouvert et collaboratif. S'il manque des informations, n'hésit
 - [Nos rituels](nos-rituels.md)
 - [Nos bureaux](nos-bureaux.md)
 - [Où déjeuner ?](dejeuner.md)
-
 - [Tech talks internes à la DINUM](tech-talks.md)
 - [Liste des évènements passés](evenements.md)
-
 - [Communication d'Etalab](communication.md)
 - [Règles typographiques](typographie.md)
-
 - [Configuration de la messagerie d’Etalab](configuration-des-emails.md)
 - [Guide des déplacements](guide-des-deplacements.md)
 
