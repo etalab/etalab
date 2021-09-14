@@ -4,6 +4,10 @@ Diaporamas présentés par des membres d’Etalab lors d’ateliers ou de confé
 Sauf mention contraire, toutes les présentations dans cette page sont sous licence [etalab-2.0](https://www.etalab.gouv.fr/wp-content/uploads/2017/04/ETALAB-Licence-Ouverte-v2.0.pdf).
 
 ## 2021
+> **L'Opne Data en France**<br/>
+> [Datarama #6](http://neoblogs.lecolededesign.com/datarama/) - Nantes Digital Week <br/>
+[Version PDF](https://etalab.github.io/etalab/diaporamas/2021-09-17-etalab-datarama-nantes.pdf) | Par [Mario Restuccia](https://github.com/restuccia)
+
 > **Open Data policy and implementation in France**<br/>
 > Stakeholders meeting of the [data.norge.no](https://data.norge.no) Norwegian Open Data portal, managed by the [Norwegian Digitalisation Agency](https://www.digdir.no/) — 21 avril 2021<br />[Version PDF](https://etalab.github.io/etalab/diaporamas/2021-04-21-norwegian-digitalisation-agency.pdf) | Par [Mario Restuccia](https://github.com/restuccia)
 
