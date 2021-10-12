@@ -4,12 +4,17 @@ Diaporamas présentés par des membres d’Etalab lors d’ateliers ou de confé
 Sauf mention contraire, toutes les présentations dans cette page sont sous licence [etalab-2.0](https://www.etalab.gouv.fr/wp-content/uploads/2017/04/ETALAB-Licence-Ouverte-v2.0.pdf).
 
 ## 2021
+
+> **La gouvernance de l'open data en France métropolitaine**<br/>
+> Datalab - Polynesian Factory - 13 octobre 2021 <br/>
+[Version PDF](https://etalab.github.io/etalab/diaporamas/2021-10-13-datalab-polynesie.pdf) | Par [Mario Restuccia](https://github.com/restuccia)
+
 > **L'Open Data en France**<br/>
-> [Datarama #6](http://neoblogs.lecolededesign.com/datarama/) - Nantes Digital Week <br/>
+> [Datarama #6](http://neoblogs.lecolededesign.com/datarama/) - Nantes Digital Week - 17 septembre 2021<br/>
 [Version PDF](https://etalab.github.io/etalab/diaporamas/2021-09-17-etalab-datarama-nantes.pdf) | Par [Mario Restuccia](https://github.com/restuccia)
 
 > **Le Service public de la donnée en France**<br/>
-> [Sommet canadien des données ouvertes](https://www.sommetcanadiendesdonneesouvertes.ca/) <br/>
+> [Sommet canadien des données ouvertes](https://www.sommetcanadiendesdonneesouvertes.ca/) - 15 septembre 2021 <br/>
 [Version PDF](https://etalab.github.io/etalab/diaporamas/2021-09-15-sommet-canadien-donnees-ouvertes-donnees-reference.pdf) | Par [Mario Restuccia](https://github.com/restuccia) et [Antonin Garrone](https://github.com/agarrone)
 
 > **Open Data policy and implementation in France**<br/>
