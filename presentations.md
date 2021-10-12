@@ -6,8 +6,8 @@ Sauf mention contraire, toutes les présentations dans cette page sont sous lice
 ## 2021
 
 > **La gouvernance de l'open data en France métropolitaine**<br/>
-> Datalab - Polynesian Factory - 13 octobre 2021 <br/>
-[Version PDF](https://etalab.github.io/etalab/diaporamas/2021-10-13-datalab-polynesie.pdf) | Par [Mario Restuccia](https://github.com/restuccia)
+> Datalab - Polynesian Factory - 12 octobre 2021 <br/>
+[Version PDF](https://etalab.github.io/etalab/diaporamas/2021-10-12-datalab-polynesie.pdf) | Par [Mario Restuccia](https://github.com/restuccia)
 
 > **L'Open Data en France**<br/>
 > [Datarama #6](http://neoblogs.lecolededesign.com/datarama/) - Nantes Digital Week - 17 septembre 2021<br/>
