@@ -26,6 +26,12 @@ Les logiciels listés sur cette page sont ceux qu’Etalab maintient activement 
 
 [Addok](https://github.com/addok/addok) est un moteur de géocodage développé par Etalab pour le projet de Base adresse nationale. Il est disponible en API web sur la plateforme [adresse.data.gouv.fr](https://adresse.data.gouv.fr/tools).
 
+## Outils du pôle logiciels libres
+
+Le pôle logiciels libres d'Etalab publie une partie de ses
+développements sur la forge SourceHut : voir [la liste complète des
+dépôts](https://git.sr.ht/~etalab/).
+
 ## Outils d’exposition (API) de données publiques
 
 Le site de référence pour vous informer sur ces données est [entreprise.api.gouv.fr](https://entreprise.api.gouv.fr).
