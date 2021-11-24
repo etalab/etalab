@@ -5,6 +5,10 @@ Sauf mention contraire, toutes les présentations dans cette page sont sous lice
 
 ## 2021
 
+> **Accompagner les territoires dans leur démarche d'ouverture des données**<br/>
+> [Mois de l'innovation publique](https://www.modernisation.gouv.fr/mois-de-linnovation-publique/open-data-accompagner-les-territoires-dans-leur-demarche-douverture) - 24 novembre 2021<br/>
+[Version PDF](https://etalab.github.io/etalab/diaporamas/2021-11-24-open-data-territoires.pdf) | Par [Mario Restuccia](https://github.com/restuccia), [Geoffrey Aldebert](https://github.com/geoffreyaldebert/), Jean-Marie Bourgogne ([OpenDataFrance](https://www.opendatafrance.net/)), Éric Legale ([Issy Média](https://issymedia.fr/))
+
 > **La gouvernance de l'open data en France métropolitaine**<br/>
 > Datalab - Polynesian Factory - 12 octobre 2021 <br/>
 [Version PDF](https://etalab.github.io/etalab/diaporamas/2021-10-12-datalab-polynesie.pdf) | Par [Mario Restuccia](https://github.com/restuccia)
