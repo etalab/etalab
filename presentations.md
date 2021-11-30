@@ -5,6 +5,10 @@ Sauf mention contraire, toutes les présentations dans cette page sont sous lice
 
 ## 2021
 
+> **L'Open Data en France**<br/>
+> Présentation pour l'[agence du digital du Maroc](http://www.egov.ma/fr) - 30 novembre 2021<br/>
+[Version PDF](https://etalab.github.io/etalab/diaporamas/2021-11-30-agence-digitale-maroc.pdf) | Par [Mario Restuccia](https://github.com/restuccia), [Antonin Garrone](https://github.com/agarrone) et [Estelle Maudet](https://github.com/maudetes)
+
 > **Accompagner les territoires dans leur démarche d'ouverture des données**<br/>
 > [Mois de l'innovation publique](https://www.modernisation.gouv.fr/mois-de-linnovation-publique/open-data-accompagner-les-territoires-dans-leur-demarche-douverture) - 24 novembre 2021<br/>
 [Version PDF](https://etalab.github.io/etalab/diaporamas/2021-11-24-open-data-territoires.pdf) | Par [Mario Restuccia](https://github.com/restuccia), [Geoffrey Aldebert](https://github.com/geoffreyaldebert/), Jean-Marie Bourgogne ([OpenDataFrance](https://www.opendatafrance.net/)), Éric Legale ([Issy Média](https://issymedia.fr/))
