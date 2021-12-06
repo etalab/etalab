@@ -5,6 +5,9 @@ Sauf mention contraire, toutes les présentations dans cette page sont sous lice
 
 ## 2021
 
+> **L'Open Data dans le cadre des défis EIG5 (Entrepreneurs d'Intérêt Général)**<br/>
+> Présentation pour la [promotion 5 des Entrepreneurs d'Intérêt Général](https://eig.etalab.gouv.fr) - 1 décembre 2021 <br/> [Version PDF](https://etalab.github.io/etalab/diaporamas/2021_12_01_Presentation_Open_Data_EIG5.pdf)| Par [Julieta Barado] (https://github.com/julietabarado) et [Mario Restuccia](https://github.com/restuccia).
+
 > **L'Open Data en France**<br/>
 > Présentation pour l'[agence du digital du Maroc](http://www.egov.ma/fr) - 30 novembre 2021<br/>
 [Version PDF](https://etalab.github.io/etalab/diaporamas/2021-11-30-agence-digitale-maroc.pdf) | Par [Mario Restuccia](https://github.com/restuccia), [Antonin Garrone](https://github.com/agarrone) et [Estelle Maudet](https://github.com/maudetes)
