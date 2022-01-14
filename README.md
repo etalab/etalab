@@ -10,6 +10,7 @@ C'est un document ouvert et collaboratif. S'il manque des informations, n'hésit
 - [Nos activités](activites.md)
 - [Nos rituels](nos-rituels.md)
 - [Nos bureaux](nos-bureaux.md)
+- [Les services](services.md)
 - [Où déjeuner ?](dejeuner.md)
 - [Tech talks internes à la DINUM](tech-talks.md)
 - [Liste des évènements passés](evenements.md)
