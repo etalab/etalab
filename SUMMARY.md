@@ -119,7 +119,7 @@
       * [Ribbon theme for Shower](diaporamas/slides-sciencespo\_files/shower-ribbon/package/README.md)
         * [LICENSE](diaporamas/slides-sciencespo\_files/shower-ribbon/package/LICENSE.md)
 
-## 💡 Qu'est-ce qu'Etalab ?
+## 💡 Qu'est-ce-qu'Etalab ?
 
 * [Etalab et la DINUM](quest-ce-quetalab/etalab-et-la-dinum.md)
 * [Nos missions](quest-ce-quetalab/nos-missions.md)
@@ -141,12 +141,20 @@
   * [Se former](travailler-chez-etalab/guide-de-survie-administrative/se-former.md)
 * [Où déjeuner](travailler-chez-etalab/ou-dejeuner.md)
 * [Nos outils](travailler-chez-etalab/nos-outils/README.md)
-  * [Page 1](travailler-chez-etalab/nos-outils/page-1.md)
+  * [Mattermost - Messagerie de la communauté](travailler-chez-etalab/nos-outils/mattermost-messagerie-de-la-communaute.md)
+  * [Audio/visio](travailler-chez-etalab/nos-outils/audio-visio.md)
+  * [Zammad - gestion des tickets de support](travailler-chez-etalab/nos-outils/zammad-gestion-des-tickets-de-support.md)
+  * [Pad - prise de note](travailler-chez-etalab/nos-outils/pad-prise-de-note.md)
+  * [Matomo - analytics](travailler-chez-etalab/nos-outils/matomo-analytics.md)
+  * [Resana - espaces collaboratifs](travailler-chez-etalab/nos-outils/resana-espaces-collaboratifs.md)
+  * [Webmail et calendrier](travailler-chez-etalab/nos-outils/webmail-et-calendrier.md)
+  * [Osmose](travailler-chez-etalab/nos-outils/osmose.md)
+  * [Logiciels libres](travailler-chez-etalab/nos-outils/logiciels-libres.md)
 
 ## 🎤 Evénements et présentations externes
 
-* [Page 3](evenements-et-presentations-externes/page-3.md)
+* [Sélections de diaporamas](evenements-et-presentations-externes/selections-de-diaporamas.md)
 
 ## ✍ Communication et édito
 
-* [Page 4](communication-et-edito/page-4.md)
+* [Nos canaux de communications](communication-et-edito/nos-canaux-de-communications.md)
