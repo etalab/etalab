@@ -1,0 +1,24 @@
+# Nos rituels
+
+
+
+**Pour l’équipe Etalab**
+
+1. La réunion d’équipe Etalab : les mardi à 11 h 30 dans le grand open-space ou a distance sur [webinaire.gouv.fr](http://webinaire.gouv.fr) ;
+2. Le petit comité : mardi à 10 h 30 dans bureau de Laure (réunion réservée aux responsables de pôle).
+
+**Pour l’équipe** [**data.gouv.fr**](https://www.data.gouv.fr/fr/)
+
+Réunion hebdomadaire [data.gouv.fr](http://data.gouv.fr) le lundi à 14 h 00.
+
+**Pour l’équipe EIG**
+
+Deux rendez-vous :
+
+1. Le stand-up hebdomadaire, le mardi de 14h30 à 15h ;
+2. Les sessions d’accompagnement des EIG 2 fois par mois. [Voir le programme d’accompagnement](https://github.com/entrepreneur-interet-general/eig-link/blob/master/accompagnement.md).
+
+**À la DINUM**
+
+* Le stand-up de l’incubateur, tous les mercredi à 12 h 00.
+* Les DINUM talk qui présente une action de la DINUM.
