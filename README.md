@@ -10,10 +10,8 @@ Cet espace a été conçu pour toi. Tu peux utiliser la _**barre de recherche**_
 
 Toute la documentation d'Etalab n'es pas publique.
 
-Pour édité ce guide c'est par ici:
-
 {% embed url="https://app.gitbook.com/o/w6D6SnLwCXQaMMSzcTvp/s/c3N3DD6hY1nzzkLmWW5L" %}
-Cette espace est synchonisé avec le repo etalab/etalab-intern
+Espace de documentation interne synchronisé avec le repo etalab/etalab-intern
 {% endembed %}
 
 ### Edité ce guide
@@ -21,6 +19,8 @@ Cette espace est synchonisé avec le repo etalab/etalab-intern
 Pour édité ce guide tu peux apporté dirèctement des modification aux Markdown sur le repo [etalab/etalab](https://github.com/etalab/etalab) ou tu peux accédé à l'éditeur GitBook ici: &#x20;
 
 {% embed url="https://app.gitbook.com/o/w6D6SnLwCXQaMMSzcTvp/s/Yg2K9MmDJO5GdDaq9N63" %}
+Espace de documentation publique syncronisé avec le repo etalab/etalab
+{% endembed %}
 {% endtab %}
 
 {% tab title="Tu n'es pas (encore) membre d’Etalab" %}
