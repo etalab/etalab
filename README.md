@@ -16,7 +16,7 @@ Espace de documentation interne synchronisé avec le repo etalab/etalab-intern
 
 ### Edité ce guide
 
-Pour édité ce guide tu peux apporté dirèctement des modification aux Markdown sur le repo [etalab/etalab](https://github.com/etalab/etalab) ou tu peux accédé à l'éditeur GitBook ici: &#x20;
+Pour édité ce guide tu peux apporté dirèctement des modification aux fichiers `.md` sur le repo [etalab/etalab](https://github.com/etalab/etalab) ou tu peux accédé à l'éditeur GitBook ici: &#x20;
 
 {% embed url="https://app.gitbook.com/o/w6D6SnLwCXQaMMSzcTvp/s/Yg2K9MmDJO5GdDaq9N63" %}
 Espace de documentation publique syncronisé avec le repo etalab/etalab
