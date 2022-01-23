@@ -14,7 +14,7 @@ Toute la documentation d'Etalab n'est pas publique.
 Espace de documentation interne synchronisé avec le dépôt etalab/etalab-intern
 {% endembed %}
 
-### Edité ce guide
+### Editer ce guide
 
 Pour éditer ce guide tu peux apporter directement des modifications aux fichiers .md sur le dépôt [etalab/etalab](https://github.com/etalab/etalab) ou accéder à l'éditeur GitBook ici:&#x20;
 
