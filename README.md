@@ -8,7 +8,7 @@ Cet espace a été conçu pour toi. Tu peux utiliser la _**barre de recherche**_
 
 ### La documentation interne
 
-Toute la documentation d'Etalab n'es pas publique.
+Toute la documentation d'Etalab n'est pas publique.
 
 {% embed url="https://app.gitbook.com/o/w6D6SnLwCXQaMMSzcTvp/s/c3N3DD6hY1nzzkLmWW5L" %}
 Espace de documentation interne synchronisé avec le repo etalab/etalab-intern
@@ -16,7 +16,7 @@ Espace de documentation interne synchronisé avec le repo etalab/etalab-intern
 
 ### Edité ce guide
 
-Pour édité ce guide tu peux apporté dirèctement des modification aux fichiers `.md` sur le repo [etalab/etalab](https://github.com/etalab/etalab) ou tu peux accédé à l'éditeur GitBook ici: &#x20;
+Pour édité ce guide tu peux apporté directement des modifications aux fichiers .md sur le repo [etalab/etalab](https://github.com/etalab/etalab) ou tu peux accédé à l'éditeur GitBook ici:&#x20;
 
 {% embed url="https://app.gitbook.com/o/w6D6SnLwCXQaMMSzcTvp/s/Yg2K9MmDJO5GdDaq9N63" %}
 Espace de documentation publique syncronisé avec le repo etalab/etalab
