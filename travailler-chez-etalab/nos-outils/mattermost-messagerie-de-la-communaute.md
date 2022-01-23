@@ -1,7 +1,15 @@
 # Mattermost - Messagerie de la communauté
 
-## Comment ça marche ?
+## Créer un compte Mattermost
 
-Mattermost est un outil de collaboration partagé par des incubateurs et des startups d'Etat. Il permet de communiquer avec 2 niveaux d'échanges : échanges via message privés et échanges dans des espaces de travail (encore appelés "teams") au sein desquels peuvent être créés des canaux de discussion.
+Nous utilisons le service de messagerie instantanée Mattermost pour communiquer en interne : https://mattermost.incubateur.net. Ce service Mattermost est maintenu par l’[incubateur de services numériques](https://beta.gouv.fr) et utilisé par Etalab.
 
-[Voir la documentation](https://doc.incubateur.net/communaute/travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/mattermost).
+Pour être valide, l’inscription sur Mattermost doit être faite avec une adresse de travail se terminant par `@modernisation.gouv`, `@data.gouv.fr` ou `@etalab.club`.
+
+Bon à savoir :
+
+* les canaux Etalab commencent par le préfixe `etalab_` ;
+* le canal `~domaine_opendata` nous concerne aussi ;
+
+[Lire la documentation de beta.gouv sur Mattermost](https://doc.incubateur.net/communaute/travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/mattermost)
+

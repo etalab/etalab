@@ -12,6 +12,7 @@
 
 * [Nos rituels](travailler-chez-etalab/nos-rituels.md)
 * [Nos bureaux](travailler-chez-etalab/nos-bureaux.md)
+* [Où déjeuner](travailler-chez-etalab/ou-dejeuner.md)
 * [Guide de survie administrative](travailler-chez-etalab/guide-de-survie-administrative/README.md)
   * [Poser des congés](travailler-chez-etalab/guide-de-survie-administrative/poser-des-conges.md)
   * [Tomber malade](travailler-chez-etalab/guide-de-survie-administrative/tomber-malade.md)
@@ -22,7 +23,6 @@
   * [Contracter une préstation](travailler-chez-etalab/guide-de-survie-administrative/contracter-une-prestation.md)
   * [Commander du matériel](travailler-chez-etalab/guide-de-survie-administrative/commander-du-materiel.md)
   * [Se former](travailler-chez-etalab/guide-de-survie-administrative/se-former.md)
-* [Où déjeuner](travailler-chez-etalab/ou-dejeuner.md)
 * [Nos outils](travailler-chez-etalab/nos-outils/README.md)
   * [Mattermost - Messagerie de la communauté](travailler-chez-etalab/nos-outils/mattermost-messagerie-de-la-communaute.md)
   * [Audio/visio](travailler-chez-etalab/nos-outils/audio-visio.md)
@@ -37,7 +37,7 @@
 ## 🎤 Evénements et présentations externes
 
 * [Sélections de diaporamas](evenements-et-presentations-externes/selections-de-diaporamas.md)
-* [diaporamas](evenements-et-presentations-externes/diaporamas/README.md)
+* [Diaporamas](evenements-et-presentations-externes/diaporamas/README.md)
   * [La Politique de la donnée](evenements-et-presentations-externes/diaporamas/slides-afd.md)
   * [La Politique de la donnée](evenements-et-presentations-externes/diaporamas/slides-asn.md)
   * [Une brève introduction à la visualisation de données](evenements-et-presentations-externes/diaporamas/slides-courdescomptes.md)
