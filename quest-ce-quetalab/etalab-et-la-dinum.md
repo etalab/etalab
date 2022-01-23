@@ -1,4 +1,4 @@
-# Etalab et la DINUM
+# ℹ Etalab et la DINUM
 
 Etalab est un département de la direction interministérielle du numérique de l’État ([**DINUM**](https://numerique.gouv.fr)). Le département coordonne et promeut l’action de l’État et des organismes placés sous sa tutelle en matière d’inventaire, de gouvernance, de production, de circulation, d’exploitation et d’ouverture des données, et notamment des codes sources.
 

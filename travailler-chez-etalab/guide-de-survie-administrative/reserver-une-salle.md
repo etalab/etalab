@@ -1,8 +1,8 @@
 # Réserver une salle
 
-
-
-Les réservations de salles de réunion ne peuvent se faire que par les agents de la DINUM.
+{% hint style="info" %}
+Seul les agents DINUM peuvent sont habilités à réserver des salles.&#x20;
+{% endhint %}
 
 Faire la demande au CAS (Centre d’Appel et de Suivi) :
 

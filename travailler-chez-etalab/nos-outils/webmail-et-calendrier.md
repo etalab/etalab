@@ -1,7 +1,5 @@
 # Webmail et calendrier
 
-## &#x20;<a href="#configurer-les-e-mails-les-calendriers-et-les-contacts" id="configurer-les-e-mails-les-calendriers-et-les-contacts"></a>
-
 ## Obtenir une adresse e-mail
 
 Les agents contractuels peuvent disposer de deux adresses e-mail :
@@ -11,7 +9,7 @@ Les agents contractuels peuvent disposer de deux adresses e-mail :
 
 Les prestataires peuvent demander une adresse e-mail en `@data.gouv.fr`.
 
-### E-mail en @modernisation.gouv.fr
+### #E-mail en @modernisation.gouv.fr
 
 Pour obtenir une adresse se terminant par `@modernisation.gouv.fr`, il faut se renseigner auprès du service informatique en appelant le 01 53 18 80 00.
 
