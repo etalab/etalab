@@ -1,5 +1,26 @@
 # Webmail et calendrier
 
+## &#x20;<a href="#configurer-les-e-mails-les-calendriers-et-les-contacts" id="configurer-les-e-mails-les-calendriers-et-les-contacts"></a>
+
+## Obtenir une adresse e-mail
+
+Les agents contractuels peuvent disposer de deux adresses e-mail :
+
+1. Une adresse `@modernisation.gouv.fr` : `prenom.nom@modernisation.gouv.fr` gérée par le service informatique ;
+2. Une adresse `@data.gouv.fr` : `prenom.nom@data.gouv.fr` gérée par l'équipe.
+
+Les prestataires peuvent demander une adresse e-mail en `@data.gouv.fr`.
+
+### E-mail en @modernisation.gouv.fr
+
+Pour obtenir une adresse se terminant par `@modernisation.gouv.fr`, il faut se renseigner auprès du service informatique en appelant le 01 53 18 80 00.
+
+Le mail modernisation.gouv.fr peut être consulté depuis le réseau Bercy ou depuis le webmail [Melissa](https://www.melissa.finances.gouv.fr/dana-na/auth/url\_8/welcome.cgi)
+
+### E-mail en @data.gouv.fr
+
+Pour obtenir une adresse se terminant par `@data.gouv.fr`, il faut se renseigner auprès de l’équipe Etalab. Les e-mails reçus sur une adres
+
 ## Configurer les e-mails, les calendriers et les contacts <a href="#configurer-les-e-mails-les-calendriers-et-les-contacts" id="configurer-les-e-mails-les-calendriers-et-les-contacts"></a>
 
 Cette page explique comment accéder à et utiliser la messagerie d’Etalab pour envoyer et recevoir des e-mails depuis un ordinateur et un mobile.
