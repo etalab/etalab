@@ -1,6 +1,8 @@
 # Contribuer à notre communication
 
-##
+{% hint style="info" %}
+Pour avoir les accès, se référer à la [documentation privé](https://app.gitbook.com/s/c3N3DD6hY1nzzkLmWW5L/acces-communications).&#x20;
+{% endhint %}
 
 ### Proposer un article sur le site
 
