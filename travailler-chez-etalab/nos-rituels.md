@@ -14,6 +14,10 @@
 * Le stand-up hebdomadaire, le mardi de 14h30 à 15h ;
 * Les sessions d’accompagnement des EIG 2 fois par mois. [Voir le programme d’accompagnement](https://github.com/entrepreneur-interet-general/eig-link/blob/master/accompagnement.md).
 
+## ** Pour  le Lab IA**
+
+* Réunion hebdo le mardi matin à 10h30
+
 ## **À la DINUM**
 
 * Le stand-up de l’incubateur, tous les mercredi à 12 h 00 ;
