@@ -1,3 +1,7 @@
+---
+description: Un outil de messagerie pour échanger en interne.
+---
+
 # Mattermost - Messagerie de la communauté
 
 ## Créer un compte Mattermost
@@ -12,4 +16,3 @@ Bon à savoir :
 * le canal `~domaine_opendata` nous concerne aussi ;
 
 [Lire la documentation de beta.gouv sur Mattermost](https://doc.incubateur.net/communaute/travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/mattermost)
-

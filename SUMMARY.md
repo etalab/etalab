@@ -20,7 +20,7 @@
   * [Imprimer un document](travailler-chez-etalab/guide-de-survie-administrative/imprimer-un-document.md)
   * [Trouver ses fiches de paie](travailler-chez-etalab/guide-de-survie-administrative/trouver-ses-fiches-de-paie.md)
   * [Réserver une salle](travailler-chez-etalab/guide-de-survie-administrative/reserver-une-salle.md)
-  * [Contracter une préstation](travailler-chez-etalab/guide-de-survie-administrative/contracter-une-prestation.md)
+  * [Contracter une prestation](travailler-chez-etalab/guide-de-survie-administrative/contracter-une-prestation.md)
   * [Commander du matériel](travailler-chez-etalab/guide-de-survie-administrative/commander-du-materiel.md)
   * [Se former](travailler-chez-etalab/guide-de-survie-administrative/se-former.md)
 * [🛠 Nos outils](travailler-chez-etalab/nos-outils/README.md)
