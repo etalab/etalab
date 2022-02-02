@@ -1,6 +1,6 @@
 # 👋 Bienvenue
 
-Bienvenue au sein de l'équipe Etalab. Tu trouveras sur cet espace les informations nécessaires à ton arrivée. C'est un document ouvert et collaboratif. N'hésite pas à proposer des améliorations !
+Bienvenue au sein de l'équipe Etalab. Tu trouveras dans cet espace les informations nécessaires à ton arrivée. C'est un document ouvert et collaboratif. N'hésite pas à proposer des améliorations !
 
 {% tabs %}
 {% tab title="Tu es membre d’Etalab" %}
