@@ -43,4 +43,4 @@ To take part in Ribbon development please read [contributing guidelines](../../.
 
 ***
 
-Licensed under [MIT License](license.md).
+Licensed under [MIT License](../../../slides-asn\_files/shower-ribbon/package/license.md).

@@ -139,4 +139,4 @@
           * [LICENSE](presentations-et-communication/selections-de-diaporamas/diaporamas/slides-sciencespo\_files/shower-ribbon/package/license.md)
 * [📣 Nos canaux de communications](presentations-et-communication/nos-canaux-de-communications.md)
 * [💬 Contribuer à notre communication](presentations-et-communication/contribuer-a-notre-communication.md)
-* [LICENCE OUVERTE 2.0/OPEN LICENCE 2.0](presentations-et-communication/licence.md)
+* [LICENCE OUVERTE 2.0/OPEN LICENCE 2.0](communication-et-edito/licence.md)
