@@ -2,7 +2,7 @@
 
 Bienvenue au sein de l'équipe Etalab. Tu trouveras dans cet espace les informations nécessaires à ton arrivée. C'est un document ouvert et collaboratif. N'hésite pas à proposer des améliorations !
 
-Mettre du contenu directement. Mettre un [lien](travailler-chez-etalab/nos-rituels.md#a-la-dinum).
+
 
 {% tabs %}
 {% tab title="Tu es membre d’Etalab" %}
