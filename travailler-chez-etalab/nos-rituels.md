@@ -11,8 +11,8 @@
 
 ## **Pour l’équipe EIG**
 
-* Le stand-up hebdomadaire, le mardi de 14h30 à 15h ;
-* Les sessions d’accompagnement des EIG 2 fois par mois. [Voir le programme d’accompagnement](https://github.com/entrepreneur-interet-general/eig-link/blob/master/accompagnement.md).
+* La réunion d'équipe le lundi à 14h15
+* Les sessions d’accompagnement des EIG&#x20;
 
 ## Pour le Lab IA
 
