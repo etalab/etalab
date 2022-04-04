@@ -11,7 +11,7 @@
 
 ## **Pour l’équipe EIG**
 
-* La réunion d'équipe le lundi à 14h15
+* La réunion hebdo le lundi à 14h15
 * Les sessions d’accompagnement des EIG&#x20;
 
 ## Pour le Lab IA
