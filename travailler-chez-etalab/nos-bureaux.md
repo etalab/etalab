@@ -13,11 +13,11 @@ Le bâtiment est ouvert :
 
 ### **Adresse physique**
 
-Mission Etalab — DINSIC Direction interministérielle du numérique et du système d’information et de communication de l’État 20 avenue de Ségur 75007 PARIS
+Mission Etalab — DINUM Direction interministérielle du numérique 20 avenue de Ségur 75007 PARIS
 
 ### **Adresse postale**
 
-Mission Etalab — DINSIC Direction interministérielle du numérique et du système d’information et de communication de l’État TSA 30719 75334 PARIS CEDEX O7
+Mission Etalab — DINUM Direction interministérielle du numérique TSA 30719 75334 PARIS CEDEX O7
 
 ## Accéder au bâtiment
 
