@@ -38,10 +38,8 @@ Etalab contribue ainsi à ouvrir l’administration et l’action publique sur l
 
 Etalab a par ailleurs conçu, lancé et développé le programme [**“Entrepreneurs d’Intérêt Général”,**](https://entrepreneur-interet-general.etalab.gouv.fr) qui recrute chaque année pendant 10 mois des talents du numérique – développeurs, datascientists, designers…. – pour résoudre des défis d’intérêt général aux cotés des administrations.
 
-[**voir le site du programme Entrepreneurs d’Intérêt Général**](https://entrepreneur-interet-general.etalab.gouv.fr/index.html)
+[**Voir le site du programme Entrepreneurs d’Intérêt Général**](https://entrepreneur-interet-general.etalab.gouv.fr/index.html).
 
-## Accélérateur d'initiatives citoyennes
-
-## Droit et société
-
-## api.gouv.fr
+## Accélérateur d'initiatives citoyennes (TBD)
+## Droit et société (TBD)
+## api.gouv.fr (TBD)
