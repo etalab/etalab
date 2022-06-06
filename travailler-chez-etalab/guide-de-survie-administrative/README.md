@@ -1,2 +1,0 @@
-# 🧭 Guide de survie administrative
-
