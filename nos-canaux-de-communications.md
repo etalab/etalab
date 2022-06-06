@@ -32,15 +32,11 @@ Les blogs à suivre:
 
 La [page Facebook d’Etalab](https://www.facebook.com/etalab/) existe, mais n’est pas active.
 
-* **La gazette #BlueHats**\
-  ****La gazette du logiciel libre dans et pour l'administration\
-  [Inscription](https://infolettres.etalab.gouv.fr/subscribe/bluehats@mail.etalab.studio)
-* **Entrepreneurs d'intérêt général**\
-  ****Liste d'information sur le programme Entrepreneurs d'intérêt général\
-  [Inscription](https://infolettres.etalab.gouv.fr/subscribe/entrepreneur-interet-general@mail.etalab.studio)
-* **Lab Intelligence Artificielle d'Etalab (Lab IA)**\
-  ****Liste d'information sur le programme Lab IA\
-  [Inscription](https://infolettres.etalab.gouv.fr/subscribe/lab-ia@mail.etalab.studio)
-* **Infolettre** [**data.gouv.fr**](http://data.gouv.fr)****\
-  ****Liste d'information de [data.gouv.fr](http://data.gouv.fr)\
-  [Inscription](https://infolettres.etalab.gouv.fr/subscribe/rn7y93le1)
+* La gazette #BlueHats\
+  La gazette du logiciel libre dans et pour l'administration - [Inscription](https://infolettres.etalab.gouv.fr/subscribe/bluehats@mail.etalab.studio)
+* Entrepreneurs d'intérêt général\
+  Liste d'information sur le programme Entrepreneurs d'intérêt général - [Inscription](https://infolettres.etalab.gouv.fr/subscribe/entrepreneur-interet-general@mail.etalab.studio)
+* Lab Intelligence Artificielle d'Etalab (Lab IA)\
+  Liste d'information sur le programme Lab IA - [Inscription](https://infolettres.etalab.gouv.fr/subscribe/lab-ia@mail.etalab.studio)
+* Infolettre [data.gouv.fr](http://data.gouv.fr)\
+  Liste d'information de [data.gouv.fr](http://data.gouv.fr) - [Inscription](https://infolettres.etalab.gouv.fr/subscribe/rn7y93le1)
