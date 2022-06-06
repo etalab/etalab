@@ -8,6 +8,6 @@ Etalab accompagne également les administrations dans l’ouverture et l’usage
 
 Enfin, Etalab contribue à ouvrir l’administration et l’action publique sur la société, en mettant en œuvre les principes de « gouvernement ouvert » : transparence de l’action publique, consultation et concertation avec la société civile, participation citoyenne, innovation ouverte.
 
-#### Qu’est ce que la DINUM
+#### Qu’est ce que la DINUM ?
 
 La direction interministérielle du numérique (DINUM) est en charge de la transformation numérique de l’État au bénéfice du citoyen comme de l’agent, sous tous ses aspects : modernisation du système d’information de l’État, qualité des services publics numériques, création de services innovants pour les citoyens, outils numériques de travail collaboratif pour les agents.
