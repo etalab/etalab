@@ -10,7 +10,7 @@ Il coordonne le [Service Public de la Donnée](https://www.data.gouv.fr/fr/refer
 
 Etalab contribue également à faciliter la **circulation et l’échange de données entre administrations**, notamment dans le cadre de la [mise en oeuvre du principe du “_Dites le nous une fois”,_](https://www.numerique.gouv.fr/produits-services/guichet-dites-le-nous-une-fois/) ou avec des tiers (_voir notre_ [_offre de service_](https://www.numerique.gouv.fr/produits-services/guichet-dites-le-nous-une-fois/)).
 
-## **Exploitation des données : datasciences, intelligence artificielle et algorithmes publics**
+## Exploitation des données : datasciences, intelligence artificielle et algorithmes publics
 
 Pour la DINUM, Etalab coordonne et promeut l’action de l’Etat et des organismes placés sous sa tutelle en matière d’inventaire, de gouvernance, de production, de circulation, d’exploitation et d’ouverture des données, et notamment des codes [sources.Il](http://sources.il) organise, dans le respect de la protection des données personnelles et des secrets protégés par la loi, la meilleure exploitation des données de l’Etat et des organismes placés sous sa tutelle et leur plus large circulation. La DINUM peut être saisie par une personne morale de droit public de toute question portant sur cette circulation.
 
@@ -19,6 +19,16 @@ Etalab contribue à la promotion des sciences des données (“datasciences”) 
 Etalab accompagne également les administrations dans [l’ouverture et l’usage responsable des algorithmes publics.](https://www.etalab.gouv.fr/algorithmes-publics)
 
 ## Logiciels libres & communs numériques
+
+Etalab a un pôle logiciels libres qui pilote le [plan d'action logiciels libres et communs numériques](https://communs.numerique.gouv.fr/plan-action-logiciels-libres-et-communs-numeriques/).
+
+Les informations de ce pôle sont publiées sur le site [communs.numerique.gouv.fr](https://communs.numerique.gouv.fr).
+
+Les produits principaux du pôle sont [code.gouv.fr](https://code.gouv.fr) et le [socle interministériel de logiciels libres](https://sill.etalab.gouv.fr/).  `code.gouv.fr` recense les codes sources publiés par des administrations publiques.  `sill.etalab.gouv.fr` recense la liste des logiciels libres recommandés pour le secteur public et déjà en cours d'utilisation dans l'administration.
+
+Voici une [présentation du pôle logiciels libres](https://speakerdeck.com/bluehats/dinum).
+
+Il y a d'autres ressources sur [le wiki du pôle logiciels libres](https://man.sr.ht/~etalab/logiciels-libres/).
 
 ## Entrepreneurs d’intérêt général
 
@@ -29,3 +39,9 @@ Etalab contribue ainsi à ouvrir l’administration et l’action publique sur l
 Etalab a par ailleurs conçu, lancé et développé le programme [**“Entrepreneurs d’Intérêt Général”,**](https://entrepreneur-interet-general.etalab.gouv.fr) qui recrute chaque année pendant 10 mois des talents du numérique – développeurs, datascientists, designers…. – pour résoudre des défis d’intérêt général aux cotés des administrations.
 
 [**voir le site du programme Entrepreneurs d’Intérêt Général**](https://entrepreneur-interet-general.etalab.gouv.fr/index.html)
+
+## Accélérateur d'initiatives citoyennes
+
+## Droit et société
+
+## api.gouv.fr

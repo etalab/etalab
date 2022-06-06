@@ -1,8 +1,6 @@
 # Réserver une salle
 
-{% hint style="info" %}
-Seul les agents DINUM peuvent sont habilités à réserver des salles.&#x20;
-{% endhint %}
+Seul les agents DINUM peuvent sont habilités à réserver des salles.
 
 Faire la demande au CAS (Centre d’Appel et de Suivi) :
 

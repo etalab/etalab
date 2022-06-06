@@ -1,16 +1,13 @@
 # 📣 Nos canaux de communications
 
-{% tabs %}
-{% tab title="Blogs" %}
-Les blogs à suivre :&#x20;
+Les blogs à suivre:
 
 * le [blog d’Etalab](http://etalab.gouv.fr) ;
 * le [blog de data.gouv.fr](https://www.data.gouv.fr/fr/posts/) ;
 * le [blog EIG](https://entrepreneur-interet-general.etalab.gouv.fr/blog.html) ;
 * le [blog Géo](https://blog.geo.data.gouv.fr).
-{% endtab %}
+* le [blog du pôle logiciels libres](https://communs.numerique.gouv.fr/actualites).
 
-{% tab title="Réseaux sociaux" %}
 **Twitter**
 
 * [@etalab](https://twitter.com/etalab) ;
@@ -23,6 +20,10 @@ Les blogs à suivre :&#x20;
 * [@eigforever](https://twitter.com/eigforever) ;
 * [@\_DINUM](https://twitter.com/\_DINUM).
 
+**Mastodon**
+
+* [@codegouvfr](https://mastodon.social/@CodeGouvFr) ;
+
 **LinkedIn**
 
 * [Page Etalab](https://fr.linkedin.com/company/etalab)
@@ -30,9 +31,7 @@ Les blogs à suivre :&#x20;
 **Facebook**
 
 La [page Facebook d’Etalab](https://www.facebook.com/etalab/) existe, mais n’est pas active.
-{% endtab %}
 
-{% tab title="Newsletters" %}
 * **La gazette #BlueHats**\
   ****La gazette du logiciel libre dans et pour l'administration\
   [Inscription](https://infolettres.etalab.gouv.fr/subscribe/bluehats@mail.etalab.studio)
@@ -45,7 +44,3 @@ La [page Facebook d’Etalab](https://www.facebook.com/etalab/) existe, mais n�
 * **Infolettre** [**data.gouv.fr**](http://data.gouv.fr)****\
   ****Liste d'information de [data.gouv.fr](http://data.gouv.fr)\
   [Inscription](https://infolettres.etalab.gouv.fr/subscribe/rn7y93le1)
-{% endtab %}
-{% endtabs %}
-
-****
