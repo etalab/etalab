@@ -1,4 +1,4 @@
-# Table of contents
+# Table des matières
 
 * [👋 Bienvenue](README.md)
 
@@ -126,6 +126,6 @@
       * [shower-ribbon](presentations-et-communication/selections-de-diaporamas/diaporamas/slides-sciencespo\_files/shower-ribbon/README.md)
         * [Ribbon theme for Shower](presentations-et-communication/selections-de-diaporamas/diaporamas/slides-sciencespo\_files/shower-ribbon/package/README.md)
           * [LICENSE](presentations-et-communication/selections-de-diaporamas/diaporamas/slides-sciencespo\_files/shower-ribbon/package/license.md)
-* [📣 Nos canaux de communications](presentations-et-communication/nos-canaux-de-communications.md)
-* [💬 Contribuer à notre communication](presentations-et-communication/contribuer-a-notre-communication.md)
+* [📣 Nos canaux de communications](nos-canaux-de-communications.md)
+* [💬 Contribuer à notre communication](contribuer-a-notre-communication.md)
 * [LICENCE OUVERTE 2.0/OPEN LICENCE 2.0](communication-et-edito/licence.md)

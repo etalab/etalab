@@ -1,2 +1,0 @@
-# slides-asn\_files
-
