@@ -13,7 +13,7 @@ Bienvenue au sein de l'équipe Etalab. Tu trouveras dans cet espace les informat
 
 ## Tu es membre d’Etalab
 
-Cet espace a été conçu pour toi.  Depuis [GitBook](https://app.gitbook.com/o/w6D6SnLwCXQaMMSzcTvp), tu peux utiliser la _**barre de recherche**_ en haut à droite de ton écran pour faciliter ta navigation. Si tu ne trouves pas la ressource que tu cherches, tu peux poser la question dans la _**chaîne \~etalab-privé**_ de [notre espace Mattermost](https://www.notion.so/communaute/travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/mattermost). Si tu repères une erreur, tu peux [la corriger et contribuer à ce guide](https://www.notion.so/communaute/travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/gitbook/comment-contribuer-a-cette-documentation).
+Cet espace a été conçu pour toi.  Depuis [GitBook](https://app.gitbook.com/o/w6D6SnLwCXQaMMSzcTvp), tu peux utiliser la _**barre de recherche**_ en haut à droite de ton écran pour faciliter ta navigation. Si tu ne trouves pas la ressource que tu cherches, tu peux poser la question dans la _**chaîne \~etalab-privé**_ de [notre espace Mattermost](https://doc.incubateur.net/communaute/travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/mattermost). Si tu repères une erreur, tu peux [la corriger et contribuer à ce guide](https://doc.incubateur.net/communaute/travailler-a-beta-gouv/jutilise-les-outils-de-la-communaute/gitbook/comment-contribuer-a-cette-documentation).
 
 ### La documentation interne
 
