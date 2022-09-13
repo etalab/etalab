@@ -6,7 +6,7 @@
 - Le [blog de data.gouv.fr](https://www.data.gouv.fr/fr/posts/)
 - Le [blog EIG](https://entrepreneur-interet-general.etalab.gouv.fr/blog.html)
 - Le [blog Géo](https://blog.geo.data.gouv.fr).
-- Le [blog du pôle logiciels libres](https://communs.numerique.gouv.fr/actualites).
+- Le [blog du pôle logiciels libres](https://communs.numerique.gouv.fr/blog).
 
 ## Comptes Twitter
 
