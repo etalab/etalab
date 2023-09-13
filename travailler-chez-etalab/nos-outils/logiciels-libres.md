@@ -8,7 +8,7 @@ description: >-
 
 ### udata
 
-[udata](https://getudata.org) est un logiciel libre permettant de mettre en place une plateforme de données. Il est utilisé pour la plateforme et publié sous licence libre.
+[udata](https://getudata.org/) est un logiciel libre permettant de mettre en place une plateforme de données. Il est utilisé pour la plateforme et publié sous licence libre.
 
 * Point de contact pour déployer votre instance : [udata@data.gouv.fr](mailto:udata@data.gouv.fr).
 * Discuter avec l’équipe : [Salon gitter.im](https://gitter.im/opendatateam/udata).
@@ -36,7 +36,7 @@ Le pôle logiciels libres d’Etalab publie une partie de ses développements su
 
 ### Outils d’exposition (API) de données publiques
 
-Le site de référence pour vous informer sur ces données est [entreprise.api.gouv.fr](https://entreprise.api.gouv.fr).
+Le site de référence pour vous informer sur ces données est [entreprise.api.gouv.fr](https://entreprise.api.gouv.fr/).
 
 Le point de contact pour obtenir de l’aide est [tech@entreprise.api.gouv.fr](mailto:tech@entreprise.api.gouv.fr).
 
@@ -69,35 +69,35 @@ Le point de contact pour obtenir de l’aide est [tech@entreprise.api.gouv.fr](m
 * [retweet](https://github.com/etalab/retweet) : bot twitter pour retweeter des tweets.
 * [pianoforte](https://github.com/tilery/pianoforte) : fonds de carte développé par le ministère des Affaires étrangères.
 * [choices](https://github.com/etalab/choices) : outil pour créer des sites web permettant de parcourir des arbres de décision.
-* [csv-gg](https://github.com/etalab/csv-gg) : outil pour créer des formulaires à partir des schémas de [schema.data.gouv.fr](https://schema.data.gouv.fr) et permettre aux utilisateurs de créer des lignes de CSV valides pour ces schémas.
+* [csv-gg](https://github.com/etalab/csv-gg) : outil pour créer des formulaires à partir des schémas de [schema.data.gouv.fr](https://schema.data.gouv.fr/) et permettre aux utilisateurs de créer des lignes de CSV valides pour ces schémas.
 * [piaf](https://github.com/etalab/piaf) : outil d’annotation pour créer des jeux de données de questions-réponses.
 
 ## Les logiciels libres utilisés par Etalab <a href="#les-logiciels-libres-utilises-par-etalab" id="les-logiciels-libres-utilises-par-etalab"></a>
 
 La mission Etalab utilise plusieurs logiciels libres :
 
-* [ansible](https://www.ansible.com) pour le déploiement de [data.gouv.fr](https://data.gouv.fr).
-* [cachet](https://cachethq.io) pour le suivi des services sur [status.etalab.studio](https://status.etalab.studio).
-* [codimd](https://demo.codimd.org) pour la prise de notes collaboratives.
+* [ansible](https://www.ansible.com/) pour le déploiement de [data.gouv.fr](https://data.gouv.fr/).
+* [cachet](https://cachethq.io/) pour le suivi des services sur [status.etalab.studio](https://status.etalab.studio/).
+* [codimd](https://demo.codimd.org/) pour la prise de notes collaboratives.
 * [demarches-simplifiees](https://github.com/betagouv/demarches-simplifiees.fr) pour les appels à projets.
-* [discourse](https://discourse.org) pour la gestion de [forum.etalab.gouv.fr](https://forum.etalab.gouv.fr).
+* [discourse](https://discourse.org/) pour la gestion de [forum.etalab.gouv.fr](https://forum.etalab.gouv.fr/).
 * [git-crypt](https://github.com/AGWA/git-crypt) pour le chiffrement sous Git.
-* [gitlab](https://about.gitlab.com) sur site pour les dépôts privés.
-* [jekyll](https://jekyllrb.com) pour le site [entrepreneur-interet-general.etalab.gouv.fr](https://entrepreneur-interet-general.etalab.gouv.fr).
-* [mastodon](https://joinmastodon.org) pour l’instance de réseau social [mastodon.etalab.gouv.fr](https://mastodon.etalab.gouv.fr).
-* [matomo](https://matomo.org) pour le suivi des visites web sur [stats.data.gouv.fr](https://stats.data.gouv.fr).
-* [mkdocs](https://www.mkdocs.org) pour la documentation de l’infrastructure [data.gouv.fr](https://data.gouv.fr).
-* [nextcloud](https://nextcloud.com) pour le partage de documents et de calendriers internes sur [nextcloud.data.gouv.fr](https://nextcloud.data.gouv.fr).
+* [gitlab](https://about.gitlab.com/) sur site pour les dépôts privés.
+* [jekyll](https://jekyllrb.com/) pour le site [entrepreneur-interet-general.etalab.gouv.fr](https://entrepreneur-interet-general.etalab.gouv.fr/).
+* [mastodon](https://joinmastodon.org/) pour l’instance de réseau social [mastodon.etalab.gouv.fr](https://mastodon.etalab.gouv.fr/).
+* [matomo](https://matomo.org/) pour le suivi des visites web sur [stats.data.gouv.fr](https://stats.data.gouv.fr/).
+* [mkdocs](https://www.mkdocs.org/) pour la documentation de l’infrastructure [data.gouv.fr](https://data.gouv.fr/).
+* [nextcloud](https://nextcloud.com/) pour le partage de documents et de calendriers internes sur [nextcloud.data.gouv.fr](https://nextcloud.data.gouv.fr/).
 * [opensondage](https://forum.yunohost.org/t/official-app-opensondage/4348) pour [https://yunohost.etalab.studio/date/](https://yunohost.etalab.studio/date/).
-* [postfix.admin](http://postfixadmin.sourceforge.net) pour la gestion des mails.
-* [proxmox](https://www.proxmox.com) pour gérer des machines virtuelles.
-* [sentry](https://sentry.io) pour le suivi d’erreurs sur les services déployés.
-* [shiny-server](https://www.rstudio.com/products/shiny/shiny-server) pour déployer des applications en R comme [taxehabitation.etalab.studio](http://taxehabitation.etalab.studio).
-* [sogo](https://sogo.nu) pour l’accès web aux mails de `@data.gouv.fr`.
-* [udata](https://getudata.org) pour la plateforme [data.gouv.fr](https://www.data.gouv.fr).
-* [wordpress](https://fr.wordpress.org) pour le site [etalab.gouv.fr](https://www.etalab.gouv.fr).
-* [yunohost](https://yunohost.org) pour [https://listes.etalab.gouv.fr](https://listes.etalab.gouv.fr).
-* [zammad](https://zammad.org) pour le site [support.etalab.gouv.fr](https://support.etalab.gouv.fr).
+* [postfix.admin](http://postfixadmin.sourceforge.net/) pour la gestion des mails.
+* [proxmox](https://www.proxmox.com/) pour gérer des machines virtuelles.
+* [sentry](https://sentry.io/) pour le suivi d’erreurs sur les services déployés.
+* [shiny-server](https://www.rstudio.com/products/shiny/shiny-server) pour déployer des applications en R comme [taxehabitation.etalab.studio](http://taxehabitation.etalab.studio/).
+* [sogo](https://sogo.nu/) pour l’accès web aux mails de `@data.gouv.fr`.
+* [udata](https://getudata.org/) pour la plateforme [data.gouv.fr](https://www.data.gouv.fr/).
+* [wordpress](https://fr.wordpress.org/) pour le site [etalab.gouv.fr](https://www.etalab.gouv.fr/).
+* [yunohost](https://yunohost.org/) pour [https://listes.etalab.gouv.fr](https://listes.etalab.gouv.fr/).
+* [zammad](https://zammad.org/) pour le site [support.etalab.gouv.fr](https://support.etalab.gouv.fr/).
 
 ## Canal de discussion et contact <a href="#canal-de-discussion-et-contact" id="canal-de-discussion-et-contact"></a>
 

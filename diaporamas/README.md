@@ -2,7 +2,7 @@
 description: "Diaporamas présentés par des membres d’Etalab lors d’ateliers ou de conférences en public. Sauf mention contraire, toutes les présentations dans cette page sont sous licence\_etalab-2.0."
 ---
 
-# 🖥 Sélections de diaporamas
+# Sélections de diaporamas
 
 ### **2021**
 
@@ -21,4 +21,3 @@ description: "Diaporamas présentés par des membres d’Etalab lors d’atelier
 > Open Data policy and implementation in FranceStakeholders meeting of the [data.norge.no](http://data.norge.no) Norwegian Open Data portal, managed by the Norwegian Digitalisation Agency — 21 avril 2021Version PDF | Par Mario Restuccia
 
 > Opening COVID-19 vaccines data in FranceTailored Support Workshop du Portail Européen de Données — 18 février 2021Version PDF | Par Mario Restuccia
-

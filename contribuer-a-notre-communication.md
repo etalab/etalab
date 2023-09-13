@@ -1,6 +1,6 @@
 # 💬 Contribuer à notre communication
 
-Pour avoir les accès, se référer à la [documentation privé](https://app.gitbook.com/s/c3N3DD6hY1nzzkLmWW5L/acces-communications).
+Pour avoir les accès, se référer à la [documentation privé](http://127.0.0.1:5000/s/c3N3DD6hY1nzzkLmWW5L/acces-communications).
 
 ### Proposer un article sur le site
 
@@ -27,7 +27,7 @@ Tout membre d’Etalab peut proposer un tweet posté depuis l’un des comptes d
 * [@APIGouv](https://twitter.com/APIGouv) : Xavier
 * [@codegouvfr (Twitter)](https://twitter.com/codegouvfr) : Agathe
 * [@codegouvfr (Mastodon)](https://mastodon.social/@CodeGouvFr) : Bastien
-* [@eigforever](https://twitter.com/eigforever) :&#x20;
+* [@eigforever](https://twitter.com/eigforever) :
 
 ### Guide d’utilisateur pour le blog Etalab
 

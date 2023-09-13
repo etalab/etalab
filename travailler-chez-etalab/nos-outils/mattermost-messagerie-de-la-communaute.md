@@ -6,7 +6,7 @@ description: Un outil de messagerie pour échanger en interne.
 
 ## Créer un compte Mattermost
 
-Nous utilisons le service de messagerie instantanée Mattermost pour communiquer en interne : https://mattermost.incubateur.net. Ce service Mattermost est maintenu par l’[incubateur de services numériques](https://beta.gouv.fr) et utilisé par Etalab.
+Nous utilisons le service de messagerie instantanée Mattermost pour communiquer en interne : **https://mattermost.incubateur.net**. Ce service Mattermost est maintenu par l’[incubateur de services numériques](https://beta.gouv.fr/) et utilisé par Etalab.
 
 Pour être valide, l’inscription sur Mattermost doit être faite avec une adresse de travail se terminant par `@modernisation.gouv`, `@data.gouv.fr` ou `@etalab.club`.
 

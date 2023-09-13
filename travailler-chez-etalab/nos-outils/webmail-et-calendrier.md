@@ -29,7 +29,7 @@ Cette page explique comment accéder à et utiliser la messagerie d’Etalab pou
 
 Le webmail est un site internet accessible par tous les utilisateurs authentifiés, pour consulter ses e-mails à distance. Le protocole utilisé est en https, donc sécurisé.
 
-Muni de vos identifiants, vous pouvez accéder au webmail par l’intermédiaire de l’adresse : [https://webmail.data.gouv.fr](https://webmail.data.gouv.fr).
+Muni de vos identifiants, vous pouvez accéder au webmail par l’intermédiaire de l’adresse : [https://webmail.data.gouv.fr](https://webmail.data.gouv.fr/).
 
 **S’abonner au calendrier d’un collaborateur**
 
@@ -41,7 +41,7 @@ En premier lieu, il faut l’accord de votre collaborateur et que celui-ci vous 
 
 Actions à réaliser par votre collaborateur sur son compte Sogo :
 
-1. Se rendre sur le webmail : [https://webmail.data.gouv.fr](https://webmail.data.gouv.fr) ;
+1. Se rendre sur le webmail : [https://webmail.data.gouv.fr](https://webmail.data.gouv.fr/) ;
 2. Aller dans l’onglet `Agenda` ;
 3. Dans la section agenda, faite un clique droit sur votre `agenda personnel` puis `Partage..` ;
 4. Une fenêtre s’ouvre, puis on clique sur `Ajouter` ;
@@ -57,7 +57,7 @@ En second temps, vous devez ajouter son calendrier à votre compte.
 
 Action à réaliser par vous même sur votre compte Sogo :
 
-1. Se rendre sur le webmail : [https://webmail.data.gouv.fr](https://webmail.data.gouv.fr)
+1. Se rendre sur le webmail : [https://webmail.data.gouv.fr](https://webmail.data.gouv.fr/)
 2. Aller dans l’onglet `Agenda`
 3. Dans la section agenda, cliquez sur la 3ème icone (S’inscrire à un agenda.. )
 4. Une fenêtre s’ouvre et on renseigne dans le champs, le nom ou l’email du collaborateur.
@@ -68,7 +68,7 @@ Action à réaliser par vous même sur votre compte Sogo :
 
 Action à réaliser par vous même sur votre compte Sogo :
 
-1. Se rendre sur le webmail : [https://webmail.data.gouv.fr](https://webmail.data.gouv.fr) ;
+1. Se rendre sur le webmail : [https://webmail.data.gouv.fr](https://webmail.data.gouv.fr/) ;
 2. Aller dans l’onglet `Agenda` ;
 3. Dans la section agenda, cliquez sur la 3ème icône (S’inscrire à un agenda…) ;
 4. Une fenêtre s’ouvre et on renseigne dans le champs, `équipe` ;
@@ -194,7 +194,7 @@ L’outil est téléchargeable depuis googleplay ou F-droid :
 * [https://f-droid.org/repository/browse?fdfilter=davdroid\&fdid=at.bitfire.davdroid](https://f-droid.org/repository/browse?fdfilter=davdroid\&fdid=at.bitfire.davdroid)
 * [https://play.google.com/store/apps/details?id=at.bitfire.davdroid\&hl=fr](https://play.google.com/store/apps/details?id=at.bitfire.davdroid\&hl=fr)
 
-On lance Davdroid puis on clique sur l’icone de la clé avec un `+`, on selectionne DAVdroid et on renseigne comme il suit : [webmail.data.gouv.fr/SOGo/dav](https://%20webmail.data.gouv.fr/SOGo/dav)
+On lance Davdroid puis on clique sur l’icone de la clé avec un `+`, on selectionne DAVdroid et on renseigne comme il suit : [webmail.data.gouv.fr/SOGo/dav](broken-reference)
 
 ```
 Utilisateur : felix.defrance@data.gouv.fr (Ajustez à votre mail)
@@ -259,7 +259,7 @@ Description: Félix Defrance Etalab
 
 Pour configurer un message d’absence prolongée sur sa boîte mail @data.gouv.fr, voici la procédure :
 
-* Se rendre sur le [webmail](https://webmail.data.gouv.fr)
+* Se rendre sur le [webmail](https://webmail.data.gouv.fr/)
 * Aller dans l’onglet “Préférences” du menu principal
 * Aller dans l’onglet “Absence prolongée” dans le menu des préférences
 

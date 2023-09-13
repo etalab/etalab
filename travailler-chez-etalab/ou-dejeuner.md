@@ -1,4 +1,4 @@
-# 🍽 Où déjeuner
+# Où déjeuner
 
 ## **Cantine**
 
@@ -11,7 +11,7 @@ La cantine est exploitée par Elior. Les tarifs sont les suivants, sur la base d
 La grille au 1er juillet 2023 est la suivante :
 
 | Tranche tarifaire | Rémunération mensuelle nette | Tarif du forfait |
-|-------------------|------------------------------|------------------|
+| ----------------- | ---------------------------- | ---------------- |
 | 1                 | 537 € à 2 200 €              | 2,60 €           |
 | 2                 | 2 201 € à 3 000 €            | 3,20 €           |
 | 3                 | 3 001 € à 4 000 €            | 3,80 €           |
@@ -20,7 +20,7 @@ La grille au 1er juillet 2023 est la suivante :
 | 6                 | Prestataire                  | 9,35 €           |
 | 7                 | Visiteur                     | 14,10 €          |
 
-Pour les **personnes extérieures**, le forfait repas comprend 1 plat, 2 _périphériques_, 1 pain et 1 boisson pour 13,08 €. &#x20;
+Pour les **personnes extérieures**, le forfait repas comprend 1 plat, 2 _périphériques_, 1 pain et 1 boisson pour 13,08 €.
 
 ### **Accès à la cantine**
 
